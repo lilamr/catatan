@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gee/bab 1 pengenalan js.md",
+                "file": "co_firing/biaya.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gee/bab 1 pengenalan js.md",
+                "file": "co_firing/biaya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gee/bab 1 pengenalan js.md",
+                "file": "co_firing/biaya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gee/bab 1 pengenalan js.md"
+                "file": "co_firing/biaya.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "3debae10d3fc1c84",
   "lastOpenFiles": [
+    "gee/bab 1 pengenalan js.md",
     "geonode/document.md",
     "geonode/instal.md",
     "geonodeDISLHK/industrialisasi/rinbar emas hijau.md",
@@ -196,7 +197,6 @@
     "sejarah_kawasan/rtk 25.md",
     "sejarah_kawasan/rtk 80.md",
     "sejarah_kawasan/rtk 83.md",
-    "sejarah_kawasan/rtk 81.md",
     "00 markdown",
     "sejarah_kawasan/attachment",
     "sejarah_kawasan",

@@ -1,5 +1,5 @@
 INSTALL GIT:  
-`sudo apt update  
+`sudo apt update`
 `sudo apt install git  
 `git --version  
   

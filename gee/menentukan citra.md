@@ -1,0 +1,1 @@
+citra dapat berupa image atau imagecollection

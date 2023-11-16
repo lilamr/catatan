@@ -1,0 +1,9 @@
+Layer adalah Komponen utama GeoNode. Layer adalah sumber daya publikasi yang mewakili sumber data spasial baik berbentuk data raster atau data vektor. Layer juga dapat diasosiasikan dengan metadata, penilaian, dan komentar. Dengan mengklik link Layer, kita akan mendapatkan daftar nama layer yang dipublikasikan.
+
+Pada sistem WebGIS yang dibangun dengan GeoNode terdapat sejumlah layer yang dikelompokkan menurut kategori tertentu. Adapun kategori pengelompokan layer-layer yang ada pada sistem meliputi: Climatology, Meteorology, Atmosphere, Elevation, Environment, Farming, Location, Oceans. Layer-layer tersebut mengandung data dan informasi spasial hasil pemanfaatan penginderaan jauh yang dioperasikan oleh Pusfatja LAPAN. Beberapa layer berisi hasil ekstraksi informasi dari citra satelit penginderaan jauh yang sudah dikenal luas pemanfaatannya oleh masyarakat antara lain: informasi Fase Pertumbuhan Padi dan informasi Zone Potensi Penangkapan Ikan. Berikut ini contoh tampilan layer.
+
+Salah satu komponen utama dari GeoNode adalah Lapisan (Layer). Layer-layer ini berisi data-data yang merepresentasikan data spasial yang berupa data vektor dan data raster. Layer juga bisa berhubungan dengan metadata, rating, dan komentar. Pada bagian ini akan dijelaskan secara ringkas membuat layer baru dengan cara mengunggah (uploading) data spasial.
+
+Berikut langkah ringkas mengunggah sebuah layer pada aplikasi GeoNode :
+1. Masuk/Sign in ke akun GeoNode kita dengan mengisikan username dan password kita.
+2. Masuk ke menu Layer, klik Upload Layers lalu pilih file yang akan diunggah/upload. Untuk data vektor minimal 4 ekstensi file (.shp, .prj, .dbf, .shx). Untuk data raster ekstensinya .tiff. Setelah itu klik Upload files. Tunggu hingga proses selesai.

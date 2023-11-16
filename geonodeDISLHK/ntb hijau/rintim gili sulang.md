@@ -1,0 +1,33 @@
+Gili Sulang dan Lawang merupakan dua buah pulau kecil yang dilewati Garis Wallace berada di sebelah timur bagian utara Pulau Lombok, berbatasan laut dengan Selat Alas yang memisahkan Pulau Lombok dengan Pulau Sumbawa. Secara administratif Gili Sulang dan Lawang masuk dalam wilayah  Desa Sambelia, Kecamatan Sambelia, Kabupaten Lombok Timur berjarak ± 85km dari Kota Mataram. Gili Sulang dan Lawang termasuk Kawasan Konservasi Laut Daerah ( KKLD ) berdasarkan SK Bupati No. 188.45/452/KP/2004 dimana kawasan ini diharapkan bisa menjadi daerah perlindungan laut dan wisata bahari.
+
+Potensi alam yang dimiliki kedua gili ini berupa pantai dengan hamparan pasir putihnya yang bersih, hutan mangrove, padang lamun, terumbu karang dan ikan dari berbagai jenis. Gili Sulang dan Lawang memiliki luas 5.807 hektar yang terdiri dari daratan dan perairan dimana hampir seluruh areanya daratanya ditutupi vegetasi mangrove. Jenis-jenis mangrove yang terdapat di Gili Sulang dan Gili Lawang meliputi Rhizophora Apiculata, Rhizophora Stylosa, Rhizophora Mucronata, Bruguiera Gemnorrhyza, Sonneratia Alba, Ceriops Tagal, Luminitzera Recemosa dan Avicenia Marina.
+
+Bapak Alimin adalah seorang penyelamat lingkungan dan ekosistem mangrove yang merupakan ketua Pokdarwis Gili Sulang Desa Sugian, kecamatan Sambelia Kabupaten Lombok Timur yang lahir pada 10 Desember Tahun 1990. Kiprah beliau diawali melalui kawasan konservasi Gili Sulang dan Gili Lawang yang banyak melakukan edukasi terhadap masyarakat, juga berperan aktif dalam menjaga kawasan konservasi perairan juga kawasan hutan lindung Gili Sulang dan Gili Lawang. Dimulai sebagai relawan yang perduli lingkungan yang banyak terlibat dan melakukan aktivitas sosial dengan melakukan penghijuan bersama para pencinta lingkungan.
+
+Keseharian masyarakat pesisir di wilayah tersebut jauh dari kesadaran untuk menjaga dan melestarikan lingkungan, bahkan aktifitas keseharian mereka cenderung pada makin parahnya kerusakan lingkungan dan ekosistem. 
+
+Kesadaran beliau terhadap perubahan lingkungan yang terus memburuk menumbuhkan kesadaran bahwa harus ada perubahan yang lebih baik. Pola pikir itulah yang kemudian membawa beliau untuk melakukan hal dalam bidangnya yakni dengan melakukan penghijauan pada wilayah mangrove dan lingkungan lainnya.
+
+![[Pasted image 20231107082440.png]]
+
+Terbentuknya Pokdarwis (Kelompok Sadar Wisata) ini merupakan salah satu cara untuk merangkul masyarakat, kelompok-kelompok tertentu untuk memulai melakukan tindakan yang dianggap penting dalam perlindungan dan perbaikan lingkungan dan ekosistem. Dukungan akademisi, pemerintah dan pihak lain terus muncul seiring dengan aktifitas positif yang dilakukan oleh kelompok tersebut.
+
+Aktivitas yang dilakukannya, berusaha mengembalikan fungsi hutan sebagaimana mestinya. Selanjutnya membangun ruang terbuka hijau dengan cara melakukan penanaman pohon serta mengajak masyarakat untuk ikut berpartisipasi mendukung kawasan ruang terbuka hijau yang diharapkan membawa perubahan pada kondisi iklim yang lebih baik, serta ekosistem yang stabil.
+
+Seiring dengan kegiatan yang dilakukan oleh kelompok, kemudian memunculkan kesadaran masyarakat untuk turut aktif dalam memelihara dan menjaga ekosistem mangrove menjadi lebih baik.
+
+Pada November 2021, PLN Unit Induk Penyaluran dan Pengatur Beban (UP3B) Mataram menanam 10.000 bibit mangrove di kawasan Gili Petagan, Sambelia, Lombok Timur. Dalam upayanya untuk merawat dan memantau perkembangan dari bibit mangrove ini, PLN UP3B Mataram berkolaborasi dengan Kelompok Masyarakat Pengawas Petrando. Setelah melakukan penanaman mangrove, maka selanjutnya akan masuk dalam tahap perawatan yakni pemantauan pertumbuhan mangrove. Proses ini merupakan penentu keberhasilan program penanaman yang sudah dilakukan.
+
+![[Pasted image 20231107084219.png]]
+
+Kegiatan penanaman mangrove akan dikatakan berhasil apabila mangrove tumbuh subur yang ditunjukkan daun-daun yang tampak hijau segar dan oleh adanya pertumbuhan pucuk daun baru, dan sebaliknya. “Kami terus melakukan perawatan bibit mangrove yang telah ditanam oleh PLN. Hasil dari pemantauan kami, bibit mangrove yang ditanam sudah mulai bertunas dan berdaun. Ini menunjukan bahwa mangrove berkembang dengan baik di Gili Petagan”.
+
+Perabasan terhadap tanaman pengganggu yang tumbuh di area mangrove secara berkala juga terus dilakukan oleh Kelompok Masyarakat Pengawas Petrando. Hal ini dikarenakan akan muncul beberapa tanaman pengganggu setelah aktivitas penanaman. Selain itu, pihaknya juga melakukan pemeriksaan terhadap kondisi mangrove, untuk mengetahui apakah mangrove masih hidup, kondisi baik, buruk atau sudah mati. Pemantauan terhadap perkembangan mangrove yang telah ditanam oleh PLN harus dilakukan untuk memastikan program tersebut berhasil dan memberikan manfaat yang besar bagi masyarakat di Sambelia, Lombok Timur.
+
+Berbagai elemen, stakeholders dan pihak-pihak tertentu mulai gencar melakukan kegiatan rehabilitasi dan pengelolaan mangrove. Upaya tersebut diharapkan menumbuhkan kesadaran masyarakat bahwa pengelolaan ekosistem mangrove membawa dampak yang baik untuk masyarakat secara langsung dengan maupun tidak.
+
+Peran semua stekholder dalam mendukung kegiatan ini sangat besar dan berdampak positif, terutama pendampingan yang diberikan olah Balai KPH Rinjani Timur dalam mendukung upaya penghijauan, juga dalam memberikan bibit kayu untuk mendukung kegiatan yang dilakukan kelompok. Dukungan pemerintah selama ini sudah dirasakan  walaupaun masih belum maksimal untuk memfasilitasi semua kegiatan penghijauan yang dilakukan. Bantuan selama ini kami terima selama ini adalah Program PEN ( Pemulihan Ekonomi Nasional) berupa penanaman mangrove, bantuan Bibit Buah untuk mayarakat sebanyak 300 buah.
+
+Kendala atau permasalahan yang kami hadapi selama ini ialah kami masih memiliki keterbatasan untuk melakukan kegiatan yang terus menerus, program atau kegitan penghijauan hanya dapat kami lakukan sewaktu-waktu pada momentum tertentu. Kendala yang paling berat dihadapi selama ini ialah masih minimnya anggaran untuk melakukan kegiatan penghijauan dan pengawasan, sehingga ketika melakukan kegiatan ini kami harus melakukan kolaborasi dengan semua pihak baik masyarakat juga instansi terkait. Terlebih jika ada penolakan kegiatan yang melibatkan masyarakat dengan alasan yang tidak jelas dan tanpa berlandaskan aturan yang jelas.
+
+Untuk kedepan, kelompok sangat berharap dukungan dan perhatian semua pihak, terutama stakeholder-stakeholder terkait guna menciptakan  kawasan ruang terbuka hijau yang lebih baik. Semua elemen masyarakat harus saling bahu-membahu, pelibatan masyarakat juga harus bersifat partisipatif agar masyarakat level tapak dapat merasakan dampaknya.

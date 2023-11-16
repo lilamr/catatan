@@ -1,0 +1,2 @@
+Peraturan daerah provinsi nusa tenggara barat nomor 3 tahun 2019 Tentang Pedoman Penyusunan Rencana Umum Energi Daerah Provinsi pasal 10 ayat (4) penyediaan energi baru dan terbarukan wajib ditingkatkan oleh pemerintah daerah.
+Sampai dengan tahun 2021, capaian Rasio Elektrifikasi Provinsi NTB yaitu 99,98%. Sedangkan Persentase Energi Baru Terbarukan dalam bauran energi sudah mencapai 13,04%.

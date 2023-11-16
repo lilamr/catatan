@@ -1,0 +1,1 @@
+data hasil pengolahan dapat dieksport berupa gambar, tabel, maupun grafik

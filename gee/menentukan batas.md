@@ -1,0 +1,1 @@
+batas polygon diperoleh dari geomentri ataupun shp yang dipuload atau fuature dan featurecollection yang ada di gee

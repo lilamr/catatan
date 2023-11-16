@@ -1,0 +1,5 @@
+Kawasan hutan adalah wilayah tertentu yang ditetapkan oleh Pemerintah untuk dipertahankan keberadaannya sebagai hutan tetap. Didalam pemanfaatan maupun penggunaan kawasan hutan Pemerintah melakukan pengaturan agar dapat diperoleh manfaat yang optimal dan lestari.
+
+Tujuan penyelenggaraan hutan sesuai pasal 3 Undang-Undang No.41 Tahun 1999, adalah sebesar-besarnya untuk kemakmuran rakyat yang berkeadilan dan berkelanjutan dengan tetap menjaga kelestarian hutan. Program yang dicanangkan untuk mewujudkan sasaran strategis yang hendak tercapai anatara lain Program Perencanaan Makro Bidang Kehutanan dan Pemantapan Kawasan Hutan. Untuk menunjang program tersebut perlu diketahui perkembangan kawasan hutan dimasing-masing provinsi khususnya di Provinsi NTB.
+
+Buku kawasan hutan di provinsi NTB ini memuat dari proses penunjukan sampai dengan penetapan kawasan hutan, serta penggunaan dan pemanfaatan yang ada di dalamnya. Kawasan hutan yang ditampilkan berdasarkan kelompok hutan yang ada di provinsi NTB.

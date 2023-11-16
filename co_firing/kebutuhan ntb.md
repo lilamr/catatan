@@ -1,0 +1,2 @@
+PLTU Jeranjang memiliki kapasitas 3x25 MW. Realisasi penggunaan biomassa sebesar 1.840 ton atau 3,8% yang berasal dari sekam padi dan pelet sampah. Kebutuhan biomasa tiap bulan ditargetkan 5% atau setara dengan 2.047 ton.
+PLTU Sumbawa barat memiliki kapasitas 2x7 MW. Realisasi penggunaan biomassa sebesar 1.700 ton atau 3,9% yang berasal dari bonggol jagung dan woodchip. Kebutuhan biomasa tiap bulan ditargetkan 5% atau setara dengan 385 ton.

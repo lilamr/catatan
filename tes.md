@@ -2,3 +2,6 @@ git obsidian
 
 
 e450
+
+
+w520

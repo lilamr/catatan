@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8023b1d5b3284eb6",
+        "id": "1fd348117a75e9ef",
         "type": "tabs",
         "children": [
           {
-            "id": "59d9aee50e4d9e38",
+            "id": "23a8d4e80a3a5f3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "github_md/daftar isi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aef8df8d221fe1fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "github_md/non code file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github_md/daftar isi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github_md/daftar isi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "github_md/daftar isi.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,11 +149,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59d9aee50e4d9e38",
+  "active": "23a8d4e80a3a5f3e",
   "lastOpenFiles": [
+    "git/perintah dasar.md",
     "github_md/non code file.md",
-    "github_md/permanent link.md",
     "github_md/daftar isi.md",
+    "github_md/permanent link.md",
     "github_md/task list.md",
     "github_md/attachment.md",
     "github_md/autolinked.md",
@@ -188,7 +169,6 @@
     "git/ringkasan.md",
     "github_md",
     "git/remotes.md",
-    "git/perintah dasar.md",
     "git/penutup.md",
     "git/pendahuluan.md",
     "git/merger.md",

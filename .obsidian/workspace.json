@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/status.md",
+                "file": "git/ringkasan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/status.md",
+                "file": "git/ringkasan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/status.md",
+                "file": "git/ringkasan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/status.md"
+                "file": "git/ringkasan.md"
               }
             }
           }
@@ -160,13 +160,14 @@
   "active": "ab899a68e12acc39",
   "lastOpenFiles": [
     "git/commit.md",
-    "git/perintah dasar.md",
+    "git/ringkasan.md",
     "git/status.md",
+    "git/perintah dasar.md",
+    "git/instalasi.md",
     "git/daftar isi.md",
     "git/log.md",
     "git/checkout.md",
     "git/pendahuluan.md",
-    "git/instalasi.md",
     "tes.md",
     "git/attachment",
     "git",

@@ -6,7 +6,7 @@ You may notice that each entry—regardless of the commit message you created fo
 
 `c178771270d4`
 
-Your hashes will be differant than the ones shown above. Each hash is generated automatically by Git, and each one uniquely identifies a particular commit. You can use these signatures to revert to the various states in the project’s history.
+Your hashes will be different than the ones shown above. Each hash is generated automatically by Git, and each one uniquely identifies a particular commit. You can use these signatures to revert to the various states in the project’s history.
 
 When we made our commits earlier, you might recall that we added messages to them to make them easier to find. Below, you'll learn a better way to access your project's various states.
 

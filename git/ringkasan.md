@@ -23,7 +23,7 @@ Simpan perubahan file secara lokal
 Simpan perubahan di github
 `git push`
 
-Ambil perubahan dari tempat lain
+Ambil perubahan dari github
 `git pull`
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tes.md",
+                "file": "git/status.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tes.md",
+                "file": "git/status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tes.md",
+                "file": "git/status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tes.md"
+                "file": "git/status.md"
               }
             }
           }
@@ -157,10 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b20da53aefb0c1e5",
+  "active": "ab899a68e12acc39",
   "lastOpenFiles": [
+    "git/commit.md",
+    "git/perintah dasar.md",
+    "git/status.md",
+    "git/daftar isi.md",
+    "git/log.md",
+    "git/checkout.md",
+    "git/pendahuluan.md",
+    "git/instalasi.md",
+    "tes.md",
+    "git/attachment",
     "git",
-    "geonode/instal.md",
-    "tes.md"
+    "geonode/instal.md"
   ]
 }

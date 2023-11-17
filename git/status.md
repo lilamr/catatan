@@ -14,3 +14,21 @@ And, yes, you guessed it, check the status again:
 
 As you can see, this command allows you to find out what changes have been made and committed and so maintain your bearings on what Git believes it's tracking.
 
+By this stage your original file, `TheFirstFile.txt`, should have gone through many changes—all of which have been stored in the Git history. Make sure you have committed any recent changes. Double-check there are no outstanding changes with the status command:
+
+`git status`
+
+It should say "nothing to commit, working directory clean." if there are no outstanding changes. Take a look at your history to locate the hash of the very first commit you made:
+
+`git log`
+
+The command to check out that “Initial Commit” would be the following (but don't do it now):
+
+`git checkout c178771270d`
+
+Instead, try this command:
+
+`git diff c178771270d`
+
+The diff command is intended to show you the differences between two commits. Specifically, it'll show exactly what changed in each and every file. Notice the plus (+) and minus (-) symbols. They indicate which files and which lines within each file were added and removed, respectively. This can be valuable information. Git provides the capability to retrieve those individual changes en masse or selectively. That's where some of the more complex commands (and the concept of merging) would apply.
+

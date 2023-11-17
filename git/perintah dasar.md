@@ -29,7 +29,11 @@ We've already set up a new project, and Git is ready to help us manage it!
 Tahapan GIT:
 1. Commit [[commit]]
 2. Checkout [[checkout]]
-3. Log [[git/log]]
-4. Status [[git/status]]
-5. 
+3. Log [[log]]
+4. Status [[status]]
+5. Branches [[branches]]
+6. Merger [[merger]]
+7. Remotes [[remotes]]
+8. Clone [[clone]]
+9. 
 

@@ -11,8 +11,12 @@
             "id": "23a8d4e80a3a5f3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "geonode/instal.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "geonode/instal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "geonode/instal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "geonode/instal.md"
+              }
             }
           }
         ]
@@ -151,6 +159,7 @@
   },
   "active": "23a8d4e80a3a5f3e",
   "lastOpenFiles": [
+    "geonode/daftar isi.md",
     "git/perintah dasar.md",
     "github_md/non code file.md",
     "github_md/daftar isi.md",
@@ -177,7 +186,6 @@
     "git/daftar isi.md",
     "git/status.md",
     "git/clone.md",
-    "git/branches.md",
     "git/attachment",
     "git"
   ]

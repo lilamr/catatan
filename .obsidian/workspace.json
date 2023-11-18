@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim_nvim/perintah dasar.md",
+                "file": "docker/daftar isi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim_nvim/perintah dasar.md",
+                "file": "docker/daftar isi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim_nvim/perintah dasar.md",
+                "file": "docker/daftar isi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim_nvim/perintah dasar.md"
+                "file": "docker/daftar isi.md"
               }
             }
           }
@@ -159,14 +159,14 @@
   },
   "active": "84c3ea123365d3f3",
   "lastOpenFiles": [
+    "vim_nvim/perintah dasar.md",
+    "vim_nvim/nvim to ide.md",
+    "vim_nvim/install.md",
     "docker/daftar isi.md",
     "docker",
     "git/perintah dasar.md",
     "git/daftar isi.md",
-    "vim_nvim/perintah dasar.md",
-    "vim_nvim/nvim to ide.md",
     "vim_nvim/attachment",
-    "vim_nvim/install.md",
     "geonode/instal.md",
     "vim_nvim",
     "geonode/daftar isi.md",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df80e85fdc64535f",
+        "id": "f3548869eaff039f",
         "type": "tabs",
         "children": [
           {
-            "id": "84c3ea123365d3f3",
+            "id": "d52fecc9d6abba0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/daftar isi.md",
+                "file": "profil_pbph/esa sampoerna.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perintah dasar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/daftar isi.md",
+                "file": "profil_pbph/esa sampoerna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/daftar isi.md",
+                "file": "profil_pbph/esa sampoerna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/daftar isi.md"
+                "file": "profil_pbph/esa sampoerna.md"
               }
             }
           }
@@ -157,39 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84c3ea123365d3f3",
+  "active": "d52fecc9d6abba0c",
   "lastOpenFiles": [
-    "vim_nvim/perintah dasar.md",
-    "vim_nvim/nvim to ide.md",
-    "vim_nvim/install.md",
-    "docker/daftar isi.md",
-    "docker",
-    "git/perintah dasar.md",
-    "git/daftar isi.md",
-    "vim_nvim/attachment",
-    "geonode/instal.md",
-    "vim_nvim",
-    "geonode/daftar isi.md",
-    "github_md/non code file.md",
-    "github_md/daftar isi.md",
-    "github_md/permanent link.md",
-    "github_md/task list.md",
-    "github_md/attachment.md",
-    "github_md/autolinked.md",
-    "github_md/mathematical.md",
-    "github_md/diagrams.md",
-    "github_md/collapsed section.md",
-    "github_md/code blocks.md",
-    "github_md/table.md",
-    "github_md/basic formating.md",
+    "profil_pbph/attachment/about-symbol.png",
+    "profil_pbph/esa sampoerna.md",
+    "gee/bab 1 pengenalan js.md",
+    "gee/attachment/Screenshot from 2023-11-09 09-28-50.png",
+    "geonodeDISLHK/industrialisasi/rinbar emas hijau.md",
+    "geonodeDISLHK/attachment/Pasted image 20231109102431.png",
+    "geonodeDISLHK/attachment/Pasted image 20231109102458.png",
+    "geonodeDISLHK/attachment/Pasted image 20231110091017.png",
+    "gee/pengertian gee.md",
+    "gee/visualisasi.md",
+    "geonodeDISLHK/attachment/Pasted image 20231110093013.png",
+    "geonodeDISLHK/attachment/Pasted image 20231110092930.png",
+    "geonodeDISLHK/attachment/Pasted image 20231110091034.png",
+    "geonodeDISLHK/attachment/Pasted image 20231110091002.png",
+    "geonodeDISLHK/attachment/Pasted image 20231110090538.png",
+    "geonodeDISLHK/industrialisasi/orong telu rotan.md",
+    "gee/menentukan citra.md",
+    "gee/menentukan batas.md",
+    "gee/langkah pengolahan.md",
+    "gee/eksport data.md",
+    "Untitled",
+    "profil_pbph/Untitled",
+    "profil_pbph/attachment/Untitled.canvas",
+    "lacak_awb.canvas",
+    "tes.md",
+    "sejarah_kawasan/daftar isi.md",
+    "profil_pbph/attachment",
+    "profil_pbph/utl.md",
+    "profil_pbph/sadhana arif nusa.md",
+    "profil_pbph/koinesia.md",
+    "profil_pbph/attachment.md",
     "github_md/about writing.md",
-    "github_md/quickstart.md",
-    "git/ringkasan.md",
+    "github_md/attachment.md",
+    "geonode/kostumisasi.md",
+    "geonode/instal.md",
+    "geonode/document.md",
+    "geonode/daftar isi.md",
+    "docker/daftar isi.md",
+    "Untitled.md",
+    "sejarah_kawasan/attachment 1",
+    "profil_pbph",
+    "sejarah_kawasan/rtk 3.md",
+    "docker",
+    "vim_nvim/attachment",
+    "vim_nvim",
     "github_md",
-    "git/remotes.md",
-    "git/penutup.md",
-    "git/pendahuluan.md",
-    "git/attachment",
-    "git"
+    "git/attachment"
   ]
 }

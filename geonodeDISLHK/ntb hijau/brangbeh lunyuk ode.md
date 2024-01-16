@@ -24,3 +24,13 @@ Beberapa pihak sangat berperan dalam mendukung Sale sang dalam melakukan tugas m
 Kelompok Mata Air “Ai Beta” mengharapkan adanya bantuan bibit produktif untuk meningkatkan penghijauan lahan masyarakat  di sekitar  mata air, bibit produktif salah satu permintaan kelompok mata air yaitu  Manggis, Duren dan belinjo.  Disamping untuk ketersedia air dan  menambah luasan penghijauan di sekitar mata air penanaman tanaman produktif diharapkan mampu meningkatkan taraf ekonomi masyarakat melalui hasil buah-buahan yang dihasilkan. 
 
 Sosialisasi kepada masyarakat diharapkan terus dilakukan untuk menumbuhkan kesadaran akan pentingnya menanam dan menjaga pohon untuk pelestarian alam dan peningkatan perekonomian masyarakat. Dukungan semua pihak untuk melakukan gerakan penanaman di lokasi mata air khususnya di wilayah tersebut diharapkan terus dilakukan, minimal untuk memperbaiki kondisi hutan dan lahan yang terus terjadi akhir-akhir ini oleh perilaku pihak-pihak yang tidak bertanggungjawab. Kepada masyarakat diharapkan untuk lebih peduli terhadap kondisi alam sekitar, menjadi mata, tangan dan kaki untuk setiap perubahan menjadi lebih baik.
+
+
+=====================
+
+
+Sejak tahun 2014 kelompok tani  yang terbentuk di Dusun Perung, Desa Perung, Kec. Lunyuk, Kabupaten Sumbawa melakukan penghijauan dengan menyemai dan menanam bibit  pohon secara swadaya sendiri pada lahan yang berada di sekitar mata air.
+
+Masyarakat mulai merasakan dampak positif oleh kegiatan rehabilitasi mata air yang mereka lakukan, beberapa sumber mata air mulai muncul dan jumlah debit semakin besar, sumber mata air itu juga dimanfaatkan untuk berbagai kebutuhan masyarakat setempat, sumber pengairan sawah, untuk sumber air untuk kolam ikan dan juga digunakan untuk minuman ternak.
+
+Pada Tahun 2021 Kelompok Tani Hutan “Ai Beta” yang berada di wilayah desa Lunyuk Ode mendapatkan penyegaran dari BKPH Brang Beh, mendapatkan bantuan bibit tanaman produktif melalui program RHL Mata Air dengan jumlah 2500 bibit dengan jenis bibit yaitu, mahoni, kemiri, kepuh, rambutan dan jambu air okulasi dengan luas lahan 10 Ha. 

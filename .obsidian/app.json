@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "vim_nvim/attachment",
-  "showLineNumber": true
+  "attachmentFolderPath": "./",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

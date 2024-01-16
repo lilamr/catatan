@@ -1,39 +1,21 @@
 Menunjuk keputusan Menteri Lingkungan Hidup dan Kehutanan RI tanggal 15 Januari 2020 nomor SK 39/Menlhk/Setjen/HPL.0/1/2020 tentang Pemberian Ijin Usaha Pemanfaatan Hasil Hutan Kayu Dalam Hutan Tanaman Industri (IUPHHK-HTI) Kepada PT Esa Sampoerna Agro atas Areal Hutan Produksi Seluas 7.220 Ha Pada Wilayah KPH Batulanteh di Kabupaten Sumbawa, Provinsi NTB dengan hormat kami laporkan hasil pertemuan/konsultasi pertama kami dengan Pemda Kabupaten Sumbawa, POLRES Sumbawa, KODIM Sumbawa dan Balai KPH Batulanteh di kantor Bupati Sumbawa pada tanggal 23 April 2020 sebagai berikut:
 
-  
-
 1. Pertemuan/konsultasi bertujuan untuk membahas dan mencari solusi terhadap beberapa masalah hutan yaitu tentang pencurian kayu/pembabatan hutan. kebakaran hutan dan perambahan hutan untuk menanam jagung serta mencari solusi terhadap masalah tersebut.
-
-  
 
 2. Dari survey oleh Tim PT ESA danBalai KPH Batulanteh, ditemukan beberapa masalah di lapangan yaitu pencurian kayu, pembakaran hutan dan perambahan hutan untuk penanaman jagung oleh masyarakat setempat yang luasnya +700 Ha (di Olat Lake/Olat Cabe). Penanaman jagung ini sebenarnya sejalan dengan Program Sejuta Ton Jagung dari Pemerintah/Pemda untuk meningkatkan produksi pangan, akan tetapi karena dilaksanakan oleh masyarakat di dalam kawasan hutan dengan membabat dan merambah hutan tanpa ijin dan tidak terkendali, maka merupakan pelanggaran hukum (UU Kehutanan dan Perda RTRWP/RTRWK) dan berdampak buruk terhadap lingkungan hidup, terutama hilangnya vegetasi penutup lahan
 
-  
+4. Adanya pencurian kayu, pembakaran dan perambahan hutan sudah terjadi sejak sebelum keluarnya IUPHHK-HTI sebagaimana disebutkan dalam surat Kepala Dinas LHK Provinsi NTB no: 522.846/PH-Dislhk/2017 taanggal 17 Mei 2017 dan BAP Hasil Survei Identifikasi tertanggal 15 Agustus 2015 seluas 1.275 Ha di Olat Lake, Gilingara dan P.Liang (copy terlampir). Areal pembabatan dan perambahan hutan tersebut adalah tanaman jati ex tanaman HTI Perhutani di areal tersebut seluas sekitar 700 Ha yang habis/hilang sejak tahun 2015. Pembabatan dan perambahan hutan untuk menanam jagung sudah berlangsung beberapa tahun dan terus berlangsung sampai saat ini, belum bisa diatasi dengan system/perangkat pengelolaan hutan dan pengamanan yang bertanggungjawab
 
-3 Adanya pencurian kayu, pembakaran dan perambahan hutan sudah terjadi sejak sebelum keluarnya IUPHHK-HTI sebagaimana disebutkan dalam surat Kepala Dinas LHK Provinsi NTB no: 522.846/PH-Dislhk/2017 taanggal 17 Mei 2017 dan BAP Hasil Survei Identifikasi tertanggal 15 Agustus 2015 seluas 1.275 Ha di Olat Lake, Gilingara dan P.Liang (copy terlampir). Areal pembabatan dan perambahan hutan tersebut adalah tanaman jati ex tanaman HTI Perhutani di areal tersebut seluas sekitar 700 Ha yang habis/hilang sejak tahun 2015. Pembabatan dan perambahan hutan untuk menanam jagung sudah berlangsung beberapa tahun dan terus berlangsung sampai saat ini, belum bisa diatasi dengan system/perangkat pengelolaan hutan dan pengamanan yang bertanggungjawab
+5. Kondisi tersebut tentunya menjadi masalah dan hambatan bagi kami dalam melaksanakan pembangunan HTI sebagaimana ditetapkan dalam keputusan ijin tersebut. Namun kami selaku pemegang ijin akan tetap berupaya membangun HTI di areal IUPHHK-HTI, tentunya kami sangat membutuhkan dukungan dari Pemerintah/Pemda dan perlu kerjasama dengan para pemangku kepentingan (stake holders) yang terkait.
 
-  
+6. Dari pengalaman kami dan pengetahuan kami dari IUPHHK-HTI di seluruh Indonesia belum ada yang berhasil mengatasi keamanan hutan melalui pendekatan represif semata. Oleh karena itu dalam upaya membangun HTI dan menghadapi permasalahan tersebut kami akan melakukan strategi pemberdayaan dan kemitraan kehutanan dengan masyarakat, sedangkan pendekatan represif merupakan jalan terakhir yang akan kami tempuh jika diperlukan dan kami sangat membutuhkan dukungan dari intansi pengelola hutan dan instansi penegak hukum.
 
-4. Kondisi tersebut tentunya menjadi masalah dan hambatan bagi kami dalam melaksanakan pembangunan HTI sebagaimana ditetapkan dalam keputusan ijin tersebut. Namun kami selaku pemegang ijin akan tetap berupaya membangun HTI di areal IUPHHK-HTI, tentunya kami sangat membutuhkan dukungan dari Pemerintah/Pemda dan perlu kerjasama dengan para pemangku kepentingan (stake holders) yang terkait.
+7. Sudah menjadi pengetahuan umum bahwa pendekatan keamanan dengan strategi represif dikhawatirkan bisa memperkeras perbedaan kepentingan dan konfrontasi antara perusahaan dengan masyarakat yang dapat menggangu stabilitas politik dan ketertiban umum dan keamanan daerah. Pengetahuan kami dari kegiatan usaha HTI maupun usaha lain di seluruh Indonesia, pendekatan represif tidak berhasil menuntaskan penyelesaian masalah keamanan tersebut.
 
-  
-
-5. Dari pengalaman kami dan pengetahuan kami dari IUPHHK-HTI di seluruh Indonesia belum ada yang berhasil mengatasi keamanan hutan melalui pendekatan represif semata. Oleh karena itu dalam upaya membangun HTI dan menghadapi permasalahan tersebut kami akan melakukan strategi pemberdayaan dan kemitraan kehutanan dengan masyarakat, sedangkan pendekatan represif merupakan jalan terakhir yang akan kami tempuh jika diperlukan dan kami sangat membutuhkan dukungan dari intansi pengelola hutan dan instansi penegak hukum.
-
-  
-
-6. Sudah menjadi pengetahuan umum bahwa pendekatan keamanan dengan strategi represif dikhawatirkan bisa memperkeras perbedaan kepentingan dan konfrontasi antara perusahaan dengan masyarakat yang dapat menggangu stabilitas politik dan ketertiban umum dan keamanan daerah. Pengetahuan kami dari kegiatan usaha HTI maupun usaha lain di seluruh Indonesia, pendekatan represif tidak berhasil menuntaskan penyelesaian masalah keamanan tersebut.
-
-  
-
-7. Sebagai perusahaan swasta, kami dalam mengelola HTI selalu menerapkan prinsip efisiensi dalam mengelola kegiatan dan anggaran/keuangan. Dari pengalaman perusahaan Esa Sampoerna Group dalam mengelola HTI selama 11 tahun tidak mendatangkan laba bahkan dapat dikatakan besar pasak daripada tiang, maka kami tentu sangat ketat dalam mengelola dana/keuangan yang terbatas. Setiap pengeluaran kami tentu ada target kegiatan, keluaran, hasil dan pendapatan yang direncanakan dengan baik, rasional dan realistik.
+8. Sebagai perusahaan swasta, kami dalam mengelola HTI selalu menerapkan prinsip efisiensi dalam mengelola kegiatan dan anggaran/keuangan. Dari pengalaman perusahaan Esa Sampoerna Group dalam mengelola HTI selama 11 tahun tidak mendatangkan laba bahkan dapat dikatakan besar pasak daripada tiang, maka kami tentu sangat ketat dalam mengelola dana/keuangan yang terbatas. Setiap pengeluaran kami tentu ada target kegiatan, keluaran, hasil dan pendapatan yang direncanakan dengan baik, rasional dan realistik.
 
 Menjajagi dan menyiapkan penanaman model HUTAN TERNAK (Sylvopasture) untuk pelaksanaan penanaman pada musim hujan yang akan datang meliputi: f1 Penanaman lamtoro secara swakelola seluas 100 Ha, 12 Penanaman lamtoro melalui kemitraan dengan penggarap/perambah hutan seluas 150. Ha (10 Kelompok Tani) Penanaman lamtoro ini merupakan uji coba kemitraan kehutanan dengan menyediakan kredit berupa herbisida dan benih lamtoro bagi petani mitra Dalam jangka panjang tanaman lamtoro ini untuk menunjang kemitraan usaha peternakan PT ESA dengan masyarakat f3 Uji coba beberapa jenis tanaman hutan (specias trial).
 
-  
-
 Dengan hormat, menindaklanjuti kunjungan lapangan Tim Pemerintah Provinsi Nusa Tenggara (NTB), BPBD Kabupaten Sumbawa, Camat Moyo Utara, Kades Kukin, Kadus Aii Bari dan Kadus Bajo ke areal Hutan Tanaman Industri (HTI) PT Esa Sampoerna Agro pada tanggal 10 - 11 September 2020 untuk persiapan lokasi peringatan HUT Provinsi NTB, perlu disiapkan areal seluas 100 Ha (Seratus hektar) di dalam areal HTI Blok Olat Lake/Olat Cabe, wilayah Desa Kukin Kecamatan Moyo Utara (peta terlampir).
-
-  
 
 Sebagian areal HTI ternyata telah dirambah oleh masyarakat digunakan untuk perladangan Kegiatan tersebut merupakan tindak pidana melanggar Undang-Undang nomor 41 Tahun 1999. tentang Kehutanan. Untuk memecahkan masalah tersebut, kedepan kami menyiapkan rencana Kemitraan Usaha Peternakan kambing dengan masyarakat setempat (desa sekitar areal HTI) seluas 1 500 Ha untuk 3 (tiga) kecamatan yaitu, Kecamatan Moyo Utara (Desa Kukin, Desa Songkar, Desa Pungkit), Kecamatan Moyo Hilir (Desa Batubangka dan Desa Olatrawa) dan Kecamatan Lape (Desa Labuan Kuris).

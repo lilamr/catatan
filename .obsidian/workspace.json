@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sejarah_kawasan/rtk 10.md",
+                "file": "gee/jenis data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sejarah_kawasan/rtk 10.md",
+                "file": "gee/jenis data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sejarah_kawasan/rtk 10.md",
+                "file": "gee/jenis data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +125,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           },
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sejarah_kawasan/rtk 10.md"
+                "file": "gee/jenis data.md"
               }
             }
           }
@@ -159,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d52fecc9d6abba0c",
+  "active": "b20da53aefb0c1e5",
   "lastOpenFiles": [
+    "sejarah_kawasan/rtk 10.md",
     "sejarah_kawasan/rtk 9.md",
     "sejarah_kawasan/rtk 8.md",
     "sejarah_kawasan/rtk 7.md",
@@ -170,7 +169,6 @@
     "sejarah_kawasan/rtk 3.md",
     "sejarah_kawasan/rtk 11.md",
     "sejarah_kawasan/rtk 12.md",
-    "sejarah_kawasan/rtk 10.md",
     "sejarah_kawasan/attachment/Peta SK.270_6_2017 1.jpg",
     "sejarah_kawasan/rtk 2.md",
     "geonodeDISLHK/ntb hijau/pentas batu kijuk.md",

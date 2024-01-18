@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3548869eaff039f",
+        "id": "caadb7896d38b32c",
         "type": "tabs",
         "children": [
           {
-            "id": "d52fecc9d6abba0c",
+            "id": "ce6f137dbb6e9d92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gee/jenis data.md",
+                "file": "geonodeDISLHK/industrialisasi/orong telu rotan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gee/jenis data.md",
+                "file": "geonodeDISLHK/industrialisasi/orong telu rotan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gee/jenis data.md",
+                "file": "geonodeDISLHK/industrialisasi/orong telu rotan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gee/jenis data.md"
+                "file": "geonodeDISLHK/industrialisasi/orong telu rotan.md"
               }
             }
           }
@@ -157,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b20da53aefb0c1e5",
+  "active": "ce6f137dbb6e9d92",
   "lastOpenFiles": [
+    "geonodeDISLHK/industrialisasi/orong telu rotan.md",
+    "geonodeDISLHK/attachment/Pasted image 20231110093013.png",
+    "sejarah_kawasan/rtk 1.md",
+    "gee/jenis data.md",
     "sejarah_kawasan/rtk 10.md",
     "sejarah_kawasan/rtk 9.md",
     "sejarah_kawasan/rtk 8.md",
@@ -176,23 +182,18 @@
     "geonodeDISLHK/ntb hijau/brangbeh krida.md",
     "geonodeDISLHK/ntb hijau/brangbeh emang lestari.md",
     "geonodeDISLHK/industrialisasi/rinbar bentek.md",
-    "geonodeDISLHK/industrialisasi/orong telu rotan.md",
     "geonode/instal.md",
     "geonode/document.md",
     "geonode/daftar isi.md",
     "docker/daftar isi.md",
     "co_firing/energi alternatif.md",
     "co_firing/ebt kayu.md",
-    "co_firing/co-firing.md",
-    "co_firing/biaya.md",
-    "profil_pbph/utl.md",
     "profil_pbph/attachment/Coat_of_arms_of_West_Nusa_Tenggara.svg.png",
     "profil_pbph/attachment/about-symbol.png",
     "gee/attachment/Screenshot from 2023-11-09 09-28-50.png",
     "geonodeDISLHK/attachment/Pasted image 20231109102431.png",
     "geonodeDISLHK/attachment/Pasted image 20231109102458.png",
     "geonodeDISLHK/attachment/Pasted image 20231110091017.png",
-    "geonodeDISLHK/attachment/Pasted image 20231110093013.png",
     "geonodeDISLHK/attachment/Pasted image 20231110092930.png",
     "geonodeDISLHK/attachment/Pasted image 20231110091034.png",
     "Untitled",

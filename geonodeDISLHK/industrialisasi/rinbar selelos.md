@@ -24,3 +24,18 @@ Kapasitas produksi :
 - Sumber bahan baku : Kawasan hutan selelos
 - Omset penjualan perbulan : 2 juta-5 juta / bulan
 - Sarana pendukung yang di miliki : mesin roasting, mesin giling, continuous sealer, mesin pengupas kopi basah, mesin pengupas kopi kering, rumah produksi, rumah pengering.
+
+
+========================================
+
+
+Kelompok Tani Tunas Lestari didirikan pada tahun 2016 yang mengelola Kawasan hutan Selelos dengan beranggotakan 22 orang. Kegiatan yang di lakukan kelompok tani hutan Tunas Lestari antara lain membudidayakan tanaman kopi di Kawasan hutan selelos secara agroforestry kemudian hasilnya di proses menjadi beberapa varian kopi dan di oleh menjadi produk kopi kemasan siap minum dengan Merk Dagang "Kopi Selelos".
+
+Dukungan dari pemerintah sangat membantu mulai dari KPH Rinjani Barat yang mensuport melalui kegiatan FIP II, dinas perindustrian Lombok Utara untuk pengurusan ijin produk dan saat ini sedang mengusulkan untuk Indikasi Geografis Kopi Selelos.
+
+Sarana pendukung yang kini di miliki berupa mesin roasting, mesin giling, continuous sealer, mesin pengupas kopi basah, mesin pengupas kopi kering, rumah produksi, dan rumah pengering.
+
+Jenis produk hasil hutan yang di kembangkan adalah kopi dengan berbagai varian dengan kapasitas produksi untu greenbean : 12 Ton – 20 ton / tahun; Roastedbean dan kopi kemasan  : 240 kg/tahun. Omset penjualan perbulan mereka mencapai 2 juta-5 juta / bulan.
+
+Harapan ke depannya adalah produk kopi selelos makin di kenal masyarakat luas dan penikmat kopi robusta di seluruh Indonesia bahkan mancanegara, bisnis kelompok semakin maju dan berkembang, membuat kedai atau cofffe shop khusus kopi Selelos di Kota Mataram.
+

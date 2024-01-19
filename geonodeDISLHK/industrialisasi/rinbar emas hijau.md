@@ -86,3 +86,30 @@ Program FIP II juga membantu pembangunan rumah produksi untuk KTH Emas Hijau. Ru
 Selain bantuan pembangunan bale produksi dan peralatan penunjang produksi, KPH Rinjani Barat terus mendampingi KTH Emas Hijau secara kontinu. Pendampingan tersebut diwujudkan dalam bentuk kegiatan peningkatan kapasitas kelompok melalui pelatihan-pelatihan, pendampingan pengurusan legalitas, dan promosi produk. Hal tersebut dilakukan untuk membantu kelompok dalam meningkatkan produksi gula aren KTH Emas Hijau secara kualitas dan kuantitas. Selain itu, terobosan pemasaran terus dilakukan baik dalam skala lokal, nasional, maupun internasional. 
 
 Sejak mendapat hibah Program FIP II, KTH Emas Hijau dapat membuat berbagai varian gula yang dikemas secara modern. Produk gula aren KTH Emas Hijau sudh tersedia di pasar tradisional, toko-toko, dan galeri oleh-oleh NTB Mall.  Gula aren semut KTH Emas Hijau pun sudah dijual melalui e-commerce sehingga dapat dinikmati oleh masyarakat hingga mancanegara. 
+
+
+
+
+==================================
+
+
+
+
+
+“It’s very good,” begitulah ucap Marco salah seorang supporter pembalap Marc Marquez dari negara matador yang saat itu mencoba nikmatnya produk terbaru KTH Emas Hijau. Dia merasakan sensasi hangatnya jahe dalam setiap tegukan minuman yang dijual Rp10.000 dan membuat tubuhnya semakin bugar.
+
+KTH Emas Hijau yang berada di wilayah kerja Resort Jangkok BKPH Rinjani Barat merupakan salah satu kelompok penerima hibah FIP II. Kelompok Tani Hutan ( Emas Hijau) terbentuk pada tahun 2015 dan mendapat SK dari Pemerintah Desa Langko pada tahun 2018. Satu tahun setelah itu yakni pada pada bulan Juli 2019, kelompok menandatangani naskah kerjasama (NKK) untuk ijin pengelolaan hutan skema Perhutanan Sosial/kemitraan Bersama KPH Rinjani Barat.
+
+Kelompok ini  menjalin kerjasama kemitraan kehutanan dengan KPH Rinjani Barat dengan potensi hhbk dominan seperti aren, kopi, empon-empon, dan lain-lain. Untuk dapat terus mengoptimalkan pemanfaatan hasil hutan bukan di wilayah tersebut, kelompok mengajukan ijin melalui skema kemitraan bersama KPH Rinjani Barat seluas 180,50 ha dan sudah memiliki kartu penggarap.
+
+Potensi pohon aren yang cukup besar, menjadi harapan untuk dapat mengolahnya menjadi sumber ekonomi yang menjanjikan bagi masyarakat sekitar, terlebih lagi cukup banyak diantara mereka yang sangat mengharapkan hasil aren ini sebagai hasil utama pendapatan mereka.  Dalam satu hari petani hutan ini mampu menghasilkan kurang lebih 5000 liter air nira, yang kemudian mereka olah menjadi gula merah batangan maupun gula semut dan ada juga yang dijual secara langsung (air nira botolan/tuaq manis). 
+
+Berbagai bantuan dari proyek FIP II telah diterima oleh KTH Emas Hiau. Bantuan tersebut berupa peralatan produksi antara lain kompor, mesin perajang, mesin kristalisator, mesin penepung, mesin ayakan, mesin timbangan digital, continue seller, dan mesin oven yang telah difungsikan dalam mendukung produksi gula aren semut KTH Emas Hijau.
+
+Program FIP II juga membantu pembangunan rumah produksi untuk KTH Emas Hijau. Rumah atau bale produksi tersebut digunakan sebagai tempat untuk mengolah gula aren mulai dari tahapan awal produksi hingga produk yang telah dikemas siap didistribusikan kepada konsumen dan retail di Kota Mataram. Dengan adanya peralatan dan bale produksi, KTH Emas Hijau mampu memproduksi gula aren dalam kapasitas besar. Pendampingan juga tetap dilakukan di bawah pengawasan KPH Rinjani Barat termasuk dalam pengurusan P.IRT. label halal, pemasangan iklan promosi dan sebagainya. 
+
+Beberapa inovasi di bidang produksi gula aren dalam rangka mendukung program industrialisasi hasil hutan dengan membuat gula aren dengan berbagai varian diantaranya gula aren batok ,gula aren briket,gula aren cair, gula aren semut original,gula aren jahe, gula aren temulawak, gula aren kunyit. Dalam pengolahan kopi, inovasi yang dilakukan adalah dengan membuat  olahan kopi original ,kopi jahe,kopi jahe gula aren. Disamping pengolahan aren dan kopi, kelompok ini juga melakukan  budidaya lebah trigona. 
+
+Dalam satu bulannya, produksi  gula aren semut mencapai  5-10 ton dengan Omset penjualan 5-10 juta rupiah perbulan.  Merek dagang disamakan dengan nama kelompok yakni Gula Semut Aren Emas Hijau LBP, dengan sumber bahan baku langsung dari anggota kelompok. 
+
+Untuk memperbaiki kualitas produksi, pengembangan jaringan dan meningkatkan kepercayaan konsumen maka kelompok ini mulai melakukan pembenahan dibeberapa hal terkait produk yang dihasilkan. Kebersihan, bentuk produk, kemasan maupun pengembangan jenis produk terus dilakukan perubahan kearah lebih baik. Sampai saat ini beberapa produk yang dihasilkan oleh kelompok sudah mengantongi ijin  NIB,P-IRT,LABEL HALAL, - sertifikat CPPOB, - BPOM RI MD.

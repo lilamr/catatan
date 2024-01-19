@@ -19,3 +19,16 @@ Bantuan hibah tersebut telah mendukung KTH Giri Madia dalam melakukan inovasi se
 Pemasaran produk-produk KTH Giri Madia dikelola secara mandiri oleh KTH Giri Madia, bahkan Pak Munzir telah bekerja sama dengan pembeli yang akan membeli gula aren KTH Giri Madia dalam jumlah banyak utuk diekspor ke luar negeri. Seiring peningkatan penjualan, kapasitas produksi gula semut dan gula briket KTH Giri Madia juga meningkat, dengan kapasitas produksi rata-rata mencapai 1 ton per bulan. Produk gula semut dan gula briket KTH Giri Madia tidak hanya dijumpai di pasar tradisional, kita dapat menjumpainya di website dan marketplace secara online. Untuk pelayanan dalam kota, KTH Giri Madia juga melayani pengantaran atau delivery hingga ke tempat pembeli.
 
 Inovasi bukan sekedar pengembangan produk dan pelayanan pelanggan, melainkan secara menyeluruh pada strategi pemasaran yang telah dibangun. Produk-produk KTH Giri Madia telah menjangkau berbagai segmen, mulai dari kalangan birokrasi hingga ibu rumah tangga yang menjadi target pemasaran. Dimanapun berada, produk-produk yang dihasilkan dari kawasan hutan, tetap akan punya tempat berbeda, karena jaminan keaslian dan kualitasnya. Kini masyarakat sekitar kawasan hutan, khususnya anggota KTH Giri Madia telah menikmati hasilnya. Kesejahteraan dan taraf hidup anggota KTH Giri Madia perlahan meningkat.
+
+
+=============================================
+
+
+
+KTH Giri Madia dibentuk pada tahun 2013 dengan jumlah anggota kurang lebih 300 penggarap yang tersebar di setiap sub-HKm Giri Madia, berlokasi di Desa Giri Madia, Kecamatan Lingsar, Kabupaten Lombok Barat, Provinsi Nusa Tenggara Barat. Nira dari tanaman aren yang diolah menjadi gula aren adalah komoditas andalan KTH Giri Madia.
+
+KPH Rinjani Barat melalui hibah FIP II, membantu KTH Giri Madia untuk mengembangkan usaha dan produksi gula aren. Bantuan hibah FIP II ini berupa peralatan pengolahan dan pembangunan bale produksi gula aren. Dengan adanya bantuan hibah FIP II, KTH Giri Madia yang awalnya hanya membuat gula aren dalam bentuk batok, kini telah mampu memproduksi gula briket dan dua varian gula semut, yaitu gula semut original serta gula semut jahe. Seiring peningkatan penjualan, kapasitas produksi gula semut dan gula briket KTH Giri Madia juga meningkat, dengan kapasitas produksi rata-rata mencapai 1 ton per bulan.
+
+KTH Giri Madia juga memperoleh pendampingan dalam pengemasan, legalitas, promosi atau pemasaran secara offline dan online. Dengan keberagaman produk dan strategi pemasaran yang inovatif, penjualan gula aren KTH Giri Madia semakin meningkat.
+
+Pemasaran produk-produk KTH Giri Madia dikelola secara mandiri oleh KTH Giri Madia, bahkan telah bekerja sama dengan pembeli yang akan membeli gula aren KTH Giri Madia dalam jumlah banyak utuk diekspor ke luar negeri. Produk gula semut dan gula briket KTH Giri Madia tidak hanya dijumpai di pasar tradisional, kita dapat menjumpainya di website dan marketplace secara online. Untuk pelayanan dalam kota, KTH Giri Madia juga melayani pengantaran atau delivery hingga ke tempat pembeli.

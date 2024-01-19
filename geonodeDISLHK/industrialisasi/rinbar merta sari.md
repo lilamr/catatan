@@ -15,3 +15,17 @@ Masing-masing penggarap yang tergabung dalam Gapoktan Merte Sari berkewajiban me
 Dalam memproduksi kunyit bubuk, kelompok menggunakan peralatan yang berasal dari hibah FIP II, antara lain pencuci kunyit, penjemur, dan mesin lainnya. Fasilitator lokal FIP II mendampingi pengurusan legalitas usaha kelompok, termasuk NIB, P-IRT, dan sertifikat halal. Setelah semua siap, kemudian produk dijual ke pasar tradisional dan modern. Kelompok juga telah menjual produknya melalui marketplace secara online di Tokopedia dan Shopee. Rata-rata penjualan kelompok sekitar 34 item per bulan.  
 
 Hasil penjualan disimpan dalam kas kelompok untuk keperluan biaya produksi, pemasaran, dan kebutuhan lainnya. Kelompok juga menyisihkan untuk pembayaran kewajiban PAD/PNBP. Pengelolaan kawasan HKm Merte Sari telah sejalan dengan visi misi hutan lestari masyarakat sejahtera. Pendapatan para penggarap kawasan hutan semakin meningkat. Rencana ke depan, penanaman dan produksi akan dilakukan secara kontinu. Gapoktan Merte Sari terus berbenah untuk menghasilkan produk yang lebih beragam, diantaranya gula aren. Besar harapan masyarakat sekitar hutan dalam memperoleh penghasilan yang layak untuk mencukupi kebutuhannya sehari-hari. KPH Rinjani Barat pun senantiasa mendampingi perkembangan usaha kelompok-kelompok masyarakat di sekitar kawasan hutan. 
+
+
+============================================
+
+
+Gabungan Kelompok Tani (Gapoktan) Merte Sari berada di kawasan pegunungan di Desa Senggigi, Kecamatan Batu Layar, Kabupaten Lombok Barat. Gapoktan Merte Sari mengelola lahan seluas 226 Ha dengan anggota sebanyak 504 penggarap.
+
+Gapoktan Merte Sari berfokus pada pengembangan komoditas empon-empon dan memulai usahanya sejak tahun 2020. Empon-empon ditanam sebagai tanaman bawah tegakan di kawasan hutan pada areal HKm Gapoktan Merte Sari. Empon-empon tersebut diolah menjadi berbagai produk seperti jamu, bumbu dan serbat. Gapoktan Merte Sari mengembangkan usaha empon-empon dalam kemasan berupa jahe merah, jahe gajah, dan kunyit.
+
+Sebelum program FIP II masuk, Gapoktan Merte Sari menjual empon-empon dalam bentuk bongkahan atau belum diolah dengan jenis jahe, kunyit, dan lengkuas. Harga jual empon-empon di pasar bervariasi mulai dari Rp10.000 hingga Rp15.000. Harga tergantung situasi dan kondisi. Pada musim lebaran atau hari-hari besar keagamaan, harga empon-empon agak meningkat.
+
+Bantuan bibit jahe, lengkuas, dan kunyit ditanam di lahan garapan masing-masing. Lahan-lahan garapan yang awalnya kosong, kini mulai ditanami. Dari 5 kg bibit jahe yang ditanam, para penggarap bisa memanen sebanyak 25 kg jahe. Bantuan FIP II berpengaruh signifikan dalam meningkatkan hasil produksi empon-empon di Gapoktan Merte Sari. Gapoktan Merte Sari mulai dapat memproduksi empon-empon dalam bentuk bubuk. Salah satu produk yang berupa bubuk yaitu bubuk kunyit dengan merk dangang PAS (Produk asli Senggigi). Selain itu, empon-empon telah dikemas secara higienis dan modern. 
+
+Fasilitator lokal FIP II mendampingi pengurusan legalitas usaha kelompok, termasuk NIB, P-IRT, dan sertifikat halal. Setelah semua siap, kemudian produk dijual ke pasar tradisional dan modern. Kelompok juga telah menjual produknya melalui marketplace secara online di Tokopedia dan Shopee. Rata-rata penjualan kelompok sekitar 34 item per bulan.

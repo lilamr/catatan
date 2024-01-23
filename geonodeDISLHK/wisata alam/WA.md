@@ -98,13 +98,29 @@ Air Terjun Lampas Pasan, memiliki ketinggian sekitar 40 meter. Dikelilingi tebin
 
 ## Wisata Alam BKPH Toffo Pajo Soromandi
 
-### Wisata Alam Air Terjun Kantu Ntara
+### Air Terjun Kantu Ntara
 
 Air Terjun Kantu Ntara terletak di KH. Toffo Rompu (RTK 65), tepatnya Dusun Woko Atas Desa Woko Kecamatan Pajo Kabupaten Dompu. Air terjun Kantu Ntara berjarak sekitar 1,5 km dari Desa Woko. Desa Woko sendiri berjarak ± 20 km dari Kota Dompu. Kondisi jalan menunjukkan bahwa dari Kota Dompu sampai ke jalan masuk ke desa dalam kondisi beraspal, jalan masuk dari jalan raya Dompu – Hu’u ke desa merupakan jalan pengerasan dengan kondisi yang baik. Lokasi air terjun dari Kota Dompu dapat ditempuh dengan waktu ± 30 menit dengan kendaraan pribadi atau kendaraan umum, kemudian dilanjutkan dengan ojek sekitar 10 menit menuju Desa Woko dan sekitar 1 jam berjalan kaki dari Dusun Woko menuju lokasi air terjun. Kondisi jalan setapak menuju air terjun kurang terawat dengan lebar sekiatr 1 m. Perjalanan menuju air terjun melewati 2 sungai, hamparan ladang masyarakat dan kemudian tegakan tanaman hutan sampai ke lokasi air terjun. Kondisi topografi yang dilalui landai sampai berbukit. Secara umum lokasi air terjun ini mudah dijangkau oleh masyarakat.
 
 Atraksi yang tersedia adalah atraksi alam (natural attraction) berupa air terjun dengan ketinggian ± 20 m dengan lebar sekitar ± 1 m. Selain itu terdapat cekungan di bawah air terjun yang cukup besar sebagai tempat pemandian. Air terjun Kantu Ntara ini sudah menjadi alternatif tujuan wisata bagi masyarakat lokal yang berasal dari sekitar Kabupaten Dompu. Waktu kunjungan terbanyak adalah pada saat hari libur. Jenis aktifitas yang bisa dilakukan disini adalah : pemandian, trecking, berkemah dan fotografi.
 
+### Air Terjun Ncanga Tolu
 
+Desa Temba Lae terletak di Kec. Pajo, Kab. Dompu. Untuk menuju desa ini kita akan memakan waktu sekitar 30 menit dari Kota Dompu menuju ke arah pantai Lakey. Di Desa ini terdapat air terjun yang sudah cukup terkenal karena keindahannya. Air terjun Ncanga Tolu. Ncanga artinya bercabang, tolu artinya tiga. Dinamakan demikian karena disatu lokasi kita akan menemukan tiga cabang air terjun yang alirannya menyatu dalam satu sungai.
+
+Untuk mencapai lokasi air terjun, kita harus menelusuri jalan setapak memasuki kawasan hutan dengan tegakan yang masih alami, menyeberangi satu sungai yang sama sebanyak tujuh kali, melewati bebatuan yang kalau tidak berhati-hati bisa membuat kita terjatuh karena licinnya. Kurang lebih berjarak 3 km dan ditempuh dengan waktu sekitar 1 jam.
+
+Tapi semuanya terbayar oleh keindahan air terjun yang kita tuju. Sebelum mencapai air terjun Ncanga Tolu, ada dua air terjun lainnya yang bisa kita nikmati sepanjang aliran sungai. Di sini kita bisa bermandi ria melepas lelah dan kalau cukup berani, bisa mencoba untuk lompat dari atas air terjun setinggi kurang lebih 4 meter.
+
+Tiba di air terjun Ncanga Tolu, kita akan terpesona oleh derasnya ketiga aliran air terjun yang mengalir menuruni bebatuan terjal dengan tinggi sekitar 15-20 meter. Ditambah lagi dengan indahnya hijau pepohonan yang tinggi menjulang mengelilingi air terjun.
+
+### Air terjun Oi Kaleli
+
+Desa Bumi Pajo terletak di Kec. Donggo, Kab. Bima. Bisa ditempuh dengan kendaraan sekitar 1 jam dari kota Bima dan setengah jam dari kota Dompu. Selanjutnya menelusuri jalan setapak sekitar 15-20 menit. Berada pada ketinggian 800 Mdpl menjadikan suasana desa ini begitu sejuk dan asri dengan dikelilingi oleh hutan yang menghijau. Di kedalaman hutan itulah tersembunyi potensi wisata alam Air Terjun Oi Kaleli. Untuk menuju Air terjun Oi Kaleli, kita akan menempuh jalan setapak yang masih alami, dengan pepohonan dan semak belukar masih mendominasi sepanjang jalan. Agar tidak tersesat, kita bisa meminta bantuan pada masyarakat setempat sebagai pemandu. Di sepanjang jalan kita akan menemukan terpasang pipa-pipa air minum yang menjadi sumber air bersih bagi beberapa desa di sekitarnya.
+
+Air terjun setinggi 10 meter ini memiliki kolam penampungan yang cukup untuk bermandi ria. Selain menikmati segarnya air pegunungan, kita juga bisa mengabadikan air terjun ini menjadi foto-foto yang menarik. Dinding berlumut disekitar air terjun menambah keindahannya. Setelah menikmati semua itu, menjelang siang kita bisa santai beristirahat sambil menikmati bekal yang dibawa, karena tidak ada penjual makanan disekitarnya.
+
+Selain menikmati keindahan air terjun, berwisata ke Desa Bumi Pajo juga bisa membawa pulang oleh-oleh kopi. Kalau berkunjung sekitar bulan April, ada kemungkinan bisa membawa pulang kopi luwak. Masyarakat di sini sejak zaman kesultanan sudah mengenal dan mengkonsumsi kopi. Dahulu kopi tumbuh liar di dalam hutan dan dikenal dengan nama Kahawa Mpida, yang artinya kopi kecil. Kopi yang ada sekarang, mulai dibudidayakan pada tahun 1975 oleh Bupati Bima H. Umar Harun. Masyarakat memproduksi kopinya secara tradisional dengan digoreng menggunakan wajan terbuat dari tanah liat yang apinya dari kayu bakar. Setelah itu, kopi yang sudah matang coklat kehitaman ditumbuk dengan lesung kayu. Walaupun sekarang masyarakat sudah banyak yang menggiling kopi tersebut dengan mesin, tapi cita rasa dan aroma khas kopi tradisional masih melekat.
 ## Wisata Alam BKPH Madapangga Rompu Waworada
 
 ### Wisata Alam Dam Pela Parado
@@ -114,7 +130,6 @@ Dam Pela Parado merupakan sebuah dam yang difungsikan untuk mengairi areal iriga
 Selain fungsinya sebagai irigasi, Dam Pela Parado dapat difungsikan sebagai asset pariwisata alam dengan berbagai aktivitas wisata. Dam Pela-Parado juga memiliki panorama alam yang indah dan sejuk, diapit oleh dua pegunungan dengan hutan rimba yang alami menjadi kesan dan pesona alami bagi pengunjung. Oleh karena itu, Kawasan Hutan Lindung Parado sangat cocok untuk mengembangkan wisata air seperti bersampan mengelilingi bendungan, menikmati pemandangan dan memancing. Untuk mendukung pengembangan wisata tersebut dibutuhkan beberapa amenitas yang mendukung seperti pengembangan penginapan terapung atau semi terapung di pinggir sungai yang berbatasan dengan kawasan hutan lindung Parado. Selain itu, masyarakat dapat mengembangkan wisata kuliner dengan menu ikan bakar yang bersumber dari Dam dengan bumbu khas Parado yang terkenal yaitu BOHI DUNGGA.
 
 Untuk mengunjungi DAM Pela-Parado dapat menyewa kendaraan umum jurusan Bima-Parado atau menggunakan jasa Ojeg, naik melalui terminal Dara kota Bima atau terminal Tente Kecematan Woha. Untuk mencapai lokasi wisata ini membutuhkan waktu sekitar 1 jam dari ibukota Kabupaten Bima dan 30 menit dari terminal Tente Kecamatan Woha.
-
 
 ## Wisata Alam BKPH Rinjani Timur
 
@@ -143,3 +158,13 @@ dan permainan rakyat.
 
 
 
+
+## Wisata Alam BKPH Tambora
+
+### Air Terjun Bidadari
+
+Selain terkenal sebagai penghasil madu hutan di wilayah Tambora, Desa Oi Panihi juga menyimpan potensi wisata alam yang menarik untuk di kunjungi, yaitu Air Terjun Bidadari. Desa Oi Panihi terletah di Kec. Tambora, Kab. Bima. Untuk mencapai desa ini dari Bima, dapat ditempuh melalu perjalanan darat ± 125 km dengan jarak tempuh ± 4 jam melewati Kabupaten Dompu.
+
+Air terjun Bidadari, merupakan salah satu air terjun dari 8 air terjun di Sori (sungai) Mporimada. Dari 8 air terjun, 3 diantaranya berada dalam kawasan hutan wilayah BKPH Tambora (Bidadari 6 – 8). Air terjun yang terletak di Jalur Pendakian Taman Nasional Tambora ini memang mempunyai daya tarik sendiri untuk dinikmati oleh wisatawan. Lokasi yang berada di jalur pendakian membuat air terjun ini tidak hanya dinikmati oleh para wisatawan yang ini berekreasi ke air terjun saja, tapi juga oleh pendaki yang ini menuju puncak Gunung Tambora.
+
+Suasana vegetasi yang berada di sekitar Air terjun yang masih terjaga menambah keindahan Air Terjun ini jika dilihat dari atas. Ditambah dengan keadaan dan kualitas air yang begitu baik membuat siapa saja yang bermain air disini akan dijamin betah.

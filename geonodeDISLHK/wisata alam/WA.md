@@ -31,7 +31,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kenawa_Island.jpg/1200
 
 ![[wa brpn1.jpg]]
 
-## Bukit Mantar
+### Bukit Mantar
 Desa Mantar merupakan Desa yang berada diatas bukit dengan ketinggian 685 mdpl,desa ini sering dijuluki dengan Negeri Diatas Awan,karena pada pagi hari dibawah lereng perbukitan Mantar bagian timur diselimuti hamparan awan yang tebal.selain itu desa mantar mempunyai wisata Dirga ( udara) yaitu tempat take off Paralayang dan ditambah lagi dengan keindahan Alamnya. 
 https://lomboknews.com/wp-content/uploads/2021/07/Mantar-Desa-Di-Atas-Awan.jpeg
 
@@ -82,3 +82,21 @@ Bendungan Mamak terletak di Desa Tabuse, Kec. Lape Lopok, Kab. Sumbawa. Untuk me
 Daya tarik utama wisata alam disini adalah bendungan. Keberadaan kawasan hutan lindung disekeliling bendungan bisa sebagai lokasi bagi aktivitas tambahan bagi wisatawan. Bendungan mamak dibangun tahun 1992. Sampai sekarang kondisi fisik bendungannya masih dalam kondisi baik. Tapi beberapa sarana wisata seperti tempat peristirahatan dan bangunan pertemuan masih terlihat walaupun tidak terpelihara lagi. Aktivitas wisata yang bisa dilakukan disini yaitu wisata air seperti memancing dan mendayung, fotografi, berkemah dan kegiatan outbond.
 
 
+## Wisata Alam BKPH Toffo Pajo Soromandi
+
+### Wisata Alam Air Terjun Kantu Ntara
+
+Air Terjun Kantu Ntara terletak di KH. Toffo Rompu (RTK 65), tepatnya Dusun Woko Atas Desa Woko Kecamatan Pajo Kabupaten Dompu. Air terjun Kantu Ntara berjarak sekitar 1,5 km dari Desa Woko. Desa Woko sendiri berjarak ± 20 km dari Kota Dompu. Kondisi jalan menunjukkan bahwa dari Kota Dompu sampai ke jalan masuk ke desa dalam kondisi beraspal, jalan masuk dari jalan raya Dompu – Hu’u ke desa merupakan jalan pengerasan dengan kondisi yang baik. Lokasi air terjun dari Kota Dompu dapat ditempuh dengan waktu ± 30 menit dengan kendaraan pribadi atau kendaraan umum, kemudian dilanjutkan dengan ojek sekitar 10 menit menuju Desa Woko dan sekitar 1 jam berjalan kaki dari Dusun Woko menuju lokasi air terjun. Kondisi jalan setapak menuju air terjun kurang terawat dengan lebar sekiatr 1 m. Perjalanan menuju air terjun melewati 2 sungai, hamparan ladang masyarakat dan kemudian tegakan tanaman hutan sampai ke lokasi air terjun. Kondisi topografi yang dilalui landai sampai berbukit. Secara umum lokasi air terjun ini mudah dijangkau oleh masyarakat.
+
+Atraksi yang tersedia adalah atraksi alam (natural attraction) berupa air terjun dengan ketinggian ± 20 m dengan lebar sekitar ± 1 m. Selain itu terdapat cekungan di bawah air terjun yang cukup besar sebagai tempat pemandian. Air terjun Kantu Ntara ini sudah menjadi alternatif tujuan wisata bagi masyarakat lokal yang berasal dari sekitar Kabupaten Dompu. Waktu kunjungan terbanyak adalah pada saat hari libur. Jenis aktifitas yang bisa dilakukan disini adalah : pemandian, trecking, berkemah dan fotografi.
+
+
+## Wisata Alam BKPH Madapangga Rompu Waworada
+
+### Wisata Alam Dam Pela Parado
+
+Dam Pela Parado merupakan sebuah dam yang difungsikan untuk mengairi areal irigasi seluas 3,895 Ha yang meliputi kecamatan Monta, Woha, Belo dan Palibelo. Dibangun dengan panjang tubuh waduk sekitar 320 meter, elevasi dasar sungai 94 meter yang mampu menggenangi areal seluas 104 Ha.
+
+Selain fungsinya sebagai irigasi, Dam Pela Parado dapat difungsikan sebagai asset pariwisata alam dengan berbagai aktivitas wisata. Dam Pela-Parado juga memiliki panorama alam yang indah dan sejuk, diapit oleh dua pegunungan dengan hutan rimba yang alami menjadi kesan dan pesona alami bagi pengunjung. Oleh karena itu, Kawasan Hutan Lindung Parado sangat cocok untuk mengembangkan wisata air seperti bersampan mengelilingi bendungan, menikmati pemandangan dan memancing. Untuk mendukung pengembangan wisata tersebut dibutuhkan beberapa amenitas yang mendukung seperti pengembangan penginapan terapung atau semi terapung di pinggir sungai yang berbatasan dengan kawasan hutan lindung Parado. Selain itu, masyarakat dapat mengembangkan wisata kuliner dengan menu ikan bakar yang bersumber dari Dam dengan bumbu khas Parado yang terkenal yaitu BOHI DUNGGA.
+
+Untuk mengunjungi DAM Pela-Parado dapat menyewa kendaraan umum jurusan Bima-Parado atau menggunakan jasa Ojeg, naik melalui terminal Dara kota Bima atau terminal Tente Kecematan Woha. Untuk mencapai lokasi wisata ini membutuhkan waktu sekitar 1 jam dari ibukota Kabupaten Bima dan 30 menit dari terminal Tente Kecamatan Woha.

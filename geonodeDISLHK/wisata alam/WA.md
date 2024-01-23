@@ -69,6 +69,7 @@ Air Terjun Benang Setokel dan Benang Kelambu, secara administratif terletak di D
 
 Akses jalan menuju Air Terjun Benang Setokel sudah baik dan beraspal, untuk mencapainya kita butuh waktu 30 menit dari gerbang pintu masuk, selain wisatawan lokal, tidak banyak wisatawan yang mengunjungi air terjun ini. Alasannya karena tidak adanya angkutan umum yang membawa ke lokasi air terjun benang stokel. Kondisi akses wisata sudah baik dan sudah ditata dengan rapi. Sedangkan aksesibilitas Air Terjun Benang Kelambu Medan yang sangat curam dan hanya bisa ditempuh dengan jalan kaki, kondisi jalan masih tanah dan berbatu, waktu tempuh untuk sampai ke tempat tujuan adalah 40 menit.
 
+![[Pasted image 20240123152440.png]]
 
 ### Wisata Alam Gunung Sasak
 
@@ -80,7 +81,7 @@ Jarak yang dibutuhkan untuk sampai ke gunung Sasak adalah kurang lebih 15 km dar
 
 Selain itu juga dikawasan atas Gunung Sasak yang dijadikan sebagai obyek wisata, dibangunkan beberapa sarana penunjang seperti berugak sebagai tempat peristirahatan dan sebuah tempat pertemuan atau aula kecil yang berfungsi untuk tempat istirahat bagi para pengunjung. Pada saat ini kawasan Gunung Sasak masih dikelola oleh masyarakat dalam bentuk Hutan Kemasyarakatan (HKm).
 
-
+![[Pasted image 20240123153205.png]]
 
 ## Wisata Alam BKPH Ampang Plampang
 
@@ -90,6 +91,8 @@ Telaga Lompa berlokasi di Desa Muer, Kec. Plampang, Kab. Sumbawa. Untuk sampai k
 
 Daya tarik wisatanya berupa telaga dan mata air dengan luas ± 1.500 m2 di ketinggian 450 mdpl. Disekitarnya terdapat daerah tangkapan air yang dari sana keluar mata air yang menjadi sumber air telaga. Ditepian telaga juga terdapat areal yang bisa dijadikan tempat berkemah seluas ± 10 m2. Selama perjalanan menuju ke telaga kita bisa menikmati pemandangan daerah pemukiman dan laut dari ketinggian puncak gunung. Kita juga akan melewati anak sungai dengan air yang jernih dan menyegarkan. Aktivitas wisata yang bisa dilakukan disini yaitu berkemah, memancing, forest tracking, dan fotografi.
 
+![[Pasted image 20240123153413.png]]
+
 ### Gili Rakit
 
 Selain Pulau Moyo yang sudah terkenal akan keindahan wisata alamnya, terdapat pulau lain yang juga menyimpan potensi wisata di Desa Labuan Aji yaitu bernama Pulau/ Gili Rakit. Desa Labuan Aji sendiri terletak di Kecamatan Tarano, Kabupaten Sumbawa.
@@ -98,6 +101,8 @@ Akses ke Pulau Rakit itu sendiri cukup mudah, biasanya dengan memanfaatkan jasa 
 
 Pantai pasir putih yang menghadap Gunung Tambora, terumbu karang, hutan mangrove yang berusia mungkin seratus tahun, serta berbagai jenis burung pantai, salah satunya Burung Gosong yang diketahui sebagai satwa endemik NTB, menambah eksotik wilayah ini. Keberagaman jenis satwa dan biota laut menjadikan Pulau Rakit dapat dikembangkan sebagai Ekowisata berbasis konservasi sehingga tempat ini tidak hanya akan dikunjungi oleh para wisatawan untuk berlibur, melainkan para akademisi yang melakukan studi atau penelitian tentang satwa liar khususnya burung.
 
+![[Pasted image 20240123153529.png]]
+
 ## Wisata Alam BKPH Ropang
 ### Wisata alam Bendungan Mamak
 
@@ -105,12 +110,15 @@ Bendungan Mamak terletak di Desa Tabuse, Kec. Lape Lopok, Kab. Sumbawa. Untuk me
 
 Daya tarik utama wisata alam disini adalah bendungan. Keberadaan kawasan hutan lindung disekeliling bendungan bisa sebagai lokasi bagi aktivitas tambahan bagi wisatawan. Bendungan mamak dibangun tahun 1992. Sampai sekarang kondisi fisik bendungannya masih dalam kondisi baik. Tapi beberapa sarana wisata seperti tempat peristirahatan dan bangunan pertemuan masih terlihat walaupun tidak terpelihara lagi. Aktivitas wisata yang bisa dilakukan disini yaitu wisata air seperti memancing dan mendayung, fotografi, berkemah dan kegiatan outbond.
 
+![[Pasted image 20240123154234.png]]
+
 ### Air Terjun Lampas Pasan
 
 Desa Mama terletak di Kec. Lopok, Kab. Sumbawa. Di Desa ini terdapat kita bisa menikmati wisata alam Air Terjun Lampas Pasan. Untuk menuju kesana ditempuh jarak ± 35 Km dari Kota Sumbawa Besar. Kondisi jalan baik sampai dengan bendungan walaupun ada sedikit kerusakan dibeberapa titik. Untuk sampai kesana bisa dengan kendaraan roda empat maupun roda dua. Perjalanan ditempuh dalam waktu ± 1,5 jam. 
 
 Air Terjun Lampas Pasan, memiliki ketinggian sekitar 40 meter. Dikelilingi tebing yang kokoh dan di bawahnya terdapat kolam alami yang cukup luas untuk berenang. Dari bendungan mamak menuju lokasi harus menggunakan perahu menuju daerah hulu bendungan dengan waktu tempuh sekitar 30 menit. Setelah sampai di hulu bendungan, perjalanan dilanjutkan menyusuri jalan setapak dengan berjalan kaki sekitar 1,5 jam.
 
+![[Pasted image 20240123154535.png]]
 
 ## Wisata Alam BKPH Toffo Pajo Soromandi
 
@@ -129,6 +137,7 @@ Untuk mencapai lokasi air terjun, kita harus menelusuri jalan setapak memasuki k
 Tapi semuanya terbayar oleh keindahan air terjun yang kita tuju. Sebelum mencapai air terjun Ncanga Tolu, ada dua air terjun lainnya yang bisa kita nikmati sepanjang aliran sungai. Di sini kita bisa bermandi ria melepas lelah dan kalau cukup berani, bisa mencoba untuk lompat dari atas air terjun setinggi kurang lebih 4 meter.
 
 Tiba di air terjun Ncanga Tolu, kita akan terpesona oleh derasnya ketiga aliran air terjun yang mengalir menuruni bebatuan terjal dengan tinggi sekitar 15-20 meter. Ditambah lagi dengan indahnya hijau pepohonan yang tinggi menjulang mengelilingi air terjun.
+![[Pasted image 20240123160127.png]]
 
 ### Air terjun Oi Kaleli
 
@@ -145,10 +154,10 @@ Selain menikmati keindahan air terjun, berwisata ke Desa Bumi Pajo juga bisa mem
 
 Dam Pela Parado merupakan sebuah dam yang difungsikan untuk mengairi areal irigasi seluas 3,895 Ha yang meliputi kecamatan Monta, Woha, Belo dan Palibelo. Dibangun dengan panjang tubuh waduk sekitar 320 meter, elevasi dasar sungai 94 meter yang mampu menggenangi areal seluas 104 Ha.
 
-Selain fungsinya sebagai irigasi, Dam Pela Parado dapat difungsikan sebagai asset pariwisata alam dengan berbagai aktivitas wisata. Dam Pela-Parado juga memiliki panorama alam yang indah dan sejuk, diapit oleh dua pegunungan dengan hutan rimba yang alami menjadi kesan dan pesona alami bagi pengunjung. Oleh karena itu, Kawasan Hutan Lindung Parado sangat cocok untuk mengembangkan wisata air seperti bersampan mengelilingi bendungan, menikmati pemandangan dan memancing. Untuk mendukung pengembangan wisata tersebut dibutuhkan beberapa amenitas yang mendukung seperti pengembangan penginapan terapung atau semi terapung di pinggir sungai yang berbatasan dengan kawasan hutan lindung Parado. Selain itu, masyarakat dapat mengembangkan wisata kuliner dengan menu ikan bakar yang bersumber dari Dam dengan bumbu khas Parado yang terkenal yaitu BOHI DUNGGA.
+Selain fungsinya sebagai irigasi, Dam Pela Parado dapat difungsikan sebagai asset pariwisata alam dengan berbagai aktivitas wisata. Dam Pela-Parado juga memiliki panorama alam yang indah dan sejuk, diapit oleh dua pegunungan dengan hutan rimba yang alami menjadi kesan dan pesona alami bagi pengunjung. Oleh karena itu, Kawasan Hutan Lindung Parado sangat cocok untuk mengembangkan wisata air seperti bersampan mengelilingi bendungan, menikmati pemandangan dan memancing. Untuk mendukung pengembangan wisata tersebut dibutuhkan beberapa amenitas yang mendukung seperti pengembangan penginapan terapung atau semi terapung di pinggir sungai yang berbatasan dengan kawasan hutan lindung Parado.
 
 Untuk mengunjungi DAM Pela-Parado dapat menyewa kendaraan umum jurusan Bima-Parado atau menggunakan jasa Ojeg, naik melalui terminal Dara kota Bima atau terminal Tente Kecematan Woha. Untuk mencapai lokasi wisata ini membutuhkan waktu sekitar 1 jam dari ibukota Kabupaten Bima dan 30 menit dari terminal Tente Kecamatan Woha.
-
+![[Pasted image 20240123160318.png]]
 ## Wisata Alam BKPH Rinjani Timur
 
 ### Bukit Nanggi dan Bukit Dandaun
@@ -159,6 +168,7 @@ Bukit Nanggi merupakan salah satu potensi wisata pendakian di Desa Sembalun Bumb
 
 Desa Sembalun Bumbung memiliki atraksi Budaya unuk bernama Upacara Adat Ngayu-ayu. Upacara adat ini dilakukan 3 tahun sekali, dan sudah dilakukan secara turun temurun sejak 600 tahun silam. Upacara Ngayu-ayu merupakan salah satu upacara adat Masyarakat Desa Sembalun Bumbung yang bertujuan untuk menunjukkan rasa syukur kepada Tuhan Yang Maha Esa atas kelimpahan hasil Bumi, terhindah dari bencana dan penyakit-penyakit yang konon dari zaman dahulu sudah dialami masyarakat.
 
+![[Pasted image 20240123160819.png]]
 
 ## Wisata Alam BKPH Orong Telu
 
@@ -170,13 +180,17 @@ Letaknya yang dekat dengan jalan raya menjadikan air terjun Teba Murin sebagai l
 
 Selain obyek wisata air terjun, setiap tahun di Desa Lenangguar diadakan festival budaya Teba Murin yang menjadi salah satu atraksi budaya di lokasi objek wisata tersebut. Festival ini dimaksudkan untuk mempromosikan daya tarik wisata yang terdapat di Kecamatan Lenangguar. Event ini dimeriahkan dengan berbagai kegiatan seperti pentas seni tradisional maupun hasil kreasi baru, kuliner, pawai, atraksi budaya dan permainan rakyat.
 
+![[Pasted image 20240123161002.png]]
 
 ### Air terjun Aik Beling 
 
 Air terjun Aik Beling terletak di Desa Kuangmo Sempe, Kec. Lenangguar, Kab. Sumbawa. Desa ini terletak di sebuah bukit hijau yang berjarak sekitar 30 km dari kota Sumbawa Besar atau 6 km dari desa Brangrea. Untuk menuju tempat ini harus melalui jalan raya yang menuju selatan Semamung dan selanjutnya ke Brangrea. Jalan masuk ke air terjun ini sepanjang enam kilometer, meskipun jalan menuju ke Air Terjun Ai Beling ini menanjak tajam, tetapi pengunjung tidak perlu khawatir karena jalanan sudah teraspal.
 
-Aik Beling artinya air yang berbicara.  Air terjun ini menyimpan legenda tentang seorang putri yang bunuh diri karena tidak setuju dijodohkan dengan pria yang tidak dicintainya.
+Aik Beling artinya air yang berbicara. Suara dari air terjun tersebut bisa terdengar hingga ke perkampungan yang berjarak 5 km. Cerita lainnya adalah dinamakan Ai Beling karena sering terdengar suara wanita menangis. Air terjun ini menyimpan legenda tentang seorang putri yang bunuh diri karena tidak setuju dijodohkan dengan pria yang tidak dicintainya.
 
+Air terjun cantik ini menawarkan keindahan yang cukup berbeda dari air terjun kebanyakan. Air Terjun Ai Beling ini memiliki susunan aliran air terjun yang bertingkat-tingkat. Air terjun ini menawarkan 2 air terjun utama di kedua sudutnya sehingga dibagian tengah terdapat beberapa air terjun kecil yang kesemuanya mengalir ke sungai dibawahnya. Pemandangan susunan air terjun ini begitu mempesona dan menghipnotis wisatawan. Sehingga banyak wisatawan yang berusaha datang ke tempat ini.
+
+![[Pasted image 20240123161547.png]]
 
 ## Wisata Alam BKPH Tambora
 
@@ -187,6 +201,9 @@ Selain terkenal sebagai penghasil madu hutan di wilayah Tambora, Desa Oi Panihi 
 Air terjun Bidadari, merupakan salah satu air terjun dari 8 air terjun di Sori (sungai) Mporimada. Dari 8 air terjun, 3 diantaranya berada dalam kawasan hutan wilayah BKPH Tambora (Bidadari 6 – 8). Air terjun yang terletak di Jalur Pendakian Taman Nasional Tambora ini memang mempunyai daya tarik sendiri untuk dinikmati oleh wisatawan. Lokasi yang berada di jalur pendakian membuat air terjun ini tidak hanya dinikmati oleh para wisatawan yang ini berekreasi ke air terjun saja, tapi juga oleh pendaki yang ini menuju puncak Gunung Tambora.
 
 Suasana vegetasi yang berada di sekitar Air terjun yang masih terjaga menambah keindahan Air Terjun ini jika dilihat dari atas. Ditambah dengan keadaan dan kualitas air yang begitu baik membuat siapa saja yang bermain air disini akan dijamin betah.
+
+![[Pasted image 20240123162109.png]]
+
 ## Wisata Alam BKPH Maria Donggomasa
 
 ### Pulau Kelapa
@@ -207,3 +224,7 @@ Lokasi Tahura Nuraksa berjarak ± 30 km dari ibukota Provinsi NTB (Kota Mataram)
 Tahura Nuraksa memiliki potensi wisata alam yang menarik untuk dikunjungi dan dinikmati sebagai ajang rekreasi, diantaranya; 1) Air Terjun Segenter yang memiliki ketinggian ± 25 m dengan kolam yang terbentuk secara alami dan air yang jernih dan telah ditetapkan sebagai salah satu Geosite Geopark Rinjani, 2) Goa Pengkoak yang dialiri air sering disebut sebagai goa air oleh masyarakat. Selama ini Goa Pengkoak rutin dikunjungi oleh umat Hindu di Lombok sebagai lokasi ziarah, 3) medan yang menarik dan menantang untuk kegiatan olah raga sepeda gunung maupun motor trail sambil menikmati berbagai jenis vegetasi dan satwa liar yang terdapat di Tahura Nuraksa, 4) koleksi satwa berupa rusa, kelinci, dan berbagai jenis burung. Untuk menambah kepuasan pengunjung, Balai Tahura Nuraksa juga memfasilitasi beberapa atraksi wisata, seperti; 1) wisata berkuda dan patroli gabungan bekerjasama dengan Brigade Satwa Turangga Polda NTB, 2) area camping ground untuk kegiatan jungle survival dan wisata edukasi, 3) patroli/safari malam hari mengelilingi Kawasan Tahura Nuraksa bersama personil pengaman hutan (pamhut), 4) kesenian musik Cilokaq yang sarat dengan pesan-pesan moral yang disampaikan dengan maksud menghibur.
 
 Kawasan Tahura juga Nuraksa memiliki keanekaragaman hayati (biodiversitas) baik flora dan fauna yang cukup tinggi. Beberapa jenis fauna yang terdapat dan masih dapat dijumpai di Tahura Nuraksa, antara lain; rusa (Cervus timorensis), kera (Macaca fascicularis), lutung (Trachypithecus auratus), babi hutan (Sus scrofa), ular hijau ekor merah (Trimeresurus albolabris), ular sanca (Phyton reticulatus), biawak (Varanus salvator), landak (Hystricomorph hystricidae), musang (Paradoxurus hermaphroditus), kucing hutan (Felis planiceps), ayam hutan (Gallus sp), burung koak-kaok (Philemon buceroides), burung punglor (Zoothera leucolaema), burung kecial (Zosterops sp), cabai lombok (Dicaeum maugei), celepuk rinjani (Otus jolanodea). Adapun jenis flora yang dimiliki Tahura Nuraksa, yaitu; mahoni (Swietenia mahagoni), kesambi (Scleria oleosa), klokos (Syzygium javanica), sonokleing (Dalbergia latifolia), beringin (Ficus indica), rajumas (Duabanga moluccana), buak oda (Planchonella nitida), garu (Lansium sp), sengon (Paraserianthes falcataria), kemiri (Aleurites moluccana), durian (Durio zibethinus), nangka (Artocarpus integra), anggrek hutan (Cymbidium simulans), paku gunung (Pteris sp.), pakis hutan (Angiopteris evecta).
+
+![[Pasted image 20240123162745.png]]
+
+![[Pasted image 20240123162646.png]]

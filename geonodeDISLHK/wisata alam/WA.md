@@ -23,6 +23,22 @@ https://upload.wikimedia.org/wikipedia/commons/b/b1/Senaru_Waterfall.JPG
 
 ![[wa rinbar3.jpg]]
 
+### Air Terjun Timponan Atas/ Tiu Tiding
+
+Air terjun Temponan Atas atau dikenal juga dengan nama Tiu Tiding terletak di Desa Genggelang, Kec. Gangga, Kab. Lombok Utara. Untuk sampai ke lokasi air terjun, dari kota mataram menempuh jarak ± 25 Km ke Desa Genggelang, Kec. Gangga, Kab. Lombok Utara. Dengan kondisi jalan yang baik bisa ditempuh dengan waktu sekitar 1,5 jam. Kemudian dari Desa Genggelang, bisa ditempuh dengan kendaraan bermotor ke Dusun Tepos Kujur ± 4 Km dengan kondisi jalan sebagian beraspal dan sebagian pengerasan dengan rabat beton. Dari dusun menuju ke air terjun hanya bisa dilalui dengan motor. Kondisi jalan tanah sejauh ± 5 Km. Jalan ini biasa dilalui masyarakat untuk mengakut hasil kebun berupa buah-buahan.  Selanjutnya akan diteruskan dengan berjalan kaki ± 500 m lagi menelusuri jalan setapak yang cukup curam untuk sampai ke air terjun.
+
+Daya tarik wisata utama yang bisa dinikmati berupa air terjun dengan tinggi ± 60 m di ketinggian 721 mdpl. Di bawahnya terdapat kolam yang bisa digunakan sebagai tempat pemandian. Aktivitas wisata yang bisa dilakukan disini yaitu forest tracking, wisata agro, berkemah, dan fotografi. Air terjun Temponan atas mulai dikenal sejak awal tahun 2016. Pengelolaan dilakukan oleh masyarakat sekitar yang tergabung dalam pokdarwis tepos kujur berupa menyediakan papan penunjuk dan beberapa papan nama untuk memberitahukan lokasi air terjun. Tersedia juga jasa pemandu dengan menggunakan motor, karena jalan yang harus dilalui memiliki banyak cabang.
+
+![[Pasted image 20240123125807.png]]
+
+### Hutan Adat Mandala 
+
+Hutan Adat Mandala merupakan sebuah nama Dusun yang terletak di Desa Bayan, Kecamatan Bayan, Kabupaten Lombok Utara. Kata Mandala menurut tokoh adat setempat berasal dari kata Man yang berarti “Pemberian” dan ditambahkan kata Dala yang berarti “Pemberian Tuhan Yang Maha Esa”.
+
+Selain dijadikan nama dusun, Mandala juga dijadikan nama sebuah Hutan Adat atau Pawang yang dikelola oleh masyarakat adat, sehingga dikenal dengan sebutan Pawang Adat Mandala.Areal Hutan Adat ini tidak terlalu luas, namun memiliki puluhan sumber mata air yang berasal dari Gunung Rinjani dan Sangkareang.
+
+Pengelolaan Hutan Adat (Pawang Mandala) merupakan wujud hubungan Suku Bayan dengan Lingkungan yang menghargai dan menjaga keberadaannya sehingga memberi manfaat yang besar bagi masyarakat Bayan. Hutan Adat Mandala memiliki awik-awik yang mengedepankan upaya-upaya pelestarian alam. Bentuk pemanfaatan hutan adat ini berupa agroforestry dan pemanfaatan Jasa Lingkungan kolam pemandian Mandala.
+
 ## Wisata Alam BKPH Brangrea Puncak Ngengas
 
 ### Pulau Kenawa
@@ -66,7 +82,7 @@ Selain itu juga dikawasan atas Gunung Sasak yang dijadikan sebagai obyek wisata,
 
 
 
-## Wisata alam BKPH Ampang Plampang
+## Wisata Alam BKPH Ampang Plampang
 
 ### Wisata Alam Telaga Lompa
 
@@ -121,6 +137,8 @@ Desa Bumi Pajo terletak di Kec. Donggo, Kab. Bima. Bisa ditempuh dengan kendaraa
 Air terjun setinggi 10 meter ini memiliki kolam penampungan yang cukup untuk bermandi ria. Selain menikmati segarnya air pegunungan, kita juga bisa mengabadikan air terjun ini menjadi foto-foto yang menarik. Dinding berlumut disekitar air terjun menambah keindahannya. Setelah menikmati semua itu, menjelang siang kita bisa santai beristirahat sambil menikmati bekal yang dibawa, karena tidak ada penjual makanan disekitarnya.
 
 Selain menikmati keindahan air terjun, berwisata ke Desa Bumi Pajo juga bisa membawa pulang oleh-oleh kopi. Kalau berkunjung sekitar bulan April, ada kemungkinan bisa membawa pulang kopi luwak. Masyarakat di sini sejak zaman kesultanan sudah mengenal dan mengkonsumsi kopi. Dahulu kopi tumbuh liar di dalam hutan dan dikenal dengan nama Kahawa Mpida, yang artinya kopi kecil. Kopi yang ada sekarang, mulai dibudidayakan pada tahun 1975 oleh Bupati Bima H. Umar Harun. Masyarakat memproduksi kopinya secara tradisional dengan digoreng menggunakan wajan terbuat dari tanah liat yang apinya dari kayu bakar. Setelah itu, kopi yang sudah matang coklat kehitaman ditumbuk dengan lesung kayu. Walaupun sekarang masyarakat sudah banyak yang menggiling kopi tersebut dengan mesin, tapi cita rasa dan aroma khas kopi tradisional masih melekat.
+
+![[Pasted image 20240123125910.png]]
 ## Wisata Alam BKPH Madapangga Rompu Waworada
 
 ### Wisata Alam Dam Pela Parado
@@ -150,13 +168,14 @@ Desa Lenangguar terletak di Kecamatan Lenangguar, Kabupaten Sumbawa. Dari kota S
 
 Letaknya yang dekat dengan jalan raya menjadikan air terjun Teba Murin sebagai lokasi yang strategis sebagai tempat para pelancong untuk bisa beristirahat dan melepas lelah. Bentuk air terjun yang menyerupai seluncuran air raksasa dengan kolam air besar di bawahnya bisa dimanfaatkan oleh pengunjung untuk menikmati aksi bermain “waterboom” alami.
 
-Selain obyek wisata air terjun, setiap tahun di Desa Lenangguar diadakan festival budaya Teba Murin yang menjadi salah satu atraksi budaya di lokasi objek wisata tersebut. Festival ini dimaksudkan untuk mempromosikan daya tarik wisata yang terdapat di Kecamatan Lenangguar. Event ini dimeriahkan dengan berbagai kegiatan seperti pentas seni tradisional maupun hasil kreasi baru, kuliner, pawai, atraksi budaya
-dan permainan rakyat.
+Selain obyek wisata air terjun, setiap tahun di Desa Lenangguar diadakan festival budaya Teba Murin yang menjadi salah satu atraksi budaya di lokasi objek wisata tersebut. Festival ini dimaksudkan untuk mempromosikan daya tarik wisata yang terdapat di Kecamatan Lenangguar. Event ini dimeriahkan dengan berbagai kegiatan seperti pentas seni tradisional maupun hasil kreasi baru, kuliner, pawai, atraksi budaya dan permainan rakyat.
 
 
+### Air terjun Aik Beling 
 
+Air terjun Aik Beling terletak di Desa Kuangmo Sempe, Kec. Lenangguar, Kab. Sumbawa. Desa ini terletak di sebuah bukit hijau yang berjarak sekitar 30 km dari kota Sumbawa Besar atau 6 km dari desa Brangrea. Untuk menuju tempat ini harus melalui jalan raya yang menuju selatan Semamung dan selanjutnya ke Brangrea. Jalan masuk ke air terjun ini sepanjang enam kilometer, meskipun jalan menuju ke Air Terjun Ai Beling ini menanjak tajam, tetapi pengunjung tidak perlu khawatir karena jalanan sudah teraspal.
 
-
+Aik Beling artinya air yang berbicara.  Air terjun ini menyimpan legenda tentang seorang putri yang bunuh diri karena tidak setuju dijodohkan dengan pria yang tidak dicintainya.
 
 
 ## Wisata Alam BKPH Tambora
@@ -168,3 +187,23 @@ Selain terkenal sebagai penghasil madu hutan di wilayah Tambora, Desa Oi Panihi 
 Air terjun Bidadari, merupakan salah satu air terjun dari 8 air terjun di Sori (sungai) Mporimada. Dari 8 air terjun, 3 diantaranya berada dalam kawasan hutan wilayah BKPH Tambora (Bidadari 6 – 8). Air terjun yang terletak di Jalur Pendakian Taman Nasional Tambora ini memang mempunyai daya tarik sendiri untuk dinikmati oleh wisatawan. Lokasi yang berada di jalur pendakian membuat air terjun ini tidak hanya dinikmati oleh para wisatawan yang ini berekreasi ke air terjun saja, tapi juga oleh pendaki yang ini menuju puncak Gunung Tambora.
 
 Suasana vegetasi yang berada di sekitar Air terjun yang masih terjaga menambah keindahan Air Terjun ini jika dilihat dari atas. Ditambah dengan keadaan dan kualitas air yang begitu baik membuat siapa saja yang bermain air disini akan dijamin betah.
+## Wisata Alam BKPH Maria Donggomasa
+
+### Pulau Kelapa
+
+Desa Soro terletak di Kec. Lambu, Kab. Bima. Jarak Desa Soro dari ibu kota kecamatan adalah 6 km atau 20 menit, sedangkan jarak tempuh ke ibu kota kabupaten 48 km atau 1,5 jam. Di wilayah desa ini terdapat potensi wisata alam berupa pulau yang disebut-sebut sebagai miniaturnya Raja Ampat yaitu pulau Kelapa.
+
+Aksesibilitas menuju pulau ini sangat mudah karena lokasinya sangat dekat dengan Pelabuhan Sape di Kecamatan Sape. Dengan menggunakan perahu boat dari pelabuhan, para pengunjung akan dapat melihat keindahan dan keelokan pulau ini 2 jam kemudian.
+
+Berbicara tentang keindahan alam, pulau Kelapa tidak bisa dipandang sebelah mata. Banyak keunggulan yang dimiliki pulau ini, diantaranya: 1) wilayah timur pulau ini sangat mirip dengat Raja Ampat dengan keindahan gugusan pulau-pulau kecil tersebar di sebelah timurnya, rerumputan yang elok, bukit yang berkelok, padang savana yang indah dan luas dan pesona yang menawan di saat matahari terbit; 2) wilayah selatan, sangat tepat dibangun dermaga dan areal tracking sebab lokasinya relatif landai dan datar serta panorama dan keindahan pantai yang menakjubkan; 3) wilayah barat, serba-serbi keindahan terpampang di areal ini dengan eksotisnya saat matahari terbenam, pantai yang indah dan tenang, serta pasir putih yang mengkilau terhampar luas; 4) wilayah utara, areal dataran yang datar dan pasir putih yang bakal memanjakan pengunjungnya, areal camp yang bagus dan mempesona; 5) dan di tengahnya, terhampar dataran yang cocok dijadikan sebagai lokasi hunian bagi para pengunjung.
+
+![[Pasted image 20240123130042.png]]
+## Wisata Alam Tahura Nuraksa
+
+Taman Hutan Raya (Tahura) Nuraksa adalah satu-satunya Kawasan Konservasi di NTB yang kewenangan pengelolaannya merupakan tanggung jawab Pemerintah Provinsi NTB. Kawasan konservasi yang umum dikenal oleh masyarakat, seperti: Taman Nasional, Taman Wisata Alam, Cagar Alam, Suaka Margasatwa, kesemuanya itu kewenangan pengelolaannya berada di pemerintah pusat. Oleh karenanya, Tahura Nuraksa dapat dikatakan sebagai sebuah peluang sekaligus tantangan bagi Pemerintah Provinsi NTB. Peluangnya adalah bagaimana menjadikan Tahura Nuraksa sebagai sebuah potensi sumberdaya alam yang dapat mendukung upaya pelestarian keragaman hayati (biodiversitas) daerah, peningkatan kesejahteraan masyarakat dan Pendapatan Asli Daerah (PAD) melalui pengelolaan obyek wisata alam berupa panorama bentang alam, air terjun, goa, dan kebun agroforestri yang terdapat di Tahura Nuraksa. Adapun tantangannya adalah memastikan bahwa Pemerintah Provinsi NTB mampu mengelola Tahura Nuraksa dengan profesional dan berkelanjutan agar keberadaan Tahura Nuraksa sebagai kawasan konservasi yang merupakan benteng pertahanan terakhir keragaman hayati daerah dapat terjaga dan lestari.
+
+Lokasi Tahura Nuraksa berjarak ± 30 km dari ibukota Provinsi NTB (Kota Mataram) yang dapat ditempuh dengan menggunakan kendaraan roda dua dan roda empat sekitar ± 45 menit dengan kondisi jalan beraspal. Secara administratif, wilayah Tahura Nuraksa seluas 3.155 ha terletak di Desa Pakuan dan Desa Lebah Sempaga Kecamatan Narmada Kabupaten Lombok Barat serta Desa Karang Sidemen Kecamatan Batukliang Utara, Kabupaten Lombok Tengah.
+
+Tahura Nuraksa memiliki potensi wisata alam yang menarik untuk dikunjungi dan dinikmati sebagai ajang rekreasi, diantaranya; 1) Air Terjun Segenter yang memiliki ketinggian ± 25 m dengan kolam yang terbentuk secara alami dan air yang jernih dan telah ditetapkan sebagai salah satu Geosite Geopark Rinjani, 2) Goa Pengkoak yang dialiri air sering disebut sebagai goa air oleh masyarakat. Selama ini Goa Pengkoak rutin dikunjungi oleh umat Hindu di Lombok sebagai lokasi ziarah, 3) medan yang menarik dan menantang untuk kegiatan olah raga sepeda gunung maupun motor trail sambil menikmati berbagai jenis vegetasi dan satwa liar yang terdapat di Tahura Nuraksa, 4) koleksi satwa berupa rusa, kelinci, dan berbagai jenis burung. Untuk menambah kepuasan pengunjung, Balai Tahura Nuraksa juga memfasilitasi beberapa atraksi wisata, seperti; 1) wisata berkuda dan patroli gabungan bekerjasama dengan Brigade Satwa Turangga Polda NTB, 2) area camping ground untuk kegiatan jungle survival dan wisata edukasi, 3) patroli/safari malam hari mengelilingi Kawasan Tahura Nuraksa bersama personil pengaman hutan (pamhut), 4) kesenian musik Cilokaq yang sarat dengan pesan-pesan moral yang disampaikan dengan maksud menghibur.
+
+Kawasan Tahura juga Nuraksa memiliki keanekaragaman hayati (biodiversitas) baik flora dan fauna yang cukup tinggi. Beberapa jenis fauna yang terdapat dan masih dapat dijumpai di Tahura Nuraksa, antara lain; rusa (Cervus timorensis), kera (Macaca fascicularis), lutung (Trachypithecus auratus), babi hutan (Sus scrofa), ular hijau ekor merah (Trimeresurus albolabris), ular sanca (Phyton reticulatus), biawak (Varanus salvator), landak (Hystricomorph hystricidae), musang (Paradoxurus hermaphroditus), kucing hutan (Felis planiceps), ayam hutan (Gallus sp), burung koak-kaok (Philemon buceroides), burung punglor (Zoothera leucolaema), burung kecial (Zosterops sp), cabai lombok (Dicaeum maugei), celepuk rinjani (Otus jolanodea). Adapun jenis flora yang dimiliki Tahura Nuraksa, yaitu; mahoni (Swietenia mahagoni), kesambi (Scleria oleosa), klokos (Syzygium javanica), sonokleing (Dalbergia latifolia), beringin (Ficus indica), rajumas (Duabanga moluccana), buak oda (Planchonella nitida), garu (Lansium sp), sengon (Paraserianthes falcataria), kemiri (Aleurites moluccana), durian (Durio zibethinus), nangka (Artocarpus integra), anggrek hutan (Cymbidium simulans), paku gunung (Pteris sp.), pakis hutan (Angiopteris evecta).

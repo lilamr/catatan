@@ -74,12 +74,26 @@ Telaga Lompa berlokasi di Desa Muer, Kec. Plampang, Kab. Sumbawa. Untuk sampai k
 
 Daya tarik wisatanya berupa telaga dan mata air dengan luas ± 1.500 m2 di ketinggian 450 mdpl. Disekitarnya terdapat daerah tangkapan air yang dari sana keluar mata air yang menjadi sumber air telaga. Ditepian telaga juga terdapat areal yang bisa dijadikan tempat berkemah seluas ± 10 m2. Selama perjalanan menuju ke telaga kita bisa menikmati pemandangan daerah pemukiman dan laut dari ketinggian puncak gunung. Kita juga akan melewati anak sungai dengan air yang jernih dan menyegarkan. Aktivitas wisata yang bisa dilakukan disini yaitu berkemah, memancing, forest tracking, dan fotografi.
 
+### Gili Rakit
 
+Selain Pulau Moyo yang sudah terkenal akan keindahan wisata alamnya, terdapat pulau lain yang juga menyimpan potensi wisata di Desa Labuan Aji yaitu bernama Pulau/ Gili Rakit. Desa Labuan Aji sendiri terletak di Kecamatan Tarano, Kabupaten Sumbawa.
+
+Akses ke Pulau Rakit itu sendiri cukup mudah, biasanya dengan memanfaatkan jasa angkutan perahu motor nelayan setempat disekitar pesisir pantai Kecamatan Tarano, dengan Jalur penyebrangan yaitu Desa Labuan Aji dan Desa Labuhan Jambu. Selama ini, orang hanya tahu kalau Gili Rakit yang luasnya kurang lebih 2.000 Ha ini sebagai tempat menitip ternak masyarakat ketika musim sawah tiba. Tapi ternyata disisi lain Gili Rakit bak sepenggal tanah dari surga di Teluk Saleh.
+
+Pantai pasir putih yang menghadap Gunung Tambora, terumbu karang, hutan mangrove yang berusia mungkin seratus tahun, serta berbagai jenis burung pantai, salah satunya Burung Gosong yang diketahui sebagai satwa endemik NTB, menambah eksotik wilayah ini. Keberagaman jenis satwa dan biota laut menjadikan Pulau Rakit dapat dikembangkan sebagai Ekowisata berbasis konservasi sehingga tempat ini tidak hanya akan dikunjungi oleh para wisatawan untuk berlibur, melainkan para akademisi yang melakukan studi atau penelitian tentang satwa liar khususnya burung.
+
+## Wisata Alam BKPH Ropang
 ### Wisata alam Bendungan Mamak
 
 Bendungan Mamak terletak di Desa Tabuse, Kec. Lape Lopok, Kab. Sumbawa. Untuk menuju Dam Mamak ditempuh jarak ± 35 Km dari Kota Sumbawa Besar. Kondisi jalan baik sampai dengan bendungan walaupun ada sedikit kerusakan dibeberapa titik. Untuk sampai kesana bisa dengan kendaraan roda empat maupun roda dua. Perjalanan ditempuh ± 1,5 jam.
 
 Daya tarik utama wisata alam disini adalah bendungan. Keberadaan kawasan hutan lindung disekeliling bendungan bisa sebagai lokasi bagi aktivitas tambahan bagi wisatawan. Bendungan mamak dibangun tahun 1992. Sampai sekarang kondisi fisik bendungannya masih dalam kondisi baik. Tapi beberapa sarana wisata seperti tempat peristirahatan dan bangunan pertemuan masih terlihat walaupun tidak terpelihara lagi. Aktivitas wisata yang bisa dilakukan disini yaitu wisata air seperti memancing dan mendayung, fotografi, berkemah dan kegiatan outbond.
+
+### Air Terjun Lampas Pasan
+
+Desa Mama terletak di Kec. Lopok, Kab. Sumbawa. Di Desa ini terdapat kita bisa menikmati wisata alam Air Terjun Lampas Pasan. Untuk menuju kesana ditempuh jarak ± 35 Km dari Kota Sumbawa Besar. Kondisi jalan baik sampai dengan bendungan walaupun ada sedikit kerusakan dibeberapa titik. Untuk sampai kesana bisa dengan kendaraan roda empat maupun roda dua. Perjalanan ditempuh dalam waktu ± 1,5 jam. 
+
+Air Terjun Lampas Pasan, memiliki ketinggian sekitar 40 meter. Dikelilingi tebing yang kokoh dan di bawahnya terdapat kolam alami yang cukup luas untuk berenang. Dari bendungan mamak menuju lokasi harus menggunakan perahu menuju daerah hulu bendungan dengan waktu tempuh sekitar 30 menit. Setelah sampai di hulu bendungan, perjalanan dilanjutkan menyusuri jalan setapak dengan berjalan kaki sekitar 1,5 jam.
 
 
 ## Wisata Alam BKPH Toffo Pajo Soromandi
@@ -100,3 +114,32 @@ Dam Pela Parado merupakan sebuah dam yang difungsikan untuk mengairi areal iriga
 Selain fungsinya sebagai irigasi, Dam Pela Parado dapat difungsikan sebagai asset pariwisata alam dengan berbagai aktivitas wisata. Dam Pela-Parado juga memiliki panorama alam yang indah dan sejuk, diapit oleh dua pegunungan dengan hutan rimba yang alami menjadi kesan dan pesona alami bagi pengunjung. Oleh karena itu, Kawasan Hutan Lindung Parado sangat cocok untuk mengembangkan wisata air seperti bersampan mengelilingi bendungan, menikmati pemandangan dan memancing. Untuk mendukung pengembangan wisata tersebut dibutuhkan beberapa amenitas yang mendukung seperti pengembangan penginapan terapung atau semi terapung di pinggir sungai yang berbatasan dengan kawasan hutan lindung Parado. Selain itu, masyarakat dapat mengembangkan wisata kuliner dengan menu ikan bakar yang bersumber dari Dam dengan bumbu khas Parado yang terkenal yaitu BOHI DUNGGA.
 
 Untuk mengunjungi DAM Pela-Parado dapat menyewa kendaraan umum jurusan Bima-Parado atau menggunakan jasa Ojeg, naik melalui terminal Dara kota Bima atau terminal Tente Kecematan Woha. Untuk mencapai lokasi wisata ini membutuhkan waktu sekitar 1 jam dari ibukota Kabupaten Bima dan 30 menit dari terminal Tente Kecamatan Woha.
+
+
+## Wisata Alam BKPH Rinjani Timur
+
+### Bukit Nanggi dan Bukit Dandaun
+
+Dari Kota Mataram menuju Desa Sembalun Bumbung menempuh jalan darat ± 90 Km. Setelah sampai di Desa Sembalun Bumbung wisatawan melanjutkan perjalanan menuju puncak Bukit Nanggi melalui jalan setapak dengan menempuh perjalanan selama ± 6 jam. Di Lokasi Wisata ini banyak terdapat Trekking Organizer yang dapat digunakan jasanya untuk menjadi pemandu selama pendakian wisatawan. Terdapat banyak penginapan yang sudah berdiri dan beroperasi di Desa Sembalun Bumbung. Akses listrik, telekomunikasi dan Anjungan Tunai Mandiri sudah tersedia di sekitar kawasan lokasi ini.
+
+Bukit Nanggi merupakan salah satu potensi wisata pendakian di Desa Sembalun Bumbung Kecamatan Sembalun. Dari atas Bukit ini wisatawan dimanjakan dengan pemandangan Puncak Gunung Rinjani, Desa Sembalun, Gunung Tambora, Pulau Sumbawa dan Desa-desa kecil yang ada di Kecamatan Sambelia, Pringgabaya dan Suela. Bukit Dandaun merupakan salah satu destinasi wisata di Desa Sembalun Bumbung. Bukit ini menawarkan pemandangan yang menakjubkan dan menjadi referensi untuk relaksasi dan fotograﬁ.
+
+Desa Sembalun Bumbung memiliki atraksi Budaya unuk bernama Upacara Adat Ngayu-ayu. Upacara adat ini dilakukan 3 tahun sekali, dan sudah dilakukan secara turun temurun sejak 600 tahun silam. Upacara Ngayu-ayu merupakan salah satu upacara adat Masyarakat Desa Sembalun Bumbung yang bertujuan untuk menunjukkan rasa syukur kepada Tuhan Yang Maha Esa atas kelimpahan hasil Bumi, terhindah dari bencana dan penyakit-penyakit yang konon dari zaman dahulu sudah dialami masyarakat.
+
+
+## Wisata Alam BKPH Orong Telu
+
+### Air Terjun Teba Murin
+
+Desa Lenangguar terletak di Kecamatan Lenangguar, Kabupaten Sumbawa. Dari kota Sumbawa berjarak sekitar 36 km, dapat ditempuh dengan lama perjalanan kurang lebih 1 jam. Tidak jauh dari jalan raya Sumbawa-Lunyuk di Desa Lenangguar, kita akan menemukan satu-satunya destinasi wisata alam di sepanjang jalur ini yaitu Air Terjun Teba Murin. Dari pinggir jalan tempat kita memarkir kendaraan, hanya perlu menelusuri jalan setapak berhutan sekitar 15 menit untuk sampai ke air terjun.
+
+Letaknya yang dekat dengan jalan raya menjadikan air terjun Teba Murin sebagai lokasi yang strategis sebagai tempat para pelancong untuk bisa beristirahat dan melepas lelah. Bentuk air terjun yang menyerupai seluncuran air raksasa dengan kolam air besar di bawahnya bisa dimanfaatkan oleh pengunjung untuk menikmati aksi bermain “waterboom” alami.
+
+Selain obyek wisata air terjun, setiap tahun di Desa Lenangguar diadakan festival budaya Teba Murin yang menjadi salah satu atraksi budaya di lokasi objek wisata tersebut. Festival ini dimaksudkan untuk mempromosikan daya tarik wisata yang terdapat di Kecamatan Lenangguar. Event ini dimeriahkan dengan berbagai kegiatan seperti pentas seni tradisional maupun hasil kreasi baru, kuliner, pawai, atraksi budaya
+dan permainan rakyat.
+
+
+
+
+
+

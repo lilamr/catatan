@@ -43,3 +43,42 @@ Air Terjun Agal sangat unik karena memiliki 10 tingkat. Air terjun mengalir dera
 https://www.travelfish.org/blogs/indonesia/wp-content/uploads/2016/04/agal-1.jpg
 
 ![[wa brpn3.jpg]]
+
+
+## Wisata Alam BKPH Pelangan Tastura
+
+### Air Terjun Benang Setokel dan Benang Kelambu
+
+Air Terjun Benang Setokel dan Benang Kelambu, secara administratif terletak di Desa Aik Berik Kecamatan Batukliang Utara Kabupaten Lombok Tengah dan merupakan bagian dari Kelompok Hutan Gunung Rinjani (RTK 1). Keadaan topografi di Kawasan Hutan Lindung pada umumnya bervariasi mulai dari Datar sampai dengan kelerengan lapangan antara 8% - 15% dan sebagian besar Agak Curam sampai Curam dengan kelerengan lapangan antara 15% - 40%. Kondisi objek daya tarik wisata alam Benang Stokel memiliki air terjun kembar yang sama sama menarik untuk berenang di bawahnya. Dari kedua sisi kiri lebih tinggi dan lebih deras airnya. Sedangkan Air Terjun Benang Kelambu setinggi 40 Meter dengan bentuk yang sangat unik dan jarang air terjun dengan bentuk seperti air terjun Benang Kelambu.
+
+Akses jalan menuju Air Terjun Benang Setokel sudah baik dan beraspal, untuk mencapainya kita butuh waktu 30 menit dari gerbang pintu masuk, selain wisatawan lokal, tidak banyak wisatawan yang mengunjungi air terjun ini. Alasannya karena tidak adanya angkutan umum yang membawa ke lokasi air terjun benang stokel. Kondisi akses wisata sudah baik dan sudah ditata dengan rapi. Sedangkan aksesibilitas Air Terjun Benang Kelambu Medan yang sangat curam dan hanya bisa ditempuh dengan jalan kaki, kondisi jalan masih tanah dan berbatu, waktu tempuh untuk sampai ke tempat tujuan adalah 40 menit.
+
+
+### Wisata Alam Gunung Sasak
+
+Secara administrasi kawasan ini berada di wilayah desa Kuripan Kecamatan Kuripan Kabupaten Lombok Barat KH Gunung Sasak (RTK 3). Kawasan wisata alam Gunung Sasak merupakan kawasan wisata pegunungan dengan ketinggian kurang lebih 700 mdpl, dengan pemandangan Wisata alam Gunung Sasak yang mampu membuat pengunjung terpesona bila dapat berkunjung kesana karena pemandangannya yang indah serta kita dapat melihat wilayah Lombok Barat dan Kota mataram. Panorama yang memukau lainnya yang dapat dinikmati dari atas gunung sasak adalah pesona terbitnya matahari di pagi hari.
+
+Obyek wisata alam yang dapat dijumpai disekitar kawasan wisata gunung sasak adalah selain dari menyajikan pemandangan yang indah, juga diatas Gunung Sasak ada beberapa lokasi pilihan wisata yaitu, Batu Kemeras yang terkenal sebagai tempat ibadah umat Hindu, Petare Puncak adalah sebuah pure tempat ibadah bagi umat hindu, selain itu juga terdapat sebuah goa yang sering disebut sebagai gua Batu Kelambu dan yang tak kalah menariknya adalah adanya kuburan cina yang terletak dibawah betare sasak.
+
+Jarak yang dibutuhkan untuk sampai ke gunung Sasak adalah kurang lebih 15 km dari kota Mataram atau sekitar setengah jam perjalanan menggunakan kendaraan bermotor. Sarana prasarana untuk sampai ke lokasi cukup mendukung, seperti jalan raya maupun kendaraan bermotor, namun jika menggunakan angkutan umum hanya bisa sampai di desa Babussalam (kecamatan Gerung) baru setelah itu menggunakan cidomo (alat transportasi tradisional) atau menggunakan ojek (motor sewaan). Pada tahun 2012 telah dikerjakan infrastuktur jalan dengan menuju kawasan wisata alam gunung Sasak yang dikerjakan oleh dinas pariwisata dan bekerjasama dengan dinas PU kabupaten Lombok Barat.
+
+Selain itu juga dikawasan atas Gunung Sasak yang dijadikan sebagai obyek wisata, dibangunkan beberapa sarana penunjang seperti berugak sebagai tempat peristirahatan dan sebuah tempat pertemuan atau aula kecil yang berfungsi untuk tempat istirahat bagi para pengunjung. Pada saat ini kawasan Gunung Sasak masih dikelola oleh masyarakat dalam bentuk Hutan Kemasyarakatan (HKm).
+
+
+
+## Wisata alam BKPH Ampang Plampang
+
+### Wisata Alam Telaga Lompa
+
+Telaga Lompa berlokasi di Desa Muer, Kec. Plampang, Kab. Sumbawa. Untuk sampai ke telaga Lompa harus menempuh jarak ± 55 Km dari kota Sumbawa Besar ke arah Plampang. Dengan kondisi jalan yang baik bisa ditempuh dengan waktu sekitar 2 jam. Kemudian dari Desa Muer, kita harus berjalan ± 2 Km melalui jalan yang biasa dipakai oleh masyarakat untuk ke kebun mete. Jalan ini bisa dilalui dengan sepeda motor dengan kondisi jalan kecil dan berbatu serta topografinya bergelombang. Selanjutnya akan diteruskan dengan berjalan kaki 2 Km lagi memasuki kawasan hutan dengan tegakan yang cukup rapat dan jalan yang berbukit. Jalan setapaknya sebagian sudah mulai tidak jelas karena jarang dilewati. Untuk itu keberadaan pemandu sangat diperlukan bagi yang baru pertama kali kesana.Perjalanan ditempuh dengan waktu ± 2-3 jam.
+
+Daya tarik wisatanya berupa telaga dan mata air dengan luas ± 1.500 m2 di ketinggian 450 mdpl. Disekitarnya terdapat daerah tangkapan air yang dari sana keluar mata air yang menjadi sumber air telaga. Ditepian telaga juga terdapat areal yang bisa dijadikan tempat berkemah seluas ± 10 m2. Selama perjalanan menuju ke telaga kita bisa menikmati pemandangan daerah pemukiman dan laut dari ketinggian puncak gunung. Kita juga akan melewati anak sungai dengan air yang jernih dan menyegarkan. Aktivitas wisata yang bisa dilakukan disini yaitu berkemah, memancing, forest tracking, dan fotografi.
+
+
+### Wisata alam Bendungan Mamak
+
+Bendungan Mamak terletak di Desa Tabuse, Kec. Lape Lopok, Kab. Sumbawa. Untuk menuju Dam Mamak ditempuh jarak ± 35 Km dari Kota Sumbawa Besar. Kondisi jalan baik sampai dengan bendungan walaupun ada sedikit kerusakan dibeberapa titik. Untuk sampai kesana bisa dengan kendaraan roda empat maupun roda dua. Perjalanan ditempuh ± 1,5 jam.
+
+Daya tarik utama wisata alam disini adalah bendungan. Keberadaan kawasan hutan lindung disekeliling bendungan bisa sebagai lokasi bagi aktivitas tambahan bagi wisatawan. Bendungan mamak dibangun tahun 1992. Sampai sekarang kondisi fisik bendungannya masih dalam kondisi baik. Tapi beberapa sarana wisata seperti tempat peristirahatan dan bangunan pertemuan masih terlihat walaupun tidak terpelihara lagi. Aktivitas wisata yang bisa dilakukan disini yaitu wisata air seperti memancing dan mendayung, fotografi, berkemah dan kegiatan outbond.
+
+

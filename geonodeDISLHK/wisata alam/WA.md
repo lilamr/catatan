@@ -21,13 +21,13 @@ Air terjun Sendang Gile adalah air terjun yang terletak di desa Senaru, kecamata
 Air terjun yang berketinggian 600 meter di atas permukaan tanah dan memiliki ketinggian kurang lebih 31 meter dari dasar sungai ini memiliki dua tingkatan, tingkat pertama muncul di atas tebing dan jatuh ke dasar kolam di bawahnya, sedang tingkat kedua, di mana pada kolam tersebut air meluncur ke bawah dan membentuk sungai dibawahnya.
 https://upload.wikimedia.org/wikipedia/commons/b/b1/Senaru_Waterfall.JPG
 
-![[wa rinbar3.jpg]]
+![[Pasted image 20240125090305.png]]
 
-### Air Terjun Timponan Atas/ Tiu Tiding
+### Air Terjun Tiu Tiding
 
-Air terjun Temponan Atas atau dikenal juga dengan nama Tiu Tiding terletak di Desa Genggelang, Kec. Gangga, Kab. Lombok Utara. Untuk sampai ke lokasi air terjun, dari kota mataram menempuh jarak ± 25 Km ke Desa Genggelang, Kec. Gangga, Kab. Lombok Utara. Dengan kondisi jalan yang baik bisa ditempuh dengan waktu sekitar 1,5 jam. Kemudian dari Desa Genggelang, bisa ditempuh dengan kendaraan bermotor ke Dusun Tepos Kujur ± 4 Km dengan kondisi jalan sebagian beraspal dan sebagian pengerasan dengan rabat beton. Dari dusun menuju ke air terjun hanya bisa dilalui dengan motor. Kondisi jalan tanah sejauh ± 5 Km. Jalan ini biasa dilalui masyarakat untuk mengakut hasil kebun berupa buah-buahan.  Selanjutnya akan diteruskan dengan berjalan kaki ± 500 m lagi menelusuri jalan setapak yang cukup curam untuk sampai ke air terjun.
+Air terjun Tiu Tiding terletak di Desa Genggelang, Kec. Gangga, Kab. Lombok Utara. Untuk sampai ke lokasi air terjun, dari kota mataram menempuh jarak ± 25 Km ke Desa Genggelang, Kec. Gangga, Kab. Lombok Utara. Dengan kondisi jalan yang baik bisa ditempuh dengan waktu sekitar 1,5 jam. Kemudian dari Desa Genggelang, bisa ditempuh dengan kendaraan bermotor ke Dusun Tepos Kujur ± 4 Km dengan kondisi jalan sebagian beraspal dan sebagian pengerasan dengan rabat beton. Dari dusun menuju ke air terjun hanya bisa dilalui dengan motor. Kondisi jalan tanah sejauh ± 5 Km. Jalan ini biasa dilalui masyarakat untuk mengakut hasil kebun berupa buah-buahan.  Selanjutnya akan diteruskan dengan berjalan kaki ± 500 m lagi menelusuri jalan setapak yang cukup curam untuk sampai ke air terjun.
 
-Daya tarik wisata utama yang bisa dinikmati berupa air terjun dengan tinggi ± 60 m di ketinggian 721 mdpl. Di bawahnya terdapat kolam yang bisa digunakan sebagai tempat pemandian. Aktivitas wisata yang bisa dilakukan disini yaitu forest tracking, wisata agro, berkemah, dan fotografi. Air terjun Temponan atas mulai dikenal sejak awal tahun 2016. Pengelolaan dilakukan oleh masyarakat sekitar yang tergabung dalam pokdarwis tepos kujur berupa menyediakan papan penunjuk dan beberapa papan nama untuk memberitahukan lokasi air terjun. Tersedia juga jasa pemandu dengan menggunakan motor, karena jalan yang harus dilalui memiliki banyak cabang.
+Daya tarik wisata utama yang bisa dinikmati berupa air terjun dengan tinggi ± 60 m di ketinggian 721 mdpl. Di bawahnya terdapat kolam yang bisa digunakan sebagai tempat pemandian. Aktivitas wisata yang bisa dilakukan disini yaitu forest tracking, wisata agro, berkemah, dan fotografi. Air terjun Tiu Tiding mulai dikenal sejak awal tahun 2016. Pengelolaan dilakukan oleh masyarakat sekitar yang tergabung dalam pokdarwis tepos kujur berupa menyediakan papan penunjuk dan beberapa papan nama untuk memberitahukan lokasi air terjun. Tersedia juga jasa pemandu dengan menggunakan motor, karena jalan yang harus dilalui memiliki banyak cabang.
 
 ![[Pasted image 20240123125807.png]]
 
@@ -37,7 +37,27 @@ Hutan Adat Mandala merupakan sebuah nama Dusun yang terletak di Desa Bayan, Keca
 
 Selain dijadikan nama dusun, Mandala juga dijadikan nama sebuah Hutan Adat atau Pawang yang dikelola oleh masyarakat adat, sehingga dikenal dengan sebutan Pawang Adat Mandala.Areal Hutan Adat ini tidak terlalu luas, namun memiliki puluhan sumber mata air yang berasal dari Gunung Rinjani dan Sangkareang.
 
-Pengelolaan Hutan Adat (Pawang Mandala) merupakan wujud hubungan Suku Bayan dengan Lingkungan yang menghargai dan menjaga keberadaannya sehingga memberi manfaat yang besar bagi masyarakat Bayan. Hutan Adat Mandala memiliki awik-awik yang mengedepankan upaya-upaya pelestarian alam. Bentuk pemanfaatan hutan adat ini berupa agroforestry dan pemanfaatan Jasa Lingkungan kolam pemandian Mandala.
+Pengelolaan Hutan Adat (Pawang Mandala) merupakan wujud hubungan Suku Bayan dengan Lingkungan yang menghargai dan menjaga keberadaannya sehingga memberi manfaat yang besar bagi masyarakat Bayan. Hutan Adat Mandala memiliki awik-awik yang mengedepankan upaya-upaya pelestarian alam. Bentuk pemanfaatan hutan adat ini berupa agroforestry dan pemanfaatan Jasa Lingkungan kolam pemandian Mandala. Sumber mata air di Hutan Adat Mandala diyakini berhubungan langsung dengan Danau Segara Anak di Gunung Rinjani. Melalui kemitraan antara KPH Rinjani Barat dan Pokdarwis Bayan, kini Hutan Adat Mandala telah dikembangkan sebagai salah satu destinasi wisata yang menarik untuk dikunjungi.
+
+![[Pasted image 20240125093120.png]]
+
+### Wisata Alam Sesaot
+
+Wisata alam Sesaot lebih dikenal dengan nama Pusat Rekreasi Masyarakat (Purekmas), berada di Desa Wisata Sesaot. Dengan segala potensi alam yang dimiliki menjadikan Sesaot sebagai destinasi wisata yang kerap dikunjungi. Dengan bantuan hibah FIP II, Bumdes Gatari Mass mengembangkan wisata alam Sesaot. Beragam sajian dapat dinikmati pengunjung, antara lain kolam pemandian, camping ground, rumah pohon, rumah lumbung, gazebo, spot selfie, tracking sepeda, jogging track, situs budaya dan kuliner.
+
+Wisata alam Sesaot tersertifikasi 4 bidang setelah lulus dalam asesmen desa wisata pada tahun 2020 lalu dan telah memegang sertifikat CHSE karena sudah menerapkan protokol kesehatan. Saat visitasi 50 desa wisata terbaik ADWI 2021 di Desa Sesaot (3/11/2021), Menparekraf Sandiaga Uno mengatakan bahwa desa wisata berbasis komunitas atau community based tourism dapat menjadi jawaban atas tantangan wisata berkelanjutan.
+
+![[Pasted image 20240125083345.png]]
+
+
+### Air terjun Timponan  
+
+Air terjun Timponan terletak di Hutan Punikan, Desa Batu Mekar, Kecamatan Lingsar Kabupaten Lombok Barat. Dari pusat Kota Mataram, membutuhkan waktu sekitar 1 jam berkendara menuju Dusun Punikan Utara. Air Terjun Timponan adalah salah satu air terjun viral dalam beberapa bulan terakhir dan tiap akhir pekan selalu dipadati wisatawan lokal. Air terjun timponan memiliki pesona alam yang sangat indah dengan ketinggian sekitar 45 meter. Debit air yang tak begitu deras membuat wisata yang satu ini aman bagi pengunjung. Suasananya masih asri karena berlokasi di tengah hutan, dikelilingi pohon-pohon besar menjulang tinggi. Kicauan burung masih terdengar merdu, terasa sunyi, serta airnya dingin dan bersih.
+
+Koperasi Jangkok Lestari Mandiri (KJLM) sebagai pengelola wisata Timponan telah menyediakan tempat bagi para pengunjung yang ingin bermalam atau camping di sekitar Air Terjun Timponan. Pengunjung akan disuguhkan pemandangan luar biasa indah. Posisi air terjun yang berada di atas bukit, membuat pengunjung dapat melihat dapat melihat suasana kota pada malam hari.
+
+![[Pasted image 20240125084155.png]]
+
 
 ## Wisata Alam BKPH Brangrea Puncak Ngengas
 
@@ -226,5 +246,4 @@ Tahura Nuraksa memiliki potensi wisata alam yang menarik untuk dikunjungi dan di
 Kawasan Tahura juga Nuraksa memiliki keanekaragaman hayati (biodiversitas) baik flora dan fauna yang cukup tinggi. Beberapa jenis fauna yang terdapat dan masih dapat dijumpai di Tahura Nuraksa, antara lain; rusa (Cervus timorensis), kera (Macaca fascicularis), lutung (Trachypithecus auratus), babi hutan (Sus scrofa), ular hijau ekor merah (Trimeresurus albolabris), ular sanca (Phyton reticulatus), biawak (Varanus salvator), landak (Hystricomorph hystricidae), musang (Paradoxurus hermaphroditus), kucing hutan (Felis planiceps), ayam hutan (Gallus sp), burung koak-kaok (Philemon buceroides), burung punglor (Zoothera leucolaema), burung kecial (Zosterops sp), cabai lombok (Dicaeum maugei), celepuk rinjani (Otus jolanodea). Adapun jenis flora yang dimiliki Tahura Nuraksa, yaitu; mahoni (Swietenia mahagoni), kesambi (Scleria oleosa), klokos (Syzygium javanica), sonokleing (Dalbergia latifolia), beringin (Ficus indica), rajumas (Duabanga moluccana), buak oda (Planchonella nitida), garu (Lansium sp), sengon (Paraserianthes falcataria), kemiri (Aleurites moluccana), durian (Durio zibethinus), nangka (Artocarpus integra), anggrek hutan (Cymbidium simulans), paku gunung (Pteris sp.), pakis hutan (Angiopteris evecta).
 
 ![[Pasted image 20240123162745.png]]
-
 ![[Pasted image 20240123162646.png]]

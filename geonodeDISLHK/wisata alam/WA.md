@@ -105,7 +105,7 @@ Selain itu juga dikawasan atas Gunung Sasak yang dijadikan sebagai obyek wisata,
 
 ## Wisata Alam BKPH Ampang Plampang
 
-### Wisata Alam Telaga Lompa
+### Telaga Lompa
 
 Telaga Lompa berlokasi di Desa Muer, Kec. Plampang, Kab. Sumbawa. Untuk sampai ke telaga Lompa harus menempuh jarak ± 55 Km dari kota Sumbawa Besar ke arah Plampang. Dengan kondisi jalan yang baik bisa ditempuh dengan waktu sekitar 2 jam. Kemudian dari Desa Muer, kita harus berjalan ± 2 Km melalui jalan yang biasa dipakai oleh masyarakat untuk ke kebun mete. Jalan ini bisa dilalui dengan sepeda motor dengan kondisi jalan kecil dan berbatu serta topografinya bergelombang. Selanjutnya akan diteruskan dengan berjalan kaki 2 Km lagi memasuki kawasan hutan dengan tegakan yang cukup rapat dan jalan yang berbukit. Jalan setapaknya sebagian sudah mulai tidak jelas karena jarang dilewati. Untuk itu keberadaan pemandu sangat diperlukan bagi yang baru pertama kali kesana.Perjalanan ditempuh dengan waktu ± 2-3 jam.
 

@@ -20,56 +20,68 @@ https://cdn.pixabay.com/photo/2014/11/02/16/55/cinnamon-stick-514243_1280.jpg
 
 ### Jahe Merah
 
-Desa Brang Rea Kecamatan Moyo Hulu memiliki potensi tanaman empon-emponan yang cukup besar terutama jahe merah, selama ini masyarakat hanya memanfaatkan jahe merah sebatas obat-obatan dan rempah-rempah, melalui sekema perhutanan sosial kemitraan masyarakat desa Brang Rea ingin lebih serius dalam pengembangan tanaman jahe, dengan luas lahan kelola 34 ha tanaman jahe dibudidayakan dengan pola Agroforestry dibawah tegakan, dengan tetap menjaga fungsi hutan sebagai penyangga masyarakat juga memperoleh peningkatan ekonomi dari penjualan empon jahe merah.
+Jahe Merah
+
+Diproduksi oleh Kelompok Tani Hutan PELAWANG LESTARI sebagai model agroforestri pemanfaatan lahan di bawah tegakan sebagai upaya peningkatan ekonomi dan lingkungan di Hulu DAS MOYO. Berlokasi di Desa Brang Rea, Kecamatan Moyo Hulu, Kab. Sumbawa.
+
+Desa Brang Rea Kecamatan Moyo Hulu memiliki potensi tanaman empon-emponan yang cukup besar terutama jahe merah, selama ini masyarakat hanya memanfaatkan jahe merah sebatas obat-obatan dan rempah-rempah, melalui sekema perhutanan sosial kemitraan masyarakat desa Brang Rea ingin lebih serius dalam pengembangan tanaman jahe, dengan luas lahan kelola 34 ha. Tanaman jahe dibudidayakan dengan pola Agroforestry dibawah tegakan, dengan tetap menjaga fungsi hutan sebagai penyangga masyarakat juga memperoleh peningkatan ekonomi dari penjualan empon jahe merah.
+
+Selain rasanya yang lebih pedas, manfaat jahe merah bagi kesehatan pun sangat banyak karena tumbuhan empon ini sering digunakan sebagai tanaman obat. Riset membuktikan bahwa manfaat jahe merah untuk kesehatan adalah peluruh kentut (karminatif), antimuntah, pereda kejang, antipengerasan pembuluh darah, peluruh keringat, antiperadangan, antimikroba dan parasit, antipiretik, antirematik, serta merangsang pengeluaran getah lambung dan getah empedu, dengan segudang manfaat ini membuat harga jahe merah sangat tinggi di pasaran
 
 Harga : Rp. 100,000
 Produksi : 50 kg / tahun
-
+![[jahe1.jpg]]
 
 ### Keripik Gadung
+
+Keripik Umbi Gadung (KERUDUNG)
+
+Diproduksi oleh KTH Komite Pengelola Hutan Desa (KPHD). Bahan bakunya berasal dari umbi Gadung pilihan yang tumbuh alami dilantai hutan Desa Rhee Loka, diperoses secara alami dengan resep turun-temurun sejak zaman kerajaan sehingga aman untuk dikonsumsi.
+
+Produk Kelompok Kemitraan Kehutanan KPHD Rhee Loka, dalam upaya pemanfaatan Hasil Hutan Bukan Kayu Umbi Gadung menjadi produk unggulan desa sehingga mampu meningkatkan pendapatan masyarakat desa.
 
 Umbi Gadung adalah jenis umbi - umbian yang dapat digunakan sebagai alternatif sumber Karbohidrat dan merupakan komoditi yang mempunyai prospek usaha yang sangat baik, kandungan gizi pada gadung meliputi: Pati (30,9%),Serat (1,3%), Abu (1,1 %), Serat Kasar (0,93 %), Gula (2,45%), Sianida (3,62 ppm), produk gadung yang paling dikenal adalah dalam bentuk kripik, meskipun rebusan gadung juga dapat dimanfaatkan.
 
 Harga : Rp. 10,000
 Produksi : 450 kg / tahun
 
+![[gadung1.jpg]]
 
 ### Kemiri SA
 
-Minyak kemiri SA (Sumber Alam) merupakan minyak kemiri murni yang di produksi oleh Kelempok Usaha Bersama (KUB ) Sumber Alam Desa Batu Dulang. Desa Batu Dulang merupakan salah satu dari 10 desa yang termasuk dalam kelompok binaan FIP II BKPH Batulanteh. 
+Minyak kemiri SA (Sumber Alam) merupakan minyak kemiri murni yang di produksi oleh Kelompok Usaha Bersama (KUB ) Sumber Alam Desa Batu Dulang yang merupakan salah satu dari 10 desa masuk dalam kelompok binaan FIP II BKPH Batulanteh. 
 
 Pengelolaan tanaman kemiri di Desa Batudulang merupakan kegiatan pembudidayaan yang telah dimulai sejak tahun 1970-an, hingga saat ini menjadi potensi terbesar dalam pemanfaatan lahan petani Desa Batudulang. Pengembangan minyak kemiri berawal dari ide pecahan kecil kemiri kupas yang kurang dimanfaatkan oleh petani yang kadang dijual dengan harga murah atau bahkan dijadikan limbah. Pengolahan minyak kemiri di Desa Batudulang yang pertama ini awalnya dilakukan dengan pengolahan sederhana dan tradisional. Saat ini pengolahannya telah menggunakan peralatan yang telah sangat memperhatikan mutu dan higienitas produksi.
 
 Harga : Rp. 25,000
 Produksi : 300 ton / tahun
 
-
-### Kawa Acing
-
-Kopi/Kawa Acing berasal dari biji kopi pilihan petik merah jenis Arabica dan Robusta yang ditanam pada dataran tinggi Punik pegunungan Batulanteh.
-
-Harga : Rp. 60,000
-Produksi : 85 ton / tahun
-
+![[kemiri3.jpg]]
 
 ### Madu Hutan Sumbawa
 
-Desa Semamung merupakan salah satu desa yang rawan konflik tenurial, rawan illegal loging dan okupasi lahan. Kehadiran Bumdes Semamung yang menjadi off taker atau penampung dan penyalur produk HHBK masyarakat terutama madu hutan mampu mengurangi aktivitas negatif masyarakat terhadap kawasan. Oleh karena itu, Bumdes Semamung  membutuhkan dukungan dalam pengembangan usahanya. Jika Usaha Bumdes Semamung maju dan berkembang, akan semakin banyak peredaran uang di masyarakat sehingga semakin mampu menekan konflik tenurial dan illegal logging di Desa Semamung dan Desa Sekitarnya.
+Madu Hutan Sumbawa "DESA SEMAMUNG" berasal dari perut species lebah BESAR atau lebah liar species APIS DORSATA. Hutan tropis Sumbawa merupakan habitat utama lebah jenis ini yang menyediakan berbagai jenis nektar bunga dari berbagai jenis tumbuhan hutan.
 
-Madu Hutan Sumbawa "DESA SEMAMUNG" berasal dari perut species lebah BESAR atau lebah liar species APIS DORSATA. Hutan tropis Sumbawa merupakan habitat utama lebah jenis ini yang menyediakan berbagai jenis nektar bunga dari berbagai jenis tumbuhan hutan
+Desa Semamung merupakan salah satu desa yang rawan konflik tenurial, rawan illegal loging dan okupasi lahan. Kehadiran Bumdes Semamung yang menjadi off taker atau penampung dan penyalur produk HHBK masyarakat terutama madu hutan mampu mengurangi aktivitas negatif masyarakat terhadap kawasan.
+
+Bumdes Sahabat Desa Semambung menjalin kejasama Kemitraan Perhutan Sosial dengan Balai KPH Batu Lanteh dalam hal pengelolaan dan pemasaran produk Hasil Hutan Bukan Kayu (HHBK) sejak tahun 2018. Madu Hutan Sumbawa merupakan produk unggulan BUMDes, memberikan edukasi kepada petani madu tentang Panen Lestari, menerapkan sistem Tiris dan membantu petani madu dalam pemasaran produk madu hutan.
 
 Harga : Rp. 35,000
 Produksi : 500 liter / tahun
-
+![[madu3.jpg]]
 
 ### Sumbawa Black Honey
 
-Sumbawa Balck Honey
+MADU HITAM SUMBAWA
+
+Madu hitam Sumbawa (Sumbawa Black Honey) berasal dari lebah Trigona Spp yang dalam bahasa Sumbawa disebut Rentelan. Keberadaannya melimpah di hutan dan kebun masyarakat. Lebah ini mengambil sumber pakan (pollen dan nectar) dari tumbuhan khas hutan dataran rendah Sumbawa.
+
+Diproduksi oleh KTH. Batu Padewa, Desa Pelat, Kec. Unter Iwes, Kab. Sumbawa. KTH ini telah mengembangkan lebah Trigona sp. sejak tahun 2015 dengan koloni lebah yang bersumber dari alam hingga dipindahkan dalam stup untuk dibudidayakan. Pengembangan lebah Trigona sp. untuk menghasilkan madu berkualitas dan menambah variasi madu di Sumbawa ini menjadi contoh bagi kelompok lainnya dalam pengembangan madu lebah Trigona spp. Pengembangan selanjutnya berupa pemecahan koloni dari lebah-lebah dalam stup yang telah didapatkan dari alam tersebut.
 
 price tag Harga : Rp. 100,000
 Produksi : 10 Liter / tahun
 
-
+![[honey1.jpg]]
 
  
  
@@ -80,6 +92,11 @@ Produksi : 10 Liter / tahun
 
 ### Madu Maskot
 Kami menyediakan madu trigona murni hasil dari peternakan di KTH. Madu Sekotong. Madu trigona yang kaya kandungan vit C dan sebagai anti oksidan sangat baik untuk menjaga daya tahan tubuh. Madu Trigona asli dari Madu yang kami budidayakan sendiri.
+
+Madu Sekotong (MASKOT) merupakan produk Hasil Hutan Bukan Kayu (HHBK) dari Kelompok Tani Hutan (KTH) binaan dari Balai KPH Pelangan Tastura yang berlokasi di Dusun Labuan poh Desa Batu Putih Kecamayan, Batu Putih, Kec. Sekotong, Kabupaten Lombok Barat.
+
+Madu Trigona merupakan madu yang dihasilkan dari lebah tak bersengat, yaitu lebah Trigona (Trigona Sapiens atau Trigona Clypearis). Beda species lebah, maka beda pula madu yang dihasilkan. Jenis madu trigona teksturnya lebih encer dan lebih asam dari madu biasa yang kita kenal beredar selama ini di masyarakat. Selain itu madu trigona juga harganya cenderung mahal karena lebah Trigona tidak menghasilkan madu yang berlimpah.
+
 https://scontent.fdps5-1.fna.fbcdn.net/v/t39.30808-6/223134937_353457066492917_5858650747919790318_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a26aad&_nc_ohc=qMoDQ3wy-JYAX9qS0JK&_nc_ht=scontent.fdps5-1.fna&oh=00_AfAlV_oLWnD8cUn3BCTYQDczo0wM9QUHFM9B6kjlR0TQCw&oe=64B05585
 ![[hhbk pentas1.jpg]]
 ### Mete Mareje

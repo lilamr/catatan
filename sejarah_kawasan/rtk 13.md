@@ -9,6 +9,6 @@ Berdasarkan Keputusan Menteri Kehutanan Nomor: 456/Kpts-II/1996 tentang Penunjuk
 
 Kawasan Hutan pada Kelompok Hutan Mareje Bonga dan Gunung Pepe (RTK.13) telah ditunjuk sesuai dengan Keputusan Menteri Kehutanan Nomor SK.598/Menhut-II/2009 tanggal 2 Oktober 2009. Kawasan hutan tersebut telah terdapat batas kawasan hutan berupa pemasangan tanda batas dan telah dilakukan pemetaan.
 
-Kelompok Hutan Mareje Bonga dan Gunung Pepe (RTK.13) sesuai dengan SK.3100/Menhut-VII/KUH/2014 mempunyai luasan wilayah 7.995,99 Ha. Luas berdasarkan fungsi yaitu:
+Kelompok Hutan Mareje Bonga dan Gunung Pepe (RTK.13) kemudian ditetapkan sesuai dengan SK.3100/Menhut-VII/KUH/2014 mempunyai luasan wilayah 7.995,99 Ha dengan luas berdasarkan fungsi yaitu:
 - Hutan Lindung seluas 2.518,34 Ha
 - Hutan Produksi seluas 5.477,65 Ha.

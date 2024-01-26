@@ -76,10 +76,28 @@ https://lomboknews.com/wp-content/uploads/2021/07/Mantar-Desa-Di-Atas-Awan.jpeg
 ### Air terjun Agal
 Terletak di Dusun Beru, Desa Marente, Kecamatan Alas Kabupaten Sumbawa. Berada di tengah hutan lindung, sekitar 6 km dari perkampungan terdekat sehingga suasana air terjun agal masih alami dan belum terjamah, hanya beberapa pencari Madu Sumbawa, atau pemburu tradisional yang sering memasuki kawasan tersebut.
 Air Terjun Agal sangat unik karena memiliki 10 tingkat. Air terjun mengalir deras memecah tebing menjadi dua dari ketinggiannya, kemudian jatuh di antara bebatuan-bebatuan besar, mengalir lagi membuat air terjun lagi di bawahnya hingga mencapai 10 tingkatan. Dari 10 tingkatan tersebut, ketinggian Air Terjun Agal bervariasi. 7 tingkatan pertama memiliki ketinggian sekitar 3-7 m. Sedangkan 3 tingkatan lagi berketinggian lebih dari 10 m. Untuk menuju ke tempat yang lebih tinggi dan air terjun diatasnya, anda harus melewati jalur hutan yang sedikit menantang kurang lebih selama 15 menit.
+
+Air terjun Agal merupakan salah satu potensi Jasa Lingkungan yang berada di wilayah Balai KPH Brang Rea Puncak Ngengas tepatnya di wilayah kerja RPH Alas dan Alas Barat kawasan hutan lindung RTK 60 dan menjadi sumber mata air bagi beberapa desa yang ada disekitarnya. Air terjun agal masuk dalam wilayah administrasi Desa Marente, Kec. Alas, Kab. Sumbawa.
+
+Jalan setapak berbatu akan mengiringi petualangan menuju air terjun Agal. Butuh satu jam hingga dua jam perjalanan yang menantang, menembus hutan yang hijau dan tampak basah. Sepanjang perjalanan terdapat banyak sekali potensi HHK dan HHBK seperti Ara, Salam, Rajumas, Kopi dan Rotan.
+
+Menikmati perjalanan menuju air terjun tersebut, rasa lelah yang menyelimuti perjalanan seketika hilang ketika mata terpaku melihat tebing curam yang menjatuhkan buih-buih air menghantam bebatuan di bawahnya, mata akan dimanjakan dengan pemandangan yang menakjubkan.
+
 https://www.travelfish.org/blogs/indonesia/wp-content/uploads/2016/04/agal-1.jpg
 
 ![[wa brpn3.jpg]]
 
+![[Pasted image 20240126092624.png]]
+
+### Bukit Semamak
+
+Wisata alam “Bukit Semamak” yang terletak di Desa Rarak Ronges, Kec. Brang Rea, Kab. Sumbawa Barat. Keindahan bukit semamak sangat memanjakan mata setiap pengunjung yang datang, dari atas puncak bukit semamak pengunjung dapat menikmati indahnya sunset, selain itu pengunjung dapat pula bermalam di tempat ini. 
+
+Untuk menuju objek Wisata Bukit Semamak, pengunjung akan menempuh perjalanan sekitar satu jam dari Kota Taliwang, Sumbawa Barat, menggunakan kendaraan roda dua maupun roda empat. Lokasi bukit semamak berada tidak jauh dari Desa Rarak Ronges, dapat di tempuh dengan berjalan kaki sekitar 20 menit dari desa, medan yg dilalui pun tidak begitu sulit.
+
+ Sembari menikmati pemandangan yang memanjakan mata, pengunjung bisa menyeruput nikmanya kopi khas Desa Rarak yang bisa dipesan di lokasi. Kopi khas Rarak Desa juga bisa dijadikan oleh-oleh untuk dibawa pulang.  
+  
+![[Pasted image 20240126100825.png]]
 
 ## Wisata Alam BKPH Pelangan Tastura
 

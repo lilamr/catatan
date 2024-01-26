@@ -143,3 +143,9 @@ Contact Person: Ida (+62 877-6528-5881/ ‎+62 813-1681-2365)
 ![[IMG_8846.jpg]]
 
 ![[IMG_8917.jpg]]
+
+### Bambu Cerah Ceria
+
+Bambu merupakan produk hasil hutan bukan kayu yang sangat dekat dengan kehidupan dan potensinya sangat melimpah. Hal ini telah membuat masyarakat di Dasan Bangket tertarik untuk mengolah bambu menjadi beragam bentuk kerajinan. Uniknya, kerajinan bambu di Dasan Bangket dikerjakan para ibu yang tergabung dalam Kopinkra Bambu Cerah Ceria. Tidak hanya sekedar mengisi waktu luang, tetapi kerajinan bambu telah mampu menopang ekonomi keluarga, bahkan mereka telah mampu mengantar anak-anaknya menuju gerbang kesuksesan dari hasil kerajinan bambu.
+
+![[Pasted image 20240126085616.png]]

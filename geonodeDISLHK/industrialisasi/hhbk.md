@@ -107,3 +107,37 @@ https://s1.bukalapak.com/img/1749123259/large/IMG_3178.png
 Kopi Lokal dengan Nama dan Cita Rasa Mendunia. Begitulah nama dagang atau brand yang disematkan oleh Gapoktan HKm Karang Sidemen untuk Kopi yang diolah oleh KTH tersebut. Ditengah ramainya persaingan produk kopi olahan sekarang, VERSILIA hadir dengan cita rasa kemurnian kopi yang khas dan asli dalam tiga varian cita rasa Original, Coklat dan Jahe. Versilia diolah dari biji kopi pilihan Kelompok Tani HKm Karang Sidemen menggunakan teknologi pengolahan dan mesin kekinian serta dikemas dengan tampilan yang menarik. Semoga, kehadiran VERSILIA akan mampu mengisi ruang cita rasa baru bagi penikmat Kopi.
 https://latin.or.id/wp-content/uploads/2022/12/Kopi-Versilia.jpg
 ![[hhbk pentas3.jpg]]
+
+
+## Produk HHBK BKPH Maria Donggomasa
+
+### Kopi Kawae
+
+Ekosistem Penikmat Kopi merupakan bagian yg bisa memberikan Ruang Terciptanya kopi dengan komoditas yg istimewa. untuk menciptakan kopi yg istimewa, unik dan khas serta menjadi pembeda dengan kopi lainnya adalah cara penanganan kopi yg memenuhi standar kualitas mutu dan dalam penanganan kopi yg menentukan adalah grade Kopi. Melalui binaan Bkph Maria Donggomassa biji kopi yang berasal dari wilayah KTH Oi Rida di Dusun Kawae Desa Maria Utara Kec. Wawo Kab. Bima sejak tahun 2018 telah melaunchingkan dirinya dengan melakukan menggunakan pengemasan dengan Label "KOPI KAWAE".
+
+Kopi Kawae memberikan jaminan originalnya kopi kemasan kopi kawae dan bagi pencinta kopi yang memahami betul racikan kopi dengan nuansa original tanpa campuran pasti akan langsung merasakan sensasi istimewa dari originalnya kopi kawae.
+
+![[Pasted image 20240126095346.png]]
+
+### Kemiri Oi Rida
+
+HKm Oi Rida, Desa Maria Utara, Kec. Wawo, Kab. Bima. Berada di wilayah kerja BKPH Maria Donggomasa. Salah satu sumber pendapatan kelompok HKm ini adalah dari tegakan kemiri dan kopi yang ada di wilayah kelolanya. Produksi biji kopi maupun kemiri mencapai 2 ton tiap kali panen. Selain menjual biji kemiri dan kopi sebagai produk HHBK, bentuk usaha lain adalah menyediakan bibit kemiri dan kopi melalui pembibitan swadaya yang mereka kelola. 
+
+Pengolahan biji kemiri dilakukan dalam rangka memberikan nilai tambah produk kemiri, meningkatkan pendapatan masyarakat sekitar hutan, mendapatkan produk turunan hasil hutan kemiri berupa kemiri kupas dan minyak kemiri yang terkemas dan dipacking dengan baik & menarik perhatian konsumen.
+
+![[Pasted image 20240126093216.png]]
+
+### Mete Batawawi
+
+Produk olahan mete dari KTH Batawawi yang merupakan binaan BKPH Maria Donggomasa. Pengolahan Mete dilakukan dalam rangka meningkatkan harga produk mete dipasar, meningkatkan pendapatan masyarakat pemungut jambu mete, mendapatkan produk yang lebih berkualitas yang terkemas dan dipacking dengan baik & menarik perhatian konsumen.
+
+
+![[Pasted image 20240126094043.png]]
+
+## Produk HHBK BKPH Brang Rea Puncak Ngengas
+
+### Kopi Rarak
+
+Desa Rarak Ronges terkenal dengan wilayah penghasil kopi. Kopi merupakan salah satu potensi hasil hutan bukan kayu. Di salah satu kelompok kopi rarak “Datu Bayung” kita dapat berkunjung untuk melihat proses penggilingan dan proses pengemasan kopinya. Proses pembuatan kopi di kelompok ini dapat dikatakan terbilang maju, hal ini dapat dilihat dari proses sangrai kopi yg sudah menggunakan mesin sangrai modern dan proses penggilingannya pun menggunakan mesin penggiling. Jenis kopi yang diproduksi, yaitu kopi luwak dan kopi robusta, ada yang berbentuk biji (sudah disangrai) dan ada pula yang sudah menjadi bubuk kopi.
+
+![[Pasted image 20240126100302.png]]

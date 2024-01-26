@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sejarah_kawasan/rtk 18-23.md",
+                "file": "geonodeDISLHK/industrialisasi/rinbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sejarah_kawasan/rtk 18-23.md",
+                "file": "geonodeDISLHK/industrialisasi/rinbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sejarah_kawasan/rtk 18-23.md",
+                "file": "geonodeDISLHK/industrialisasi/rinbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sejarah_kawasan/rtk 18-23.md"
+                "file": "geonodeDISLHK/industrialisasi/rinbar.md"
               }
             }
           }
@@ -161,6 +161,22 @@
   },
   "active": "ce6f137dbb6e9d92",
   "lastOpenFiles": [
+    "geonodeDISLHK/industrialisasi/hhbk.md",
+    "geonodeDISLHK/wisata alam/WA.md",
+    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240126100825.png",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126100302.png",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126095346.png",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126094149.png",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126094043.png",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126093216.png",
+    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240126092624.png",
+    "geonodeDISLHK/industrialisasi/rinbar.md",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126085616.png",
+    "geonodeDISLHK/industrialisasi/attachment/Pasted image 20240126084223.png",
+    "geonodeDISLHK/ntb hijau/RHL.md",
+    "geonodeDISLHK/ntb hijau/attachment/Pasted image 20240126081331.png",
+    "geonodeDISLHK/ntb hijau/attachment",
+    "sejarah_kawasan/rtk 18-23.md",
     "sejarah_kawasan/rtk 12.md",
     "sejarah_kawasan/rtk 15.md",
     "sejarah_kawasan/rtk 14.md",
@@ -176,30 +192,14 @@
     "sejarah_kawasan/rtk 2.md",
     "sejarah_kawasan/rtk 1.md",
     "sejarah_kawasan/rtk 0.md",
-    "geonodeDISLHK/industrialisasi/hhbk.md",
-    "geonodeDISLHK/industrialisasi/attachment/honey1.jpg",
     "geonodeDISLHK/industrialisasi/rinbar merta sari.md",
-    "geonodeDISLHK/industrialisasi/attachment/madu3.jpg",
-    "geonodeDISLHK/industrialisasi/attachment/kemiri3.jpg",
-    "geonodeDISLHK/industrialisasi/attachment/jahe1.jpg",
-    "geonodeDISLHK/industrialisasi/attachment/gadung1.jpg",
-    "geonodeDISLHK/wisata alam/WA.md",
-    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240125093120.png",
     "geonodeDISLHK/industrialisasi/rinbar sasakQ.md",
-    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240125090305.png",
-    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240125084155.png",
-    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240125083345.png",
-    "geonodeDISLHK/wisata alam/attachment/Pasted image 20240123162745.png",
     "geonodeDISLHK/wisata alam/attachment",
     "geonodeDISLHK/wisata alam",
     "geonodeDISLHK/Untitled.md",
-    "geonodeDISLHK/industrialisasi/rinbar.md",
     "geonodeDISLHK/industrialisasi/attachment",
     "geonodeDISLHK/industrialisasi/rinbar selelos.md",
     "geonodeDISLHK/industrialisasi/rinbar santong.md",
-    "geonodeDISLHK/industrialisasi/rinbar meleko bangkit.md",
-    "geonodeDISLHK/industrialisasi/rinbar mela.md",
-    "geonodeDISLHK/industrialisasi/rinbar giri madya.md",
     "Untitled",
     "profil_pbph/Untitled",
     "profil_pbph/attachment/Untitled.canvas",
@@ -207,7 +207,6 @@
     "profil_pbph/attachment",
     "sejarah_kawasan/attachment 1",
     "profil_pbph",
-    "docker",
-    "vim_nvim/attachment"
+    "docker"
   ]
 }

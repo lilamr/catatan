@@ -7,3 +7,5 @@ Kelompok Hutan Ngali (RTK.12) seluas 1.073,30 Ha telah ditunjuk sebagai hutan tu
 Kelompok Hutan Ngali (RTK.12) telah ditata batas di lapangan dengan luas 1.073,30 Ha dan telah dibuat serta ditanda-tangani Berita Acara tata Batas dan Petanya tanggal 11 Mei 1976 yang disahkan oleh Menteri Pertanian tanggal 13 agustus 1976.
 
 Berdasarkan Keputusan Menteri Kehutanan Nomor: 371/Kpts-II/1995 ditetapkan Kelompok Hutan Ngali (RTK.12) seluas 1.073,30 Ha sebagai kawasan hutan dengan fungsi Hutan Produksi Tetap.
+
+![[Ngali Rtk 12.jpg]]

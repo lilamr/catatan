@@ -7,3 +7,7 @@ Berdasarkan ZB.BSL.No.190 tanggal 31 Januari 1931 dan Surat Keputusan Menteri Pe
 Kelompok hutan tersebut te1ah diadakan pengukuran dan penataan Batas di lapangan Hutan sesuai Berita Acara Tata Batas tanggal 4 Maret 1986 dan disahkan oleh Menteri Kehutanan tanggal 19 Mei 1989. 
 
 Berdasarkan Keputusan Menteri Kehutanan Nomor: 238/Kpts-II/89 tanggal 24 Mei 1989, ditetapkan Kawasan Hutan Pusuk Pao (RTK.38) seluas 7.440,9 Ha.
+
+![[PUSUK PAO- 1.jpg]]
+
+![[PUSUK PAO- 2.jpg]]

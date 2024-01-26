@@ -10,7 +10,10 @@ a. Kelompok hutan Soromandi (RTK.55)  seluas ± 52.302 Ha  yang digabungkan deng
 b. Pada tahun 1994 telah diadakan pengukuran batasnya, namun tidak diselesaikan Berita Tata Batasnya dan ternyata kelompok hutan Kelompok Hutan Tololara (RTK.41) tidak dapat digabungkan, karena dipisahkan dengan lahan dan pemukiman penduduk.
 c. Pada tahun 1974 telah dilaksanakan pengukuran kembali mengingat kondisi kawasan hutan yang belum berstatus hukum tersebut telah mengalami perubahan batasnya
 d. Pengesahan peta dan Berita Acara tata batasnya tanggal 31 Desember 1977 oleh Menteri Pertanian Republik Indonesia cq.Direktorat Jenderal Kehutanan.
-    
+
+![[Pasted image 20240126155656.png]]
+
+
 Flora dan Fauna
 Jenis flora yang terdapat di Kelompok Hutan Soromandi (RTK.55) seperti : khusunya disekitar lokasi yang diorientasi yang paling dominan antara lain : jati (Tectona grandis), Sonokeling (Dalbergia latifolia), kemiri (Aleurites moluccana), mahoni (Swietenia macrophylla), kelanggo (Duabanga moluccana), sarise (Terminalia catapa), heci (Canarium asperum Benth), sala (Pterospermum javanicum), terep (Artocarpus elasticus), bara (Tetrameles  nudiflora), Rondu (Langerstroemia speciosa ), ketipu (Planconia valida ),  tula (Alstonia spectabilitas ), dan mara (Pterocarpus indicus),  dan tumbuhan bawah yang ada antara lain alang-alang (Imperta ovelinca), kerinyu (Euphatorium) dan sejenis semak lainnya. (Laporan Tata Batas Kelompok Hutan Soromandi (RTK.55).
 Jenis satwa yang terdapat di Kelompok Hutan Soromandi (RTK.55) antara lain : babi hutan (Sus vittatus), rusa (Cervus timorensis), ayam hutan (galus spec), kera (Macaca irus), burung nuri (Lorine domicella), burung beo (Gracula retigion), dan burung koakiau (Philemon buceroides). 

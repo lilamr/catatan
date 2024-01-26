@@ -15,6 +15,8 @@ d. Pada tahun 1987 terdapat perluasan sebagai areal pengganti dari sebagian Kelo
 
 e. Pada tahun 1995 dilakukan penataan batas fungsi sepanjang 10,83 km dan pal batas sebanyak 110 buah dengan Berita Acara Tata Batas Fungsi disahkan pada tanggal 27 Agustus 1996 seluas 3.827,90 Ha yang terbagi menjadi 2 (dua) fungsi yaitu Hutan Produksi Terbatas (HPT) seluas 1.078,19 Ha dan Hutan Produksi Tertap (HP) seluas 2.749,71 Ha.
 
+![[Pasted image 20240126154318.png]]
+
 Flora dan Fauna
 Jenis flora yang terdapat di Kelompok Hutan Pajo (RTK.42) antara lain Asam (Tamarincus indica), kesambi (Schleichera oleosa), loa (Protium javanicum), rondu (Lagerstroemia specioca), walikukun (Schoutenia ovata), ketimis (Vitex pubescen), sonokeling (Darbergia latifolia), jati (Tectona grandis) dan tumbuhan hutan alam lainnya. (Laporan Rekonstruksi Batas Kelompok Hutan Pajo (RTK.42) Tahun 2012).
 Jenis fauna yang ada pada kelompok hutan Pajo (RTK.42) adalah Babi hutan (Sus vitatus), ayam hutan (Gallus banciva), kera (Macaca irus), biawak (Paradoxurus hermaproditus) puyuh (Contropus lengkusis), elang (Elyaster indusletermidus) dan lainnya. (Laporan Rekonstruksi Batas Kelompok Hutan Pajo (RTK.42) Tahun 2012).

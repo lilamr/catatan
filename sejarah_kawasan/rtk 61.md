@@ -17,7 +17,16 @@ a. Hutan Lindung (HL) seluas 21.140,00 ha
 b. Hutan Produksi Terbatas (HPT) seluas 10.406,60 ha
 c. Hutan Produksi Tetap (HP) seluas 1.943,30 ha
 d. Hutan Wisata (HW) seluas 100 ha.
+
 Akibat adanya tukar menukar kawasan hutan Olat maros di kelompok hutan Buinsowai (RTK 57), Pemerintah Provinsi Nusa Tenggara Barat telah memberikan  lahan penukar kawasan hutan dimaksud yang terletak dan menempel dengan hutan Produksi tetap kelompok hutan Batu Lante (RTK.61) yang ditata batas  tanggal 25 Juni 2001 dengan luas 739 Ha, sehingga luas kawasan hutan kelompok hutan Batulante (RTK.61) menjadi 34.328,90 ha, dengan panjang batas 139,649 km, dan Hutan Produksi tetap menjadi 2.682,30 Ha. 
+
+Berdasarkan Keputusan Menteri Kehutanan Republik Indonesia Nomor: SK.2560/Menhut-VII/KUH/2014 tentang Penetapan Kawasan Hutan pada Kelompok Hutan Batulante (RTK.61) seluas 34.328,90 Ha di Kabupaten Sumbawa, terdiri dari:
+a. Hutan Lindung: 21.140 Ha
+b. Hutan Produksi Terbatas: 10.406,60 Ha
+c. Hutan Produksi Tetap: 2.682,30 Ha
+d. Hutan Wisata Alam: 100 Ha 
+
+![[Pasted image 20240129154400.png]]
 
 Flora dan Fauna
 Keadaan vegetasi di kelompok hutan Batulante (RTK.61) berdasarkan laporan pengukuhan kelompok hutan Batulante (RTK.61)  tahun 1992 cukup bervariasi, dengan jenis-jenis antara lain : Mange (Tamarindus indica), kesambi (Schleichera oleosa), beringin (Ficus javanicum), binong (Tetrameles nudiflora), walikukun (Schoutenia ovata), ketapang (Terminalia catapa), asam (Tamarindus indica), bajur (Pterospermum javanicum), dan beberapa jenis flora hutan tanaman seperti jati (Tectona grandis), Mahoni (Swetenia macrophylla) dan Sonokeling (Dalbergia latifolia).

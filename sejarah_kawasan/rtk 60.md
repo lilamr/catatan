@@ -9,3 +9,5 @@ Kelompok hutan Kelongkang Pucak Ngengas tersebut diperluas dengan areal seluas Â
 Kelompok hutan Kelongkang Pucak Ngenges (RTK.60) dan perluasannya tersebut telah ditata batas di lapangan dengan luas 51.446,06 hektar, dan telah dibuat serta ditandatangani Berita Acara Tata Batas dan petanya dengan hasilnya sebagaimana tertuang dalam Berita Acara Tata Batas tanggal 19 November 1982 (yang telah disahkan oleh Menteri Pertanian pada tanggal 10 Maret 1983) dan Berita Acara Tata Batas tanggal 22 Agustus 1994.
 
 Berdasarkan Kemputusan Menteri Kehutanan nomor: 180 /Kpts-II/1996 tanggal 19 April 1996, menetapkan kelompok hutan Kelongkang Pucak Ngengas (RTK.60), seluas 51.446,06 hektar, sebagai kawasan hutan tetap.
+
+![[Kelongkang Pucak ngenges Rtk.60.jpg]]

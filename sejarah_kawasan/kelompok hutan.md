@@ -10,25 +10,25 @@ Potensi Menarik
 Kawasan hutan Provinsi NTB dibagi menjadi 61 Kelompok hutan yang menyebar di Seluruh Pulau Lombok dan Sumbawa maupun di sebagain pulau kecil lainnya. Sejarah dan Kronologis masing-masing kelompok hutan dapat disajikan sebagai berikut :
 
 ## Penetapan Sebelum TGHK
-- RTK 58 Pulau Moyo (1975)
-- RTK 71 Pedauh (1975)
-- RTK 5 Suranadi (1976)
+- RTK 58 Pulau Moyo (1975) [[rtk 58]]
+- RTK 71 Pedauh (1975) [[rtk 71]]
+- RTK 5 Suranadi (1976) [[rtk 5 lbk]]
 ## Penetapan Setelah TGHK 1982
-- RTK 38 Pusuk Pao (1989)
-- RTK 64 Dodo Jaranpusang (1989)
-- RTK 65 Toffo Rompu (1989)
-- RTK 89 Samoko Lito (1989)
-- RTK 70 Ampang Kampaja (1990)
-- RTK 12 Ngali (1995)
-- RTK 23 Tolowata (1995)
-- RTK 62 Kerawak Utuk (1995)
-- RTK 60 Klongkang Puncak Ngengas (1996)
-- RTK 74 Pantai Alas dsk (1996)
-- RTK 24 Gunung Tunak (1997)
-- RTK 25 Maria (1997)
-- RTK 46 Rentung Sebokas (1997)
-- RTK 78 Olat Lake/ Olat Cabe (1997)
-- RTK 79 Gili Ngara/ Olat Puna (1997)
+- RTK 38 Pusuk Pao (1989) [[rtk 38]]
+- RTK 64 Dodo Jaranpusang (1989) [[rtk 64]]
+- RTK 65 Toffo Rompu (1989) [[rtk 65]]
+- RTK 89 Samoko Lito (1989) [[rtk 89]]
+- RTK 70 Ampang Kampaja (1990) [[rtk 70]]
+- RTK 12 Ngali (1995) [[rtk 12]]
+- RTK 23 Tolowata (1995) [[rtk 23]]
+- RTK 62 Kerawak Utuk (1995) [[rtk 62]]
+- RTK 60 Klongkang Puncak Ngengas (1996) [[rtk 60]]
+- RTK 74 Pantai Alas dsk (1996) [[rtk 74]]
+- RTK 24 Gunung Tunak (1997) [[rtk 24 lbk]]
+- RTK 25 Maria (1997) [[rtk 25]]
+- RTK 46 Rentung Sebokas (1997) [[rtk 46]]
+- RTK 78 Olat Lake/ Olat Cabe (1997) [[rtk 78]]
+- RTK 79 Gili Ngara/ Olat Puna (1997) [[rtk 79]]
 ## Penetapan Setelah Penunjukan 1999
 - RTK 0 Gili Ayer, Gili Meno, Gili Trawangan (2001)
 - RTK 58 Pulau Moyo (2001)

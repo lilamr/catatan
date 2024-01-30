@@ -8,3 +8,5 @@ Berdasarkan Keputusan menteri Kehutanan Nomor: SK.2556/Menhut-VII/KUH/2014 tangg
 a. Kawasan Hutan Lindung : 3.171,88 Hektar
 b. Kawasan Hutan Produksi Terbatas : 6.292,30 Hektar
 c. Kawasan Hutan Produksi Tetap : 4.755,72 Hektar
+
+![[Pasted image 20240130090134.png]]

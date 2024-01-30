@@ -14,3 +14,5 @@ Kelompok Hutan Pulau Rai Rakit Kwangko (RTK.80) terdiri dari beberapa pulau, sec
 5. Pulau Rakit terletak di wilayah Desa Labuhan Jambu, Kecamatan Empang, dengan luas 2.133,12 Ha.
 
 Berdasarkan Keputusan Menteri Kehutanan Nomor : 10337/Kpts-II/2002 tanggal 30 Desember 2002, menetapkan kelompok Hutan Rai, Rakit, Kwangko (RTK.80) seluas 34,38 (Tiga Puluh empat tiga puluh delapan perseratus) hektar yang terletak di Kabupaten Dompu, Provinsi Nusa Barat sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Tetap.
+
+![[Pulau Rai,Rakit,Kwangko Trk.80.jpg]]

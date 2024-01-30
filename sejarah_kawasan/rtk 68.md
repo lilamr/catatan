@@ -6,4 +6,6 @@ Berdasarkan Keputusan Kepala Daerah Swapraja Bima Nomor ZB.Bsl. 22-12-1928 Sub I
 
 Kelompok hutan tersebut, telah ditata batas di lapangan dan dibuat serta ditandatangani Berita Acara Tata Batasnya pada tanggal 18 Juni 1977 dan tanggal 27 Maret 1995, dengan luasnya adalah 3.864,20 Ha.
 
-Berdasarkan Keputusan Menteri Kehutanan Nomor : 12/Kpts-II/2003 tanggal 7 Januari 2003 menetapkan Kelompok Hutan Nanganae-Kapenta (RTK.68) seluas 3.864,20 (tlga rlbu delapan ratus enam puluh empat, dua puluh perseratus) hektar yang terletak di Kabupaten Bima, Provinsi Nusa Tenggara Barat sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Terbatas seluas 1.920 Ha dan Hutan Produksi Tetap seluas 1.944,20 Ha.
+Berdasarkan Keputusan Menteri Kehutanan Nomor : 12/Kpts-II/2003 tanggal 7 Januari 2003 menetapkan Kelompok Hutan Nanganae-Kapenta (RTK.68) seluas 3.864,20 (tiga ribu delapan ratus enam puluh empat, dua puluh perseratus) hektar yang terletak di Kabupaten Bima, Provinsi Nusa Tenggara Barat sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Terbatas seluas 1.920 Ha dan Hutan Produksi Tetap seluas 1.944,20 Ha.
+
+![[Nanganae Kapenta [RTK.68].jpg]]

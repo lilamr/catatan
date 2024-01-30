@@ -11,6 +11,8 @@ Kelompok Hutan Kota Donggomasa (RTK.67) adalah kawasan hutan yang ditunjuk denga
 - Hutan Produksi Terbatas (HPT) seluas	: 9.248,30 Ha
 - Hutan Produksi Tetap (HP) seluas	: 7.005,80 Ha
 
+![[Pasted image 20240130090254.png]]
+
 Flora dan Fauna
 Jenis flora/pohon yang terdapat pada Kelompok Hutan Kota Donggomasa (RTK.67) diantaranya adalah jati (Tectona Grandis), sonokeling (Dalbergia Latifolia), akasia (Accasia auriculifomis), sawo kecik (Manilkara kauki), Walikukun (Schoutenia ovata), ketimis (Protium javanicum), bungur (SLagerstroemia speciosa), rino (Grewia exelsa), pulai (Alstonia scholaris), Binuang (Tertrameles nudiflora), asam (Tamarindus indica), pala (Dipterocarpus spp), gaharu ( Timonius borneensis), delingsom (Homalium tomentosum), kesambi (Schleichera oleosa), laban ( Vitex pubescens) dan jenis tanaman bawah lainnya.
 Jenis fauna/satwa yang terdapat pada Kelompok Hutan Kota Donggomasa (RTK.67) diantaranya adalah babi hutan (Sus Vittatus), ayam hutan (Galhus Galius Varius), biawak (Varanus Calvator), kera (Macaca facicularis), ular phyton (BPhyton recticulatos), rusa (Cervus timorensis) dan jenis satwa kecil lainnya.(Laporan Rekonstruksi Batas Kawasan Hutan Kelompok Hutan Kota Donggomasa tahun 1997).

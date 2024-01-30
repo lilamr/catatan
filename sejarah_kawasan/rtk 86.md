@@ -7,3 +7,5 @@ Kelompok Hutan Pulau Sangiang (RTK.86) telah ditunjuk sesuai dengan Keputusan Me
 Berdasarkan Keputusan menteri Kehutanan Nomor: SK.2559/Menhut-VII/KUH/2014 tanggal 7 April 2014, menetapkan kawasan hutan pada Kelompok Hutan Pulau Sangiang (RTK.86) seluas 12.621,25 Ha di Kabupaten Bima Provinsi Nusa Tenggara Barat yang terdiri dari:
 a. Kawasan Hutan Cagar Alam seluas 7.980,30 Ha;
 b. Kawasan Hutan Produksi Terbatas seluas 4.640,95 Ha.
+
+![[Pasted image 20240130113731.png]]

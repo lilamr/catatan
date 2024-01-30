@@ -7,7 +7,20 @@ Luas Kelompok Hutan Toffo Rompu (RTK.65) berdasarkan hasil tata batas adalah 85.
 
 Sejarah Kawasan Hutan
 Kelompok hutan Toffo Rompu (RTK.65) pada awalnya ditunjuk  berdasarkan Pola Tata Guna Hutan Kesepakatan (TGHK) Propinsi Nusa Tenggara Barat melalui Surat Keputusan Menteri Pertanian nomor. 756/Kpts/Um/10/1982, tanggal 12 Oktober 1982, seluas 1.021.566 ha Mulai tahun 1984, 1987 dan 2002 telah dilaksanakan penataan batas dengan panjang batas luar 418,2 km dan batas fungsi sepanjang 156,77 km dengan luas definitip 85.518,64 ha yang terbagi menjadi Hutan Lindung seluas 37.197,97 ha, Hutan Produksi Terbatas 33.749,41 ha, Hutan Produksi Tetap seluas  14.339,26 ha dan Taman Wisata Alam seluas 232 ha. 
+
 Kelompok Hutan Toffo Rompu (RTK.65) pertama kali  ditunjuk sebagai Kawasan Hutan Tetap oleh Kepala Daerah Swatantra dengan keputusan UUD/5/DSD, tanggal 16 Maret 1960. Pada tahun 1986 telah dilaksanakan Pengukuhan Batas oleh  Balai Inventarisasi dan Pemetaan Hutan Denpasar dengan luas definitif  63.060,37 Ha dan dan Pengesahan Berita Acara Tata batas pada tanggal 18 Juni tahun 1977, setelah itu disyahkan oleh Menteri Kehutanan pada tanggal 20 Pebruari 1986, penetapan oleh Menhut Nomor. 239/Kpts-II/1989, tgl.24 Mei  1989. 
+
+![[Pasted image 20240130085417.png]]
+
+Keputusan Menteri Kehutanan nomor: SK.3069/Menhut-VII/KUH/2014 tanggal 23 April 2014 tentang Penetapan Kawasan Hutan pada Kelompok Hutan Toffo Rompu (RTK.65) seluas 85.518,64 Ha di Kab. Dompu dan Kab. Bima, yang terdiri dari:
+a. taman wisata alam seluas 232,00 hektar,
+b. hutan lindung seluas 37.197,97 hektar,
+c. hutan produksi terbatas seluas 33.749,41 hektar,
+d. hutan produksi tetap seluas 14.339,26 hektar.
+
+Dengan diberlakukannya keputusan ini, maka Keputusan Menteri Kehutanan Nomor 239/Kpts-II/1989 tanggal 24 Mei 1989 tentang Penetapan Kawasan Hutan Toffo Rompu (RTK.65) seluas 63.060,37 hektar di Kabupaten Dati II Bima, Kabupaten Dati II Dompu, Provinsi Nusa Tenggara Barat, dinyatakan tidak berlaku lagi.
+
+![[Pasted image 20240130090020.png]]
 
 Flora dan Fauna
 Jenis tumbuhan yang terdapat di kelompok hutan Toffo Rompu  (RTK.65) adalah : kesambi (Duabanga mollucana), mangge (Tamarindus indica), bayur (Pterospermum javanicum), binuang (Tetrameles nudiflora), ketimis (Protium javanicum), beringin (Ficus benyamin), Sonokeling (Dalbergia latifolia), laban (Vitex pubescens) bungur (Lagerstroemia speciosa), walikukun (Schoutenia ovata), pulai (Alstonia spectabilis),  asam (Tamarindus indica), jati (Tectona grandis) dan beberapa tumbuhan bawah seperti tembelekan (lantana camara), alang-alang (Impreta cylindrical) dan jenis reumput-rumputan (Gramesia spp) yang biasanya tumbuh pada areal terbuka (Laporan Hasil Rekonstruksi Batas Kawasan hutan di Kelompok hutan Toffo Rompu (RTK.65) Kabupaten Dompu, Provinsi Nusa Tenggara Barat Tahun 2004).

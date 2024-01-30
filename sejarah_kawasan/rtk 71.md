@@ -6,6 +6,8 @@ Berdasarkan Surat Keputusan Menteri Pertanian tanggal 23 Oktober 1972 No. 502/Kp
 
 Berdasarkan Keputusan menteri Pertanian No: 348/Kpts/Um/8/1975 menetapkan Cagar alam Pedauh seluas 543,5 Ha.
 
-Kelompok Hutan Pedauh (RTK.71) telah ditunjuk sesuai dengan Keputusan Menteri Kehutanan 598/Menhut-II/2009 tanggal 2 Oktober 2009. Kawasan hutan tersebut telah terdapat batas kawasan hutan berupa pemasangan tanda batas dan telah dilakukan pemetaan sehingga memenuhi syarat untuk ditetapkan sebagai kawasan hutan.
+![[Pasted image 20240130092546.png]]
 
 Berdasarkan Keputusan menteri Kehutanan Nomor: SK.2557/Menhut-VII/KUH/2014 tanggal 7 April 2014, menetapkan kawasan hutan Cagar Alam Pedauh seluas 524 (lima ratus dua puluh empat) hektar di Kabupaten Sumbawa Barat, Provinsi Nusa Tenggara Barat.
+
+![[P.106.jpg]]

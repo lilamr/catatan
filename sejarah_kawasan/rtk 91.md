@@ -14,6 +14,8 @@ Berdasarkan Keputusan Menteri Kehutanan Nomor: 733/Kpts-II/1996 tanggal 25 Nopem
 
 Pengukuran Tata Batas dilaksanakan Tahun 1996 dan dibuatkan Berita Acara Tata Batas tanggal 27 Maret 1997. Kelompok Hutan Olat Lemusung (RTK.91) ditetapkan oleh Menteri Kehutanan Republik Indonesia dengan surat Nomor 5K.139/MENHUT- 11/2004 seluas 7.778,90 Ha dengan fungsi sebagai Hutan Lindung.
 
+![[Olat Lemusung [RTK.91].jpg]]
+
 Bupati Sumbawa Barat dengan surat Nomor 522/007/DISHUTBUNTAN/2010 tanggal 19 April 2010, mengajukan permohonan alih fungsi sebagian Kawasan Hutan Lindung Kelompok Hutan Olat Lemusung RTK.91 pada bagian selatan yaitu pada Lemusung B dengan luas 1.456,60 (seribu empat ratus lima puluh enam dan enam puluh perseratus) hektar dan pada Desa Kertasari seluas 1.488,62 (seribu empat ratus delapan puluh delapan dan enam puluh dua perseratus) hektar sehingga luas keseluruhan seluas 2.945,22 (dua ribu sembilan ratus empat puluh lima dan dua puluh dua perseratus) hektar menjadi Kawasan Hutan Produksi Terbatas.
 
 Rekomendasi Gubernur Nusa Tenggara Barat, sesuai surat Nomor 520/919/Adm.Ekon tanggal 18 November 2010. Berita Acara Hasil Penelitian Tim Terpadu Usulan Perubahan Fungsi Kawsan Hutan Lindung Kelompok Hutan Olat Lemusung RTK.91 seluas ± 2.945,22 (dua ribu sembilan ratus empat puluh lima dan dua puluh dua perseratus) hektar menjadi Hutan Produksi Terbatas, yang terletak di Kabupaten Sumbawa Barat, Provinsi Nusa Tenggara Barat, tanggal 15 November 2011.
@@ -23,6 +25,7 @@ Tim Terpadu merekomendasikan sebagian Kawasan Hutan Lindung Olat Lemusung RTK.91
 Direktur Jenderal Planologi Kehutanan dan Tata Lingkungan dengan surat Nomor S.41/PKTL-KUH/2016 tanggal 19 Januari 2016, menyampaikan 5 (lima) lembar peta usulan Perubahan Fungsi Kawsan Hutan Lindung Kelompok Hutan Olat Lemusung RTK.91 menjadi Hutan Produksi Terbatas seluas 2.958 (dua ribu sembilan ratus lima puluh delapan) hektar dan Hutan Produksi Tetap seluas 165 (seratus enam puluh lima) hektar, di Kabupaten Sumbawa Barat, Provinsi Nusa Tenggara Barat, sebagai bahan kelengkapan penerbitan Keputusan Menteri Lingkungan Hidup dan Kehutanan.
 
 Berdasarkan Surat Keputusan Menteri Lingkungan Hidup dan Kehutanan Nomor: SK.76/MENLHK/SETJEN/PKTL.2/2/2016 tanggal 2 Pebruari 2016 tentang Perubahan Fungsi sebagai Kawasan Hutan Lindung Kelompok Hutan Olat Lemusung (RTK.91) menjadi Hutan Produksi Terbatas seluas 2.958 Ha dan Hutan Produksi Tetap seluas 165 Ha.
+
 ![[olat lemusung.jpg]]
 
 Flora dan Fauna

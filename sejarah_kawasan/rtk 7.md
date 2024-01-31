@@ -31,15 +31,16 @@ Berdasarkan Keputusan Menteri Kehutanan Nomor SK.2841/Menhut-VII/KUH/2014 tentan
 - Kawasan hutan lindung seluas 6.398,83 hektar,
 - Kawasan hutan produksi terbatas seluas 10.041 hektar.
 
+![[Pasted image 20240131151621.png]]
 
-
-![[Peta SK.270_6_2017 1.jpg]]
 
 
 Berdasarkan Keputusan Menteri Kehutanan Nomor: SK.4605/MENLHK-PKTL/KUH/PLA.2/9/2017 tentang Perubahan Atas Keputusan Menteri Kehutanan Nomor SK.2841/Menhut-VII/KUH/2014 total luas KH. Pelangan adalah 15,801.90 Ha. Luas berdasarkan fungsi yaitu:
 - Hutan Lindung			: 6,191.90 Ha
 - Hutan Produksi		: 131.00 Ha
 - Hutan Produksi Terbatas	: 9,479.00 Ha
+
+![[Peta SK.270_6_2017 1.jpg]]
 
 
 ====================================================
@@ -60,7 +61,7 @@ Setelah melalui beberapa perubahan, kemudian ditunjuk kembali sesuai dengan Kepu
 - Kawasan hutan lindung seluas 6.398,83 hektar,
 - Kawasan hutan produksi terbatas seluas 10.041 hektar.
 
-Pada SK.598/Menhut-II/2009, belum mengakomodir SK 336/Kpts-II/88 dan 664/Kpts-II/1992 sehingga kemudian dilakukan perubahan berdasarkan Keputusan Menteri Lingkungan Hidup dan Kehutanan Nomor: SK.270/Menlhk/Setjen/PLA.2/6/2017 tentang Perubahan ats Keputusan Menteri Kehutanan Nomor SK.598/Menhut-II/2009 tentang Penunjukan Kawasan Hutan dan Konservasi Perairan Provinsi Nusa Tenggara Barat. Kemudian, kembali ditetapkan berdasarkan Keputusan Menteri Kehutanan Nomor: SK.4605/MENLHK-PKTL/KUH/PLA.2/9/2017 tentang Perubahan Atas Keputusan Menteri Kehutanan Nomor SK.2841/Menhut-VII/KUH/2014 total luas KH. Pelangan adalah 15,801.90 Ha. Luas berdasarkan fungsi yaitu:
+Pada SK.598/Menhut-II/2009, belum mengakomodir SK 336/Kpts-II/88 dan 664/Kpts-II/1992 sehingga kemudian dilakukan perubahan berdasarkan Keputusan Menteri Lingkungan Hidup dan Kehutanan Nomor: SK.270/Menlhk/Setjen/PLA.2/6/2017 tentang Perubahan atas Keputusan Menteri Kehutanan Nomor SK.598/Menhut-II/2009 tentang Penunjukan Kawasan Hutan dan Konservasi Perairan Provinsi Nusa Tenggara Barat. Kemudian, kembali ditetapkan berdasarkan Keputusan Menteri Kehutanan Nomor: SK.4605/MENLHK-PKTL/KUH/PLA.2/9/2017 tentang Perubahan Atas Keputusan Menteri Kehutanan Nomor SK.2841/Menhut-VII/KUH/2014 total luas KH. Pelangan adalah 15,801.90 Ha. Luas berdasarkan fungsi yaitu:
 - Hutan Lindung seluas 6,191.90 Ha
 - Hutan Produksi seluas 131.00 Ha
 - Hutan Produksi Terbatas seluas 9,479.00 Ha

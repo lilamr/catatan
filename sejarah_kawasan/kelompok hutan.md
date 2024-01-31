@@ -30,9 +30,9 @@ Kawasan hutan Provinsi NTB dibagi menjadi 61 Kelompok hutan yang menyebar di Sel
 - RTK 78 Olat Lake/ Olat Cabe (1997) [[rtk 78]]
 - RTK 79 Gili Ngara/ Olat Puna (1997) [[rtk 79]]
 ## Penetapan Setelah Penunjukan 1999
-- RTK 0 Gili Ayer, Gili Meno, Gili Trawangan (2001)
-- RTK 58 Pulau Moyo (2001)
-- RTK 5 Pelaning (2002)
+- RTK 0 Gili Ayer, Gili Meno, Gili Trawangan (2001) [[rtk 0]]
+- RTK 58 Pulau Moyo (2001) [[rtk 58]]
+- RTK 5 Pelaning (2002) [[rtk 5 sbw]]
 - RTK 14 Gili Lawang, Sulat, Petagan (2002)
 - RTK 15 Sekaroh (2002)
 - RTK 80 Pulau Rai Rakit Kwangko (2002)

@@ -2,7 +2,7 @@ Kelompok Hutan Pajo (RTK.42)
 
 Letak dan Luas
 Kelompok Hutan Pajo (RTK.42) secara geografis terletak diantara 118°25’07” BT sampai dengan 118°29’10” BT dan diantara 08º34’04” LS sampai dengan 08º42’00” LS, sedangkan lokasi kegiatan Identifikasi dan Inventarisasi Tenurial Permasalahan Kawasan Hutan terletak diantara 118°25’40” BT sampai dengan 118°26’15”  BT dan antara 08º40’28” LS sampai dengan  08º41’05”LS.
-Berdasarkan pembagian wilayah administrasi pemerintahan Kelompok Hutan Pajo (RTK.42) terletak di wilayah Kecamatan Pajo Kabupaten Dompu Provinsi Nusa Tenggara Barat, sedangkan menurut pembagian administrasi pengelolaan hutan terletak di wilayah KPHL Toffo Pajo Unit XI, Dinas Kehutanan Kabupaten Dompu Provinsi Nusa Tenggara Barat.
+Berdasarkan pembagian wilayah administrasi pemerintahan Kelompok Hutan Pajo (RTK.42) terletak di wilayah Kecamatan Pajo Kabupaten Dompu Provinsi Nusa Tenggara Barat, sedangkan menhttps://raw.githubusercontent.com/lilamr/catatan/main/sejarah_kawasan/attachment/PUSUK%20PAO-%201.jpgurut pembagian administrasi pengelolaan hutan terletak di wilayah KPHL Toffo Pajo Unit XI, Dinas Kehutanan Kabupaten Dompu Provinsi Nusa Tenggara Barat.
 Lokasi kegiatan Identifikasi dan Inventarisasi Tenurial Permasalahan Kawasan Hutan menurut administrasi pemerintahan terletak di wilayah Desa Jambu Kecamatan Pajo Kabupaten Dompu, sedangkan menurut pembagian administrasi pengelolaan hutan terletak di wilayah KPHL Toffo Pajo Unit XI, Dinas Kehutanan Kabupaten Dompu Provinsi Nusa Tenggara Barat.    
 
 Sejarah Kawasan Hutan

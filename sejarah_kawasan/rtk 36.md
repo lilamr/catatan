@@ -2,9 +2,11 @@ Kelompok Hutan Serading (RTK.36)
 
 Kelompok Hutan Serading (RTK.36) secara administratif terletak di Kab. Sumbawa. Berdasarkan pembagian wilayah administrasi pengelolaan hutan, termasuk dalam wilayah Balai KPH Batulanteh.
 
-Berdasarkan keputusan Kepala Daerah Swapraja Bima Nomor ZB.31 Januari 1931 Nomor 190 telah ditunjuk kelompok hutan Sarading (RTK.36) sebagai Kawasan Hutan. Kelompok hutan tersebut, telah ditata batas di lapangan dan dibuat serta ditandatangani Berita Acara Tata Batasnya pada tanggal 21 Juli 1975 dengan luasnya adalah 826,60 hektar.
+Berdasarkan keputusan Kepala Daerah Swapraja Bima Nomor ZB.31 Januari 1931 Nomor 190 telah ditunjuk kelompok hutan Sarading (RTK.36) sebagai Kawasan Hutan seluas ± 4.000 Ha.
 
-Untuk menjamin kepastian hukum mengenai status, batas dan luas kawasan hutan tersebut sesuai dengan Undang-undang Nomor 41 Tahun 1999 tentang Kehutanan, maka dipandang perlu untuk menetapkan kelompok hutan Sarading (RTK.36) seluas 826,60 (delapan ratus dua puluh enam, enam puluh perseratus) hektar yang terletak di Kabupaten Sumbawa, Provinsi Nusa Tenggara Barat sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Tetap dengan Keputusan Menteri Kehutanan. Kemudian berdasarkan Keputusan Menteri Kehutanan Nomor: 97/Kpts-II/2003 tanggal 19 Maret 2003, ditetapkan Kelompok Hutan Sarading (RTK.36) seluas 826,60 sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Tetap.
+Kemudian ditunjuk sebagai  Kawasan Hutan, dengan Keputusan Menteri Kehutanan Nomor: 756/Kpts/Um/10/1982, tanggal 12 Oktober 1982. Kelompok hutan tersebut, telah ditata batas di lapangan dan dibuat serta ditandatangani Berita Acara Tata Batasnya pada tanggal 21 Juli 1975 dengan luasnya adalah 826,60 hektar.
+
+Kemudian berdasarkan Keputusan Menteri Kehutanan Nomor: 97/Kpts-II/2003 tanggal 19 Maret 2003, ditetapkan Kelompok Hutan Sarading (RTK.36) seluas 826,60 sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Tetap.
 
 ![[Sarading [RTK.36].jpg]]
 

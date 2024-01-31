@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sejarah_kawasan/rtk 92.md",
+                "file": "sejarah_kawasan/daftar isi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sejarah_kawasan/rtk 92.md",
+                "file": "sejarah_kawasan/daftar isi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sejarah_kawasan/rtk 92.md",
+                "file": "sejarah_kawasan/daftar isi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sejarah_kawasan/rtk 92.md"
+                "file": "sejarah_kawasan/daftar isi.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "ce6f137dbb6e9d92",
   "lastOpenFiles": [
+    "vim_nvim/install.md",
+    "sejarah_kawasan/rtk 92.md",
     "sejarah_kawasan/kelompok hutan.md",
     "sejarah_kawasan/rtk 58.md",
     "[[rtk.md",
@@ -171,7 +173,6 @@
     "sejarah_kawasan/rtk 57.md",
     "sejarah_kawasan/pelepasan.md",
     "sejarah_kawasan/rtk 0.md",
-    "sejarah_kawasan/rtk 92.md",
     "sejarah_kawasan/attachment/Pulau Ngali [RTK.92].jpg",
     "sejarah_kawasan/rtk 91.md",
     "sejarah_kawasan/attachment/Olat Lemusung [RTK.91].jpg",
@@ -196,7 +197,6 @@
     "sejarah_kawasan/rtk 73.md",
     "sejarah_kawasan/rtk 71.md",
     "sejarah_kawasan/rtk 70.md",
-    "sejarah_kawasan/rtk 68.md",
     "geonodeDISLHK/ntb hijau/attachment",
     "geonodeDISLHK/wisata alam/attachment",
     "geonodeDISLHK/wisata alam",

@@ -44,3 +44,5 @@ Kelompok Hutan Pandan Mas (RTK 2) secara administratif terletak di Kec. Gangga, 
 KH. Pandan Mas (RTK 2) pertama kali dilakukan penataan batas luar pada tahun 1936 dengan luas definitif 1.370 Ha. Kemudian masuk dalam Tata guna hutan kesepakatan sesuai Keputusan Menteri Pertanian Nomor: 756/Kpts/Um/X/82. Penataan batas fungsí dilakukan tahun 1995 dengan hasil luasan terdiri dari Hutan Lindung 630,22 Ha dan Hutan Produksi Tetap 739,78 Ha, serta terdapat Enclave Memanu seluas 33,33 Ha. 
 
 Penunjukkan KH. Pandan Mas (RTK 2) sebagai kawasan hutan lindung dan hutan produksi berdasarkan Keputusan Menteri Kehutanan dan Perkebunan Nomor 418/Kpts-II/1999 dan Penunjukan Menhut No: SK.598/Menhut-II/2009. Kemudian ditetapkan dengan Penetapan Menhut No. Sk. 3000/Menhut-VII/KUH/2014 tanggal 17 April 2014 dengan luas definitif 1.370 Ha.
+
+![[Pasted image 20240131104330.png]]

@@ -13,7 +13,12 @@ Diproduksi oleh Kelompok Tani Buin Sekedit. Terletak di Desa kelungkung yang mem
 https://kmisfip2.menlhk.go.id/image/promosi/dest_776cc4df42eb0e265adf81f99d02e997.jpg
 ![[hhbk batulanteh2.jpg]]
 ### Bubuk Kayu Manis
-Diproduksi oleh KSU Sumber Alam yang terletak di Desa Batu Dulang merupakan salah satu dari 10 desa yang termasuk dalam kelompok binaan FIP II BKPH Batulanteh. 
+
+Diproduksi oleh KSU Sumber Alam yang terletak di Desa Batudulang merupakan salah satu dari 10 desa yang termasuk dalam kelompok binaan FIP II BKPH Batulanteh.
+
+Kayu manis ini berasal dari tanaman sistem agroforestri tradisional yang dipraktekkan secara turun-temurun oleh masyarakat di Desa Batudulang. Kayu manis sendiri sudah dikenal oleh masyarakat disana sejak lama tidak hanya sebagai bumbu masakan tetapi juga bijinya dijadikan bahan obat-obatan.
+
+
 https://cdn.pixabay.com/photo/2014/11/02/16/55/cinnamon-stick-514243_1280.jpg
 ![[hhbk batulanteh3.jpg]]
 
@@ -46,6 +51,9 @@ Harga : Rp. 10,000
 Produksi : 450 kg / tahun
 
 ![[gadung1.jpg]]
+
+![[Pasted image 20240201115236.png]]
+
 
 ### Kemiri SA
 
@@ -83,10 +91,16 @@ Produksi : 10 Liter / tahun
 
 ![[honey1.jpg]]
 
- 
- 
+
+### Madu Lembah Thuwa
+
+Diproduksi oleh Kelompok tani Hutan Lembah Hijau	yang berlokasi di Dusun Kayangan, Desa Labuhan Badas, Kecamatan Labuhan Badas yang merupakan binaan dari KPH Batulanteh.
+
+Madu Lembah Thuwa adalah madu alam murni yang diperoleh dari hutan tropis Pulau Sumbawa yang kaya dengan beragam jenis flora yang menyajikan beragam jenis bunga menjadi sumber nectar utama pakan lebah hutan Apis dorsata. Madu lembah thuwa telah melalu proses panjang sebelum dikemas, hanya menerima madu kualitas terbaik dari petani madu binaan sehingga tidak diragukan kemurnian dan keasliannya.
 
 
+
+![[Pasted image 20240201114642.png]]
 
 ## Produk HHBK BKPH Pentas
 
@@ -134,6 +148,14 @@ Produk olahan mete dari KTH Batawawi yang merupakan binaan BKPH Maria Donggomasa
 
 ![[Pasted image 20240126094043.png]]
 
+### Gadung Monggoromo
+
+Olahan gadung Monggoromo berasal dari pengembangan Porang di bawah tegakan hutan oleh KTH Monggoromo yang berlokasi di Desa Sari, Kecamatan Sape, Kabupaten Bima. Dengan adanya penghasilan dari usaha tanaman bawah tegakan ini, akan memberi efek perlindungan bagi sumber daya hutan (pohon/tegakan) yang ada.
+
+Kegiatan Budidaya porang dibawah tegakan hutan ini merupakan salah satu bentuk dari kegiatan Kemitraan Kehutanan yg dilakukan oleh KTH Monggoromo dengan BKPH Maria Donggomasa.
+
+![[Pasted image 20240201124324.png]]
+
 ## Produk HHBK BKPH Brang Rea Puncak Ngengas
 
 ### Kopi Rarak
@@ -141,3 +163,21 @@ Produk olahan mete dari KTH Batawawi yang merupakan binaan BKPH Maria Donggomasa
 Desa Rarak Ronges terkenal dengan wilayah penghasil kopi. Kopi merupakan salah satu potensi hasil hutan bukan kayu. Di salah satu kelompok kopi rarak “Datu Bayung” kita dapat berkunjung untuk melihat proses penggilingan dan proses pengemasan kopinya. Proses pembuatan kopi di kelompok ini dapat dikatakan terbilang maju, hal ini dapat dilihat dari proses sangrai kopi yg sudah menggunakan mesin sangrai modern dan proses penggilingannya pun menggunakan mesin penggiling. Jenis kopi yang diproduksi, yaitu kopi luwak dan kopi robusta, ada yang berbentuk biji (sudah disangrai) dan ada pula yang sudah menjadi bubuk kopi.
 
 ![[Pasted image 20240126100302.png]]
+
+### Kopi Matemega
+
+Kopi Lokal Matemega organik berasal dari Dusun Matemega, Desa Marente berada pada ketinggian 800-1000 Mdpl ciri khas rasa buah Coklat. Diproduksi oleh KTH Bunga Kopi yang merupakan anggota Perhutanan Sosial pada BKPH Brang Rea Puncak Ngengas. 
+
+Aroma harum dari kopi ini ketika diseduh menjadi salah satu daya tarik kopi asal dataran tinggi Matemega. Produk yang menggunakan ceri kopi robusta organik ini juga memberikan cita rasa yang rich di mulut dengan notes cokelat. Kami merekomendasikan produk ini untuk Anda yang menyukai kopi harum dan kuat khas Matemega.
+
+
+![[Screenshot from 2024-02-01 12-32-37.png]]
+
+## Produk HHBK BKPH Madapangga Rompu Waworada
+
+### Madu Niwa Diha
+
+Banyak warga masyarakat Desa Diha, Kecamatan Belo, Kabupaten Bima, NTB yang ketika musim kemarau mencari madu asli di pegunungan Desa Diha. Kini hasil madu hutan tersebut sudah dikemas secara apik menjadi produk lokal Desa Diha dengan brand "Niwa Diha". Ini menjadi salahsatu terobasan Desa Diha yang perlu kita dukung bersama.
+
+![[Pasted image 20240201123811.png]]
+

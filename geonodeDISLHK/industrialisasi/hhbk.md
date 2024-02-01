@@ -181,3 +181,23 @@ Banyak warga masyarakat Desa Diha, Kecamatan Belo, Kabupaten Bima, NTB yang keti
 
 ![[Pasted image 20240201123811.png]]
 
+## Produk HHBK BKPH Rinjani Timur
+
+### Jahe Instan Semaring
+
+Jahe Instan Semaring merupakan produk olahan Jahe hasil budidaya masyarakat Desa Mekar Sari yang tergabung dalam kelompok Gapoktan Puncak Semaring. Dalam rangka menjalin kerjasama Kemitraan Kehutanan dengan KPHL Rinjani Timur, Gapoktan Puncak Semaring bersepakat untuk menjadikan tanaman Jahe dan Porang sebagai tanaman tumpang sari yang akan dikembangkan di kawasan hutan yang dimitrakan.
+
+Jenis jahe yang dikembangkan di Desa Mekar Sari cocok untuk diolah menjadi minuman instan dan permen karena jenis jahe ini memiliki tingkat kepedasan yang tidak terlalu tinggi. Selain itu, nilai jual jahe mentah yang cukup rendah akan sangat merugikan masyarakat yang memdudidayakannya. Harapannya melalui produk ini akan dapat meningkatkan nilai jual dari jahe hasil budidaya masyarakat Desa Mekar Sari. 
+
+![[Pasted image 20240201134402.png]]
+
+
+
+## Produk HHBK BKPH Tambora
+
+### Bintang Madu
+
+Diproduksi oleh Kelompok Tani Hutan Bintang Madu Tambora di Desa Labuan Kenanga, Kec. Tambora, Kab. Bima yang merupakan binaan KPH Tambora. Madu hutan asli dari pegunungan tambora. Berasal dari lebah liar yang mengonsumsi nektar dari vegetasi di pegunungan tambora. Diproduksi secara higenis, tanpa sentuhan tangan langsung, diperas dengan cara ditiris atau menetes sendiri.
+
+![[Pasted image 20240201142515.png]]
+

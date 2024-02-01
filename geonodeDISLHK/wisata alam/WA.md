@@ -208,6 +208,50 @@ Desa Sembalun Bumbung memiliki atraksi Budaya unuk bernama Upacara Adat Ngayu-ay
 
 ![[Pasted image 20240123160819.png]]
 
+
+### Bukit Pergasingan
+
+Bukit Pergasingan merupakan bagian dari wilayah KPH Rinjani Timur yang dikelola menjadi kawasan wisata alam bersama Koperasi Wisatani melalui skema kemitraan kehutanan. Terletak di kawasan Sembalun Kabupaten Lombok Timur yang telah terkenal dengan pemandangan alamnya, Bukit Pergasingan menjadi bagian tak terpisahkan dan mampu menyajikan atraksi yang menarik bagi wisatawan terutama  bagi yang menyukai kegiatan outdoor. 
+
+Bukit Pergasingan merupakan objek wisata alam minat khusus bagi para pecinta hiking maupun trekking. Namun tidak perlu khawatir karena pendaki yang tidak berpengalaman pun boleh mencoba untuk naik ke bukit ini. Jalur pendakian yang tergolong soft tracking dapat ditempuh dalam waktu ±2 jam untuk sampai di puncak bukit. Terletak di ketinggian 1.700 m di atas permukaan laut, Bukit Pergasingan menawarkan pemandangan Desa Sembalun dan bukit-bukit di sekitarnya dengan sangat indah. 
+
+Selain pemandangan yang elok, kita juga dapat menikmati sunset dan sunrise yang cantik dari Bukit Pergasingan serta hamparan bintang di malam hari. Selain itu, bagi yang menyukai tantangan bisa mencoba paralayang dengan terbang melintasi kawasan Sembalun dari Bukit Pergasingan. Dengan paralayang, kita akan menikmati keindahan kawasan Sembalun dengan cara dan sensasi yang berbeda.
+
+Dalam pelaksanaan kegiatan pariwisata yang dibuka di Bukit Pergasingan, Koperasi Wisatani mewajibkan para pengunjung untuk membawa turun kembali sampah yang dihasilkan dengan kantong plastik yang telah disediakan. Untuk membuat api unggun di Bukit Pergasigan, pengunjung dilarang mengambil kayu dari pohon-pohon yang ada namun diwajibkan untuk membawa kayu bakar yang telah disiapkan di pintu masuk Bukit Pergasingan.
+
+Untuk menuju Bukit Pergasingan Sembalun, kita bisa menggunakan kendaraan pribadi, charter, maupun sewa kendaraan baik mobil atau motor. Untuk transportasi umum, belum ada sarana yang dapat menjangkau langsung ke lokasi wisata. Kita perlu berganti angkutan beberapa kali untuk dapat sampai di pintu masuk Bukit Pergasingan. Namun tidak perlu khawatir karena Bukit Pergasingan terletak di kawasan Sembalun yang sudah terkenal dan banyak pengunjung yang datang sehingga terdapat banyak alternatif pilihan untuk menjangkaunya. Kondisi jalan menuju pintu masuk Bukit Pergasingan pada umumnya baik dan sudah beraspal. Adapun jarak tempuh Bukit Pergasingan dari beberapa kota terdekat adalah :
+Dari Mataram: ± 89 km, dengan waktu tempuh rata-rata 3 jam
+Dari Praya (BIL): ± 73 km, dengan waktu tempuh rata-rata 2,5 jam
+Dari Selong: ± 50 km, dengan waktu tempuh rata-rata 2 jam
+
+![[Pasted image 20240201135359.png]]
+
+
+### Gili Petagan
+
+Gili Petagan merupakan salah satu pulau kecil di Lombok dan merupakan bagian dari KPH Rinjani Timur. Pulau kecil yang terletak di Kecamatan Sambelia ini memiliki potensi yang luar biasa untuk dijadikan suatu kawasan wisata. Luas Gill Petagan hanya 56,8 hektar dan didominasi oleh mangrove. Ada beberapa tanaman pantai yang tumbuh di dalam pulau kecil ini seperti pohon banten, waru dan ketapang, Kondisi alami Gili Petagan memang sesuai sebagai tempat hidup mangrove yaitu selalu terkena pasang surut air laut dan memiliki tekstur tanah berpasir.
+
+Luasan pulau yang relatif kecil dengan pasir pantai yang putih bersih berlatar belakang Gunung Rinjani membuat Gili Petagan menjadi tempat yang menarik untuk dikunjungi. Dengan adanya mangrove sebagai habitat satwa, maka berbagai macam burung pantai yang hinggap di kawasan Gili Petagan menjadi daya tarik tambahan bagi para wisatawan. Gugusan mangrove yang membentuk lorong-lorong dapat dinikmati dengan menggunakan kano menyusuri pulau kecil ini.
+
+Setelah puas menikmati keindahan daratan Gili Petagan, saatnya menyelam untuk melihat lebih jelas kekayaan alam yang luar biasa dimiliki oleh pulau kecil ini. Gili Petagan merupakan salah satu tempat eksotis untuk aktivitas snorkeling. Keindahan terumbu karang yang masih terjaga dapat kita nikmati dari perairan laut yang dangkal dan tidak berarus deras. Saat snorkeling maupun diving, kita akan ditemani ikan-ikan beraneka rupa yang ramah pada setiap penyelam.
+
+Akses menuju Gili Petagan sangat mudah karena dermaga penyeberangan terletak di jalan utama Kecamatan Sambelia. Waktu terbaik untuk mengunjungi Gili Petagan adalah siang hari sekitar pukul 11.00 hingga pukul 14.00 dalam kondisi cuaca cerah, karena terumbu karang akan tampak jelas dan bersih serta merupakan waktu air laut pasang.
+
+![[Pasted image 20240201135859.png]]
+
+### Gili Sulat
+
+Salah satu gili yang wajib untuk masuk daftar kunjungan wisata para traveler adalah Gili Sulat. Kawasan gili yang berada di timur pulau Lombok tepatnya di Desa Sugian, Kecamatan Sambelia, Kabupaten Lombok Timur yang juga masuk dalam kawasan KPH Rinjani Timur ini memiliki pesona alam pantai yang tidak kalah indahnya dengan gili lain di Pulau Lombok. Daya tarik Gili Sulat salah satunya adalah keberadaan hutan Mangrove di dalamnya. Dengan kawasan yang cukup luas yaitu 643 Ha, kawasan gili ini ditumbuhi jenis Rhizophora, sp, Bruguiera sp, Sonneratia alba, dan juga Avicennia, sp.
+
+Di samping itu, kondisi pantai yang masih sangat alami dan  bersih dengan air laut biru nan jernih, pasir putih yang lembut, serta lingkungan yang begitu alami menjadi daya tarik tinggi yang masih jarang ditemukan di tempat wisata lain. 
+
+Kegiatan wisata yang dapat dilakukan adalah fotografi, camping, dan bagi para pecinta olahraga laut, berenang dan snorkeling pastinya akan sangat menyenangkan dilakukan di sini. Keindahan alam bawah lautnya seperti terumbu karang dan padang lamun (ekosistem perairan dangkal yang didominasi oleh tumbuhan lamun) yang eksotik pasti akan membuat para traveler ketagihan untuk berkunjung kembali. Tidak hanya menambah keindahan laut tetapi lamun juga berperan penting terhadap kesehatan ekosistem terumbu karang. Ekosistem padang lamun menyaring sedimen yang berasal dari daratan kearah laut. Sedimen bisa berupa pasir, lumpur atau bahkan sampah yang bisa menutupi karang dan menyebabkan karang stres. Daun lamun yang terbawa ke ekosistem terumbu karang dapat terurai menjadi senyawa yang dibutuhkan oleh biota terumbu karang. Hewan-hewan laut seperti ikan dan bintang laut yang berwarna warni pun akan menambah pesona keindahan bawah laut Gili Sulat. Selain itu, kondisi perairan sekitar hutan Mangrove yang begitu tenang dimanfaatkan untuk berkano sambil menikmati keindahan alam seketarnya. 
+
+Para wisatawan yang mendambakan ketenangan dan kepuasan saat berlibur, maka Gili Sulat adalah tempat wisata yang tepat untuk dikunjungi. Pengunjung dapat menikmati sejuknya kawasan hutan Mangrove dengan berjalan di sepanjang jembatan yang sudah disediakan. Duduk di tepi jembatan, di bawah hijau dan rindangnya tegakan Mangrove sambil melihat ikan-ikan di sela akar bakau dengan sesekali mendengar kicauan burung, menjadi kegiatan berlibur yang akan membuat tubuh dan pikiran kembali segar dan bersemangat. 
+
+Para traveler tidak perlu khawatir mengenai akses menuju kawasan wisata ini karena Untuk dapat ditempuh dengan waktu sekitar 1 jam dari kota Selong dan 2-3 jam dari kota Mataram hingga Desa Sugian atau Desa Labuhan Pandan, Kecamatan Sambelia dengan kondisi jalan yang sudah baik. Setelah sampai di lokasi penyebrangan, traveler dapat menemui beberapa kapal motor yang siap mengantar menuju ke Gili Sulat, surga kecil di timur Lombok.
+
+![[Pasted image 20240201140349.png]]
 ## Wisata Alam BKPH Orong Telu
 
 ### Air Terjun Teba Murin

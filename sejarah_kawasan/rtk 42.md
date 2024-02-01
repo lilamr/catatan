@@ -27,6 +27,8 @@ Jenis fauna yang ada pada kelompok hutan Pajo (RTK.42) adalah Babi hutan (Sus vi
 ===========================================
 
 
+Kelompok Hutan Pajo (RTK.42)
+
 Kelompok Hutan Pajo (RTK.42) secara geografis terletak diantara 118°25’07” BT sampai dengan 118°29’10” BT dan diantara 08º34’04” LS sampai dengan 08º42’00” LS. Berdasarkan pembagian wilayah administrasi pemerintahan Kelompok Hutan Pajo (RTK.42) terletak di wilayah Kecamatan Pajo Kabupaten Dompu Provinsi Nusa Tenggara Barat. Menurut pembagian administrasi pengelolaan hutan terletak di wilayah KPH Toffo Pajo Soromandi.
 
 Pada awalnya ditunjuk berdasarkan Surat Keputusan Pemerintah Daerah Swapraja Dompu No. Dp R.B.8-6-1937 No.54/XII/Z.D.Z Best 17-2-1937 No 13. Pengukuhan awal dilaksanakan pada tahun 1975/1976 dengan Berita Acara Tata Batas disahkan pada tanggal 13 Agustus 1976 dan ditetapkan sebagai hutan tetap dengan Surat Keputusan  Menteri Pertanian No.43/Kpts/DJ/I/1978, tanggal 8 April 1978 dengan luas 1.763,40 Ha.

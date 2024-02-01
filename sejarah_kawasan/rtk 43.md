@@ -19,6 +19,7 @@ Jenis satwa yang ada pada kelompok hutan Riwo (RTK.43) adalah Babi hutan (Sus vi
 ================================================
 
 
+Kelompok Hutan Riwo (RTK.43)
 
 Kelompok hutan Riwo (RTK.43) secara geografis terletak di antara 118°16’02” sampai dengan 118° 26’01” Bujur Timur dan diantara 08º 30’00” sampai dengan 08º 42’02” Lintang Selatan. Berdasarkan pembagian wilayah administrasi pemerintahan terletak di wilayah Kecamatan Kempo, Kecamatan Manggelewa dan Kecamatan Woja, Kabupaten Dompu serta Kecamatan Terano, Kabupaten Sumbawa.
 

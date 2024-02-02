@@ -297,6 +297,105 @@ Aksesibilitas menuju pulau ini sangat mudah karena lokasinya sangat dekat dengan
 Berbicara tentang keindahan alam, pulau Kelapa tidak bisa dipandang sebelah mata. Banyak keunggulan yang dimiliki pulau ini, diantaranya: 1) wilayah timur pulau ini sangat mirip dengat Raja Ampat dengan keindahan gugusan pulau-pulau kecil tersebar di sebelah timurnya, rerumputan yang elok, bukit yang berkelok, padang savana yang indah dan luas dan pesona yang menawan di saat matahari terbit; 2) wilayah selatan, sangat tepat dibangun dermaga dan areal tracking sebab lokasinya relatif landai dan datar serta panorama dan keindahan pantai yang menakjubkan; 3) wilayah barat, serba-serbi keindahan terpampang di areal ini dengan eksotisnya saat matahari terbenam, pantai yang indah dan tenang, serta pasir putih yang mengkilau terhampar luas; 4) wilayah utara, areal dataran yang datar dan pasir putih yang bakal memanjakan pengunjungnya, areal camp yang bagus dan mempesona; 5) dan di tengahnya, terhampar dataran yang cocok dijadikan sebagai lokasi hunian bagi para pengunjung.
 
 ![[Pasted image 20240123130042.png]]
+
+### Pundu Nence
+
+Di Kota Bima Pundu Nence merupakan pegunungan dengan puncak tertinggi yaitu 1.050 Mdpl. Selain treknya yang menarik, sisa-sisa peninggalan sejarah dan budaya seperti Meriam dan Wadu Cobe, perkakas dari batu dan hamparan savana di puncak gunung merupakan daya tarik tersendiri dari gunung Pundu Nence. 
+
+Pundu Nence atau biasa dikenal dengan PUNCE, adalah satu destinasi wisata minat khusus yg terletak di gugusan pegunungan antara Kabanta dan Maria. Destinasi ini berbatasan dengan wilayah Kelurahan Lelamasa Kec. Rasanae Timur, Kota Bima.
+
+Gunung Pundu Nence adalah salah satu gunung yang menjadi pilihan favorit bagi para pendaki di Bima, karena memiliki pemandangan puncak yang menakjubkan, selain itu Pundu Nence ini memiliki nilai sejarah bagi peradaban masyarakat Bima.
+
+Dahulu kala menurut cerita turun temurun warga setempat di tengah hutan yang tidak jauh dari puncak, sebelumnya merupakan suatu perkampungan yang didiami oleh masyarakat Bima pada masa dahulu, terbukti adanya peninggalan berupa Wadu Nocu (Cobek). Selain itu juga terdapat 3 buah Meriam yang konon katanya dulu merupakan meriam yang digunakan masyarakat Bima untuk melawan penjajah.
+
+Untuk menuju PUNCE hanya dpt dilalui dengan berjalan kaki, menapaki jalan setapak dengan medan yg cukup ekstrim, dengan waktu tempuh antara 6-7 jam. Sebelum menikmati pemandangan eksotis di puncak PUNCE, dalam perjalanan, para pendaki akan disuguhi pemandangan yang tidak kalah menarik. Mulai dari kondisi hutan alam yg masih terjaga, juga situs situs yg sangat menarik,  antara lain meriam peninggalan jaman kerajaan Bima,  dll. Dan setelah berjalan 6-7 jam lamanya,  lelah para pendaki akan terobati oleh sejuknya hawa udara serta indahnya panorama puncak PUNCE. 
+
+![[407353013_3775950005970786_6413070414675872544_n.jpg]]
+
+## Wisata Alam BKPH Sejorong Mataiyang
+
+### Goa Sarungan
+
+Goa Sarungan berada di Desa Belo, Kec. Jereweh, Kab. Sumbawa Barat. Akses menuju Goa Sarunga juga cukup mudah, ±10 menit dari Alun-alun kecamatan Jereweh, ±30 menit dari Taliwang.
+
+Goa Sarungan merupakan jenis goa horisontal dengan pintu masuk goa yang lebar sehingga pengunjung tidak memerlukan alat khusus (seperti yang digunakan untuk menjelajahi goa vertikan). Goa Sarunga memiliki potensi yang bagus sebagai objek wisata. Selain karena memiliki keunikan lanskap, lokasi ini juga cocok sebagai areal wisata konservatif seperti "jungle tracking" maupun kemah konservasi. 
+
+Namun, hingga saat ini belum dilaksanakan pengelolaan wisata terhadap Goa Sarunga. Semoga kedepan Goa Sarunga ini dapat dikelola menjadi salah satu objek wisata unggul di Kab. Sumbawa Barat. Tentunya dengan pengelolaan yang lestari, sehingga dapat meningkatkan kesejahteraan masyarakat serta tetap menjaga kelestarian hutan dan lingkungan.
+
+![[395079434_3531149870547011_4872117022643585206_n.jpg]]
+
+### Air terjun Perpas
+
+Air Terjun Perpas atau dikenal juga dengan nama Air Terjun Sekongkang karena lokasinya yang berada di Desa Kemuning, Kec. Sekongkang, Kab. Sumbawa Barat. Butuh perjalanan 30-45 menit untuk tiba di lokasi air terjun.
+
+Selama dalam perjalanan menuju ke lokasi air terjun sudah terdapat plang papan informasi terkait dengan air terjun tersebut dan beberapa spot-spot foto yang bisa di manfaatkan oleh pengunjung sebagai tempat selfi. 
+
+Air Terjun Perpas tipenya adalah air terjun bertingkat, air tidak langsung jatuh dari ketinggian. Secara bertahap air terjun melewati beberapa tingkatan. Ada yang cuma 2 meter, ada pula yang tingginya hampir 6 atau 7 meter. Yang menarik adalah pada bagian tengahnya, ada kolam alami yang lumayan besar untuk menampung air terjun. Selain itu juga lokasi ini sangat di mungknkan sebagai wisata camping ground dan lokasi wisata tracking menuju ke lokasi air terjun.
+
+![[coba-berenang-kalau-mau-merasakan-kesegarannya.jpg]]
+
+## Wisata alam BKPH Ampang Riwo
+
+### Pantai Ria 
+
+Pantai Ria berada di Desa Riwo, Kecamatan Woja, Kab. Dompu. Bagi masyarakat Dompu, pantai Ria terkenal dengan pemandangan alam yang indah, pengunjung dapat melakukan banyak kegiatan wisata diantaranya menikmati pemandangan pesisir pantai Ria dimana pengunjung dapat menikmati seluruh pemandangan yang eksotik mulai dari pantai bukit dan laut lepas. 
+
+Jarak dari ibukota Kabupaten Dompu ke lokasi Pantai Ria ± 29 km. Jalan darat menghubungkan jalan dari Kabupaten Dompu ke lokasi kecamatan Woja sampai dengan lokasi pantai Ria memiliki jalan aspal. Batas kecamatan menuju desa relatif dapat dijangkau dengan menggunakan roda dua dan roda empat dengan waktu tempuh mencapai ± 45 menit.
+
+Potensi Obyek Destinasi Wisata di Pantai Ria dan sekitarnya yang teridentifikasi seperti Pantai So Mila yang berbatasan dengan Kabupaten Sumbawa juga memiliki air terjun yaitu air terjun So Mila, gugusan pantai pasir dan batuan di beberapa sudut pantai, gua alami yang terbentuk oleh proses geologi yang dapat dinikmati pengunjung sebagai salah satu obyek wisata alam. Selain itu potensi jasa lingkungan wisata alam lainnya seperti mata air Mata Air Wadubura, So Oi Wau/Mada Oi Toi, Mada Oi Ria.
+
+Salah satu keunikan pantai ini adalah terdapat sebuah mata air yang bernama Lampa Lisu. Mata air ini dipercaya masyarakat sekitar sebagai tempat para putra raja dan bangsawan mengambil air ketika akan di khitan atau Ndoso Woi dengan iringan Gendang dan Silu (acara sakral).
+
+Pantai Ria yang memiliki pemandangan yang sangat indah dan pasir putih yang masih alami yang memiliki bentangan alam dari pantai sampai ke wilayah perbukitan yang datar sampai berbukit. Lahan di pantai Ria yang datar berupa padang terbuka biasa digunakan oleh masyarakat untuk berkemah.
+
+![[c52cbc99-ca53-4926-a419-e5a55bc13833_169.jpeg]]
+
+### Pantai So Mila
+
+Pantai So Mila berada di posisi Selatan Kabupaten Dompu, sebelah Barat Pantai Ria dan bagian Barat Pantai Lakey. Menuju pantai ini bisa menggunakan perahu yang disewa dari para nelayan setempat.
+
+Uniknya, selain pantai dan pemandangan indah, Pantai So Mila juga memiliki air terjun yang langsung digunakan setelah menikmati air laut. Dari Pantai Ria hanya butuh 15 menit ke Pantai So Mila.
+
+Untuk mencapai air terjun So Mila, harus berjalan kaki sepanjang sekitar satu jam. Sepanjang jalan yang dilalui, akan ditemukan warga yang sedang berladang. Untuk mencapai air terjun So Mila harus melewati jalan setapak, bahkan harus membersihkan jalan agar bisa terus menuju lokasi.
+
+![[Pantai so mila.webp]]
+
+### Pantai Sili
+
+Pantai Sili merupakan salah satu pantai yang berada di perbatasan antara Kabupaten Sumbawa dan Kabupaten Dompu. Pantai ini berada di Desa Mata, Kecamatan Tarano, Kabupaten Sumbawa. Pantai ini  dapat ditempuh melalui darat dengan perjalanan 5 jam dari Kota Sumbawa Besar dan 2 Jam dari Kota Dompu.
+
+Pantai ini kerapkali dijadikan sebagai spot berselancar bagi wisatawan yang menyukai salah satu olahraga air ini. Kabarnya pantai yang telah menjadi aset wisata ini memiliki ombak terbaik ke tiga di dunia setelah Hawaii dan Tahiti. Terdapat ombak super barel yang merupakan salah satu dari tiga jenis gelombang di dunia yang cocok untuk olah raga selancar atau surfing.
+
+Gelombang tinggi di Pantai ini bisa digunakan sebagai tempat olah raga surfing atau berselancar, tetapi hanya bisa selama tujuh bulan  yaitu mulai  Bulan Mei sampai dengan Bulan November dan puncak ombaknya yaitu pada Bulan Agustus. Sehingga wisatawan disarankan untuk berkunjung pada bulan-bulan itu untuk dapat menikmati gelombang yang bagus untuk para peselancar.
+
+![[6-10-750x350.jpg]]
+
+## Wisata Alam BKPH Batulanteh
+
+### Embung Pernek
+
+Ekowisata Embung Pernek yang bermitra dengan KPH Batulanteh sejak 2017 dan dikelola oleh Pokdarwis (Kelompok Sadar Wisata) teba tewa memiliki panorama alam yang begitu indah. Memiliki luas wilayah 57 ha, lokasi ini menawarkan objek wisata berupa embung (bendungan), air terjun teba tewa, flying fox, dan sepeda air.
+
+Untuk mencapai desa tersebut sangat mudah. Selain akses jalan dari kota Sumbawa ke Desa Pernek cukup bagus dan dihotmix, jaraknya juga dekat hanya membutuhkan waktu 15 menit. Letak Embung Pernek sekitar 1,7 kilometer dari pemukiman warga. Ini bisa ditempuh dengan berjalan kaki sekitar 20 menit, namun bisa lebih singkat menggunakan roda dua atau mobil double gardan. 
+
+Saat memasuki desa tersebut, geliat wisata sudah terasa. Di beberapa sudut desa terpampang tulisan “Selamat Datang di Desa Wisata”. Hal tersebut menunjukkan bahwa pemerintah dan masyarakat Desa Pernek sangat konsen dalam mengembangkan pariwisata. Mereka memiliki semangat baru untuk menjadikan sektor pariwisata sebagai daya ungkit sektor-sektor lain guna meningkatkan taraf hidup masyarakatnya. 
+
+Ekowisata Pernek, demikian wilayah itu mulai didengungkan oleh para pegiat ekowisata dan KPH Batulanteh. Di lokasi ini kita akan menjumpai tutupan vegetasi yang masih alami, air terjun Teba Tewa, lokasi pemancingan, track menyusuri hutan dengan vegetasi yang heterogen, lokasi selfie yang menakjubkan, wahana sepeda air, serta flying fox yg dapat memacu adrenalin bagi pengunjung.
+
+![[dest_460d5364362cd797ceea56c56775749c.jpg]]
+
+### Wisata Lima Langkah
+
+Wisata Lima Langkah berlokasi di Desa Serading Kecamatan Moyo Hilir Kabupaten Sumbawa. Wisata Lima Langkah sangat mudah dijangkau dan Jarak dengan Perkotaan Sumbawa Besar kurleb 10 km atau sekitar 30 menit perjalanan.
+
+Obyek Wisata Alam yang menjadi Daya Tarik Pengunjung yaitu dengan memanfatkan Keindahan Tegakan-Tegakan Sonokling yang rapat dan tinggi memberikan suasana teduh dan sejuk serta bernuansa asri dan alami. 
+
+Biasanya Banyak para pengunjung berdatangan untuk sekedar berfoto Selfie, berjalan-jalan, bersantai sambil menikmati keindahan alam berupa Tegakan-tegakan Sonokling yang tinggi dan rapat. 
+
+Wisata lima langkah menyediakan tempat bermain, hammock, ayunan, tempat berduduk santai, spot foto/selfie, dan  mengembangkan kegiatan berupa pembuatan pembibitan, baik tanaman kehutanan, tanaman buah, tanaman bunga dan tanaman obat-obatan. Pengunjung yang datang akan dimanjakan dengan nuansa serba hijau, yang tentram dan nyaman.
+
+![[Pasted image 20240202165850.png]]
+
 ## Wisata Alam Tahura Nuraksa
 
 Taman Hutan Raya (Tahura) Nuraksa adalah satu-satunya Kawasan Konservasi di NTB yang kewenangan pengelolaannya merupakan tanggung jawab Pemerintah Provinsi NTB. Kawasan konservasi yang umum dikenal oleh masyarakat, seperti: Taman Nasional, Taman Wisata Alam, Cagar Alam, Suaka Margasatwa, kesemuanya itu kewenangan pengelolaannya berada di pemerintah pusat. Oleh karenanya, Tahura Nuraksa dapat dikatakan sebagai sebuah peluang sekaligus tantangan bagi Pemerintah Provinsi NTB. Peluangnya adalah bagaimana menjadikan Tahura Nuraksa sebagai sebuah potensi sumberdaya alam yang dapat mendukung upaya pelestarian keragaman hayati (biodiversitas) daerah, peningkatan kesejahteraan masyarakat dan Pendapatan Asli Daerah (PAD) melalui pengelolaan obyek wisata alam berupa panorama bentang alam, air terjun, goa, dan kebun agroforestri yang terdapat di Tahura Nuraksa. Adapun tantangannya adalah memastikan bahwa Pemerintah Provinsi NTB mampu mengelola Tahura Nuraksa dengan profesional dan berkelanjutan agar keberadaan Tahura Nuraksa sebagai kawasan konservasi yang merupakan benteng pertahanan terakhir keragaman hayati daerah dapat terjaga dan lestari.

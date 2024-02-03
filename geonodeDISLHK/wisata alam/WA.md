@@ -396,7 +396,7 @@ Air Terjun Teba Tewa meberikan kesan pandangan begitu menggoda, indah, melambai 
 
 ![[P2200131.jpg]]
 
-### Air terjun tiu dua
+### Air terjun Tiu Dua
 
 Air terjun Tiu Dua terletak di Desa Batudulang, Kecamatan Batu Lanteh, Kabupaten Sumbawa. Masyarakat setempat menyebutnya air terjun Tiu Dua karena terdapat dua kolam disepajang aliran sungai yang mengaliri air terjun tersebut. Untuk mencapai objek wisata air terjun Tiu Dua ini, kamu harus menempuh perjalanan mengunakan motor ataupun mobil selama satu jam dari kota Sumbawa.
 

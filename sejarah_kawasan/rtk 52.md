@@ -1,6 +1,6 @@
 Kelompok Hutan Pamali (RTK.52)
 
-Kelompok Hutan Pamali (RTK.52) berdasarkan pembagian wilayah administrasi pengelolaan hutan, termasuk dalam wilayah Balai KPH Maria Donggomasa.
+Kelompok Hutan Pamali (RTK.52) berdasarkan pembagian wilayah administrasi terletak di Kecamatan Wawo,Kabupaten Bima. Berdasarkan wilayah pengelolaan hutan, termasuk dalam wilayah Balai KPH Maria Donggomasa.
 
 Kawasan hutan pada Kelompok Hutan Pamali (RTK 52) telah ditunjuk sesuai dengan Keputusan Menteri Kehutanan 598/Menhut-II/2009 tanggal 2 Oktober 2009. Kawasan hutan tersebut telah terdapat batas kawasan hutan berupa pemasangan tanda batas dan telah dilakukan pemetaan sehingga memenuhi syarat untuk ditetapkan sebagai kawasan hutan.
 

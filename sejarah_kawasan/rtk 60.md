@@ -1,7 +1,5 @@
 Kelompok Hutan Klongkang Puncak Ngengas (RTK.60)
 
-Berdasarkan pembagian wilayah administrasi pengelolaan hutan, termasuk dalam wilayah Balai KPH Brangrea Puncak Ngengas.
-
 Kelompok hutan Kelongkang Pucak Ngenges (RTK.60) seluas ± 50.467,06 hektar, dengan Keputusan ZB tanggal 31 Januari 1931 No.190 jo ZB tanggal 16 Desember 1939 No.45 jo RB tanggal 26 Pebruari 1940 No.3/XII/ZBZ telah ditunjuk sebagai hutan tutupan.
 
 Kelompok hutan Kelongkang Pucak Ngengas tersebut diperluas dengan areal seluas ± 979 (sembilan ratus tujuh puluh sembilan) hektar sebagai kompensasi terhadap bagian dari areal hutan tersebut yang telah dipergunakan untuk kepentingan lain (Enclave Matemega seluas 750,85 Ha dan Enclave Rarak seluas 910,15 Ha).

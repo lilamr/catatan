@@ -29,7 +29,7 @@ d. Kawasan hutan produksi tetap seluas 9.061 hektar.
 
 Kelompok Hutan Selalu Legini (RTK.59)
 
-Berdasarkan Keputusan Menteri Pertanian Nomor 756/Kpts/Um/10/1982 tanggal 12 Oktober 1982 telah menunjuk Kelompok Hutan Selalu Legini (RTK.59) dengan luas 151.202 Ha. Telah dilakukan tata batas dilapangan secara bertahap dimulai tahun 1987-1990 kemudian tahun 1992-1997 dan tata batas fungsi tahun 1996 dan tahun 2004.
+Berdasarkan Keputusan Menteri Pertanian Nomor 756/Kpts/Um/10/1982 tanggal 12 Oktober 1982 telah menunjuk Kelompok Hutan Selalu Legini (RTK.59). Telah dilakukan tata batas dilapangan yang dituangkan dalam Berita Acara Tata Batas yang ditandatangani tanggal 23 Maret 1987 dan disahkan oleh Menteri Kehutanan tanggal 15 Mei 1989 dengan luas 151.202 Ha. .
 
 Berdasarkan Keputusan Menteri Kehutanan Nomor: 232/Kpts-II/1997 tanggal 5 Mei 1997 mengubah fungsi sebagian kawasan hutan Selalu Legini (RTK. 59) dari hutan lindung seluas ± 2.990 (dua ribu sembilan ratus sembilan puluh) hektar dan hutan produksi terbatas seluas ± 2.710 (dua ribu tujuh ratus sepuluh) hektar menjadi hutan produksi tetap seluas ± 5.700 (lima ribu tujuh ratus) hektar untuk mengakomodir permohonan penggunaan (pinjam pakai) kawasan hutan untuk eksploitasi pertambangan oleh PT. Newmont Nusa Tenggara.
 

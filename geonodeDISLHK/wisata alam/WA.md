@@ -384,6 +384,28 @@ Ekowisata Pernek, demikian wilayah itu mulai didengungkan oleh para pegiat ekowi
 
 ![[dest_460d5364362cd797ceea56c56775749c.jpg]]
 
+### Air terjun Teba Tewa
+
+Air Terjun Teba Tewa adalah salah satu air terjun yang berada di antara barisan perbukitan Kabupaten Sumbawa. Wisata alam air terjun ini berada di Desa Pernek, Kecamatan Moyo Hulu, Kabupaten Sumbawa. Air Terjun Teba Tewa terletak sekitar 12 km dari pusat kota Sumbawa Besar atau sekitar 20 menit perjalanan. Anda bisa menempuh jalur lintas sumbawa-lunyuk untuk menuju Desa Pernek.
+
+Sebelum memasuki kawasan Air Terjun Teba Tewa anda akan melewati embung Pernek yang merupakan pintu masuk menuju Air Terjun Teba Tewa dan tempat parkir kendaraan anda. Dari embung Pernek anda harus jalan kaki sejauh 500 meter untuk dapat tiba di Air Terjun Teba Tewa.
+
+Air Terjun Teba Tewa dengan ketinggian 10 meter ini menjadi primadona wisatawan. Selain menikmati luncuran air dari atas, pengunjung bisa berendam di kolam mungil nan jernih tepat berada di puncak air terjun tersebut. Jika dilihat sepintas, kolam yang disebut warga “Kolam Teba Tewa” itu, hampir mirip dengan Danau Mata Jitu Pulau Moyo.
+
+Air Terjun Teba Tewa meberikan kesan pandangan begitu menggoda, indah, melambai lembut air yang terjun dari ketinggian. Karena debit airnya tidak terlalu besar sehingga terjunnya juga tidak terlalu deras tetapi itulah yang membuatnya terkesan lembut melambai bahkan juga bisa lembut membelai ketika kita menadah airnya dengan tangan. Belum lagi keunikan Air Terjun ini adalah batu yang berada di bawah air tidak licin sehingga dengan mudah kita menjangkau lokasi tepat di bawah pancuran air. Ditambah dengan pepohonan rimbun hutan lindung yang anggun bersenandung tertiup angin gunung.
+
+![[P2200131.jpg]]
+
+### Air terjun tiu dua
+
+Air terjun Tiu Dua terletak di Desa Batudulang, Kecamatan Batu Lanteh, Kabupaten Sumbawa. Masyarakat setempat menyebutnya air terjun Tiu Dua karena terdapat dua kolam disepajang aliran sungai yang mengaliri air terjun tersebut. Untuk mencapai objek wisata air terjun Tiu Dua ini, kamu harus menempuh perjalanan mengunakan motor ataupun mobil selama satu jam dari kota Sumbawa.
+
+Sebelum sampai ke Tiu Dua kita akan melewati obyek wisata lain yang diberi nama menara spot selfie. Spot wisata ini menyajikan pemandangan hamparan hutan dari ketinggian yang sangat cocok untuk dijadikan spot selfie. Di tempat ini juga sekaligus pengunjung memarkirkan kendaraannya. setelah tiba dilokasi parkir, kamu harus melanjutkan perjalanan dengan berjalan kaki menyusuri jalan setapak selama sepuluh menit. Maka kamu akan tiba di lokasi air tejun Tiu Dua yang indah.
+
+Rasa lelah setelah berjalan kaki akan terbayarkan setelah kamu tiba di air tejun ini, karena kamu akan dimanjakan oleh pemandangan yang indah, dan sesekali mendengar kecauan burung sembari menyeruput kopi khas Desa Batudulang. Air terjun Tiu Dua dikenal dengan kesejukan airnya, kita bisa mandi di air terjun tersebut dan merasakan kesejukannya.
+
+![[o5zdzw8855kqaxyqdxwb_19547.jpg]]
+
 ### Wisata Lima Langkah
 
 Wisata Lima Langkah berlokasi di Desa Serading Kecamatan Moyo Hilir Kabupaten Sumbawa. Wisata Lima Langkah sangat mudah dijangkau dan Jarak dengan Perkotaan Sumbawa Besar kurleb 10 km atau sekitar 30 menit perjalanan.

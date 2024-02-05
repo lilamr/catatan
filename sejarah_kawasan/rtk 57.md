@@ -30,8 +30,7 @@ Kelompok Hutan Buinsoway (RTK.57) ditunjuk oleh Pemerintahan Belanda dengan Sura
 
 Ditunjuk sesuai dengan Keputusan Menteri Pertanian No. 756/Kpts/Um/10/1982 tanggal 12 Oktober 1982 tentang Rencana Tata Guna Hutan Kesepakatan Provinsi Nusa Tenggara Barat. Pada tahun 2001 dilaksanakan perubahan tata batas karena tukar menukar kawasan hutan yaitu pelepasan kawasan hutan seluas 995,50 Ha untuk pemukiman masyarakat yang terkena genangan DAM Batu Bulan. Berita Acara Tata Batas dibuat tanggal 25 Juni 2001 dan disahkan tanggal 2 Agustus 2002 seluas 5.602,70 Ha dengan fungsi sebagai Hutan Lindung seluas 1.788,80 Ha dan Hutan Produksi Terbatas seluas 3.813,90 Ha.
 
-Berdasarkan Keputusan Menteri Kehutanan Nomor: SK.2838/Menhut-VII/KUH/2014 tanggal 16 April 2014 Menetapkan Kawasan Hutan Pada Kelompok Hutan
-Buinsoway (RTK.57) seluas 5.602,70 Hektar terdiri dari:
+Berdasarkan Keputusan Menteri Kehutanan Nomor: SK.2838/Menhut-VII/KUH/2014 tanggal 16 April 2014 Menetapkan Kawasan Hutan Pada Kelompok Hutan Buinsoway (RTK.57) seluas 5.602,70 Hektar terdiri dari:
 a. Hutan lindung seluas 1.788,80 Hektar,
 b. Hutan produksi tetap seluas 3.813,90 Hektar.
 

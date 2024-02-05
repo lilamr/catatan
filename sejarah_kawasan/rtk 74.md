@@ -1,4 +1,4 @@
-Kelompok Hutan Pantai Alas dsk (RTK.74)
+Kelompok Hutan Pantai Alas (RTK.74)
 
 Berdasarkan pembagian wilayah administrasi pengelolaan hutan, termasuk dalam wilayah Balai KPH Brangrea Puncak Ngengas.
 

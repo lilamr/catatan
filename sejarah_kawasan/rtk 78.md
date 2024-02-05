@@ -8,7 +8,7 @@ Kawasan hutan di Kelompok Hutan Olat Lake (RTK.78) tersebut telah ditata batas d
 
 ![[Olat Lake.jpg]]
 
-Berdasarkan Keputusan Menteri Kehutanan Nomor: 655/Kpts-II/1997 tanggal 7 Oktober 1997, menetapkan Kelompok Hutan Olat Lake (RTK 78) seluas 3.451,78 (tiga ribu empat ratus lima puluh satu, tujuh puluh delapan perseratus) hektar sebagai kawasan hutan tetap dengan fungsi hutan produksi tetap.
+Berdasarkan Keputusan Menteri Kehutanan Nomor: 655/Kpts-II/1997 tanggal 7 Oktober 1997, menetapkan Kelompok Hutan Olat Lake (RTK.78) seluas 3.451,78 (tiga ribu empat ratus lima puluh satu, tujuh puluh delapan perseratus) hektar sebagai kawasan hutan tetap dengan fungsi hutan produksi tetap.
 
 ![[Olat Lake Rtk 78.jpg]]
 

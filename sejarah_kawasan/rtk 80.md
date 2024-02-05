@@ -15,7 +15,7 @@ Kelompok Hutan Pulau Rai Rakit Kwangko (RTK.80) terdiri dari beberapa pulau, sec
 
 ![[P. rai  LBR- 2.jpg]]
 
-Berdasarkan Keputusan Menteri Kehutanan Nomor : 10337/Kpts-II/2002 tanggal 30 Desember 2002, menetapkan kelompok Hutan Rai, Rakit, Kwangko (RTK.80) seluas 34,38 (Tiga Puluh empat tiga puluh delapan perseratus) hektar yang terletak di Kabupaten Dompu, Provinsi Nusa Barat sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Tetap.
+Berdasarkan Keputusan Menteri Kehutanan Nomor : 10337/Kpts-II/2002 tanggal 30 Desember 2002, menetapkan Kelompok Hutan Pulau Rai Rakit Kwangko (RTK.80) seluas 34,38 (Tiga Puluh empat tiga puluh delapan perseratus) hektar yang terletak di Kabupaten Dompu, Provinsi Nusa Barat sebagai kawasan hutan tetap dengan fungsi Hutan Produksi Tetap.
 
 ![[KWANGO   LBR- 1.jpg]]
 

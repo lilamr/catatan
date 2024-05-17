@@ -26,4 +26,5 @@ Pada tahun 2021, total potensi moneter kayu sebesar Rp 5.126,2 Triliun, sedangka
 
 ![[Pasted image 20240517104822.png]]
 
+Tabel NSDH Provinsi NTB
 ![[Pasted image 20240517105027.png]]

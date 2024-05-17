@@ -1,0 +1,64 @@
+KOREKSI AKURASI PENUTUPAN LAHAN
+
+Pemetaan data penutupan lahan dengan menggunakan data penginderaan jauh mendasarkan pada klasifikasi citra obyek penutupan lahan yang dapat dilakukan dengan analisis visual maupun digital. Namun pada kenyataannya semua peta yang dihasilkan dari data penginderaan jauh selalu mempunyai kesalahan (error dan bias). Peta penutupan lahan hanya menjadi sebuah hipotesa yang belum diuji jika tidak disertai dengan penilaian akurasi kelas tutupan lahannya (Strahler et al., 2006). Satu-satunya cara untuk memeriksa keakuratan peta adalah dengan melakukan pengukuran terhadap akurasi peta tersebut. Pengukuran akurasi atau validasi adalah salah satu langkah penting dalam pemrosesan data penginderaan jauh (Rwanga, 2017).
+
+Salah satu hal mendasar dalam penilaian akurasi data penutupan lahan adalah diperlukannya data referensi yang standar sebagai pembanding peta penutupan lahan yang dihitung akurasinya (Foody, 2010). Data referensi yang digunakan harus mempunyai kualitas dan kuantitas yang lebih bagus, dalam arti data tersebut harus merupakan representasi kenyataan obyek sebenarnya di lapangan. Data referensi untuk penghitungan akurasi data penutupan lahan umumnya berupa data hasil pengecekan lapangan yang berupa titik-titik koordinat dengan GPS atau data penutupan lahan lainnya yang mempunyai akurasi sangat tinggi.
+
+Metode yang umum digunakan untuk menghitung akurasi klasifikasi penutupan lahan dari data penginderaan jauh adalah matriks error (error matrix). Metode ini direkomendasikan oleh banyak peneliti karena mudah diaplikasikan untuk penghitungan akurasi, sehingga metode ini juga diadopsi sebagai standar pelaporan (Congalton, 1991). Matrik error merupakan metode yang efektif untuk menggambarkan akurasi, di mana akurasi setiap kategori dihitung juga omission error dan commission error dari klasifikasi yang dibuat. Omission error (kesalahan omisi) adalah kesalahan klasifikasi berupa kekurangan jumlah sampel suatu kelas akibat masuknya piksel-piksel kelas tersebut ke kelas yang lain. Comission error (kesalahan komisi) adalah kesalahan klasifikasi berupa kelebihan jumlah piksel pada suatu kelas yang diakibatkan masuknya dari kelas lain (Kusumaningrat et al, 2017).
+
+Buku ini membandingkan 2 (dua) tipe data penutupan lahan yang berbeda, di mana salah satunya sebagai data referensi dan yang lainnya sebagai data penutupan lahan yang diukur akurasinya. Data referensi berisi 10.000 titik (30 m x 30 m pixel size) yang disebar secara random di seluruh wilayah Indonesia. Data yang diukur adalah peta penutupan lahan yang dibuat secara wall-to-wall seluruh Indonesia oleh Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
+
+Tujuan dari buku ini adalah: (1) menghitung akurasi data penutupan lahan yang dibuat oleh KLHK dengan menggunakan metode error matrix (matrik error).
+
+Pada buku ini, data penutupan lahan KLHK periode tahun 2000, 2003, 2006, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, dan 2022 divalidasi dengan data referensi untuk mendapatkan nilai akurasi data penutupan lahan setiap periodenya. Data ini menggunakan klasifikasi 23 kelas penutupan lahan seperti tercantum dalam Peraturan Dirjen Planologi Kehutanan dan Tata Lingkungan No.: 01/Juknis/IPSDH/2015 tentang Penafsiran Citra Resolusi Sedang untuk Menghasilkan Data Penutupan Lahan.
+
+Klasifikasi 23 kelas penutupan lahan tersebut dibagi menjadi 2 (dua) kategori kelas penutupan lahan, yaitu kelas hutan dan kelas non-hutan. Kelas hutan meliputi kelas penutupan lahan hutan alami (lahan kering primer, hutan lahan kering sekunder, hutan mangrove primer, hutan mangrove sekunder, hutan rawa primer dan hutan rawa sekunder) dan hutan tanaman. Kelas non hutan meliputi kelas penutupan lahan perkebunan, semak belukar, semak belukar rawa, savanna/padang rumput, pertanian lahan kering, pertanian lahan kering campur, sawah, tambak, permukiman, permukiman transmigrasi, lahan terbuka, pertambangan, tubuh air, rawa, bandara/pelabuhan, dan awan.
+
+Data penutupan lahan ini dibuat dengan metode interpretasi citra visual (visual on screen digitizing) secara wall-to-wall pada data mosaik Citra Landsat (Landsat 5 Thematic Mapper/TM, Landsat 7 Enhanced Thematic Mapper Plus/ETM+ dan Landsat 8 Operational Land Imager (OLI)) dengan tutupan awan kurang dari 50%. Delineasi setiap obyek dilakukan secara akurat dan manual pada layar komputer dengan menggunakan software Geographic Information System (GIS). Ukuran minimum poligon (Minimal Mapping Unit/MMU) yang didelineasi adalah 6,25 hektar atau setara dengan 2,5 cm x 2,5 cm pada skala maksimal zoom screen 1:50.000 atau 25 hektar pada skala 1: 100.000 (Margono et al., 2016). Delineasi setiap kelas penutupan lahan dilakukan murni berdasarkan kenampakan obyek di citra, walaupun beberapa nama kelas penutupan lahan masih bercampur dengan kelas penggunaan lahan, seperti hutan tanaman, perkebunan, sawah, dan permukiman.
+
+Penghitungan akurasi menggunakan data referensi yang mempunyai 3 (tiga) kelas penutupan lahan, yaitu hutan alam primer, hutan alam sekunder, dan non-hutan alam. Tipe data yang sama antara data referensi dengan data yang akan diukur akurasinya sangat penting dalam proses pengukurannya (validasi). Untuk itu, data penutupan lahan 23 kelas yang akan diukur akurasinya, di-reklasifikasi sesuai dengan data referensi yang digunakan.
+
+![[Pasted image 20240517105949.png]]
+Bagan reklasifikasi data penutupan lahan KLHK dan data referensi
+
+Data referensi yang digunakan dalam kegiatan pengukuran akurasi data penutupan lahan ini berbentuk titik sampel yang berjumlah 10.000 sampel. Sumber data yang digunakan untuk membangun data referensi ini meliputi citra resolusi sangat tinggi dari Google Earth. Rentang akuisisi sumber data yang digunakan adalah tahun 2000-2022, sesuai dengan periode data penutupan lahan yang perlu diukur akurasinya.
+
+Jumlah data titik sampel yang direkomendasikan sebagai data referensi untuk penghitungan akurasi data penutupan lahan wilayah Indonesia adalah antara 5.000-10.000 sampel. Penentuan jumlah titik sampel ini sudah dilakukan melalui beberapa kali exercise, dengan menggunakan perhitungan secara statistik dan analisa Monte Carlo, sehingga diperoleh jumlah data referensi yang optimal. Data referensi yang digunakan dalam penghitungan akurasi data penutupan lahan KLHK pada buku ini berjumlah 10.000 titik sampel (30 m x 30 m), sesuai dengan ukuran piksel citra Landsat yang digunakan sebagai data dasar dalam pembuatan data penutupan lahan KLHK dan juga salah satu sumber data referensi yang digunakan. Data referensi disebar secara acak ke seluruh pulau di Indonesia. Distribusi secara proporsional didasarkan pada luas masing-masing pulau, sedangkan titik dibuat secara acak, sehingga sebaran data titiknya tetap menunjukkan distribusi normal.
+
+Data referensi ini berupa titik sampel (sample point) dengan buffer lingkaran seluas 6,25 ha (jari-jari ± 141 m), yang merupakan luas unit pemetaan terkecil (MMU) dalam pembuatan data penutupan lahan KLHK.
+
+![[Pasted image 20240517110036.png]]
+Unit titik sampel data referensi
+
+Setiap titik sampel data referensi diklasifikasikan sebagai kelas penutupan lahan tunggal dari tahun 2000 yang terdiri dari kelas hutan alam (hutan alam primer dan hutan alam sekunder) dan non-hutan alam (kelas non-hutan dan hutan tanaman). Setiap kelas penutupan lahan dan perubahannya dari kelas. hutan alam menjadi non-hutan alam selama periode tahun 2000-2022 dicatat dengan tahapan penentuan kelas penutupan lahan. Setiap perubahan kelas penutupan lahan perlu memperhatikan penyebabnya (trigger), baik deforestasi (cleared) maupun degradasi hutan (degraded), untuk menentukan kelas penutupan lahan yang dihasilkan.
+
+![[Pasted image 20240517110106.png]]
+Proses penentuan kelas penutupan lahan pada data referensi
+
+Setiap titik sampel data referensi di-review oleh 2 (dua) orang analis independen. Analis pertama melakukan interpretasi pada titik sampel yang kemudian ditentukan kelas penutupan lahan dan trajektorinya. Kemudian analis kedua melakukan review hasil interpretasi yang dilakukan oleh analis pertama dan dapat mengubahnya jika diperlukan.
+
+Teknik validasi (assessment) data penutupan lahan KLHK berdasarkan data referensi dengan menggunakan 10.000 titik sampel yang dibuat. Validasi dilakukan hanya pada kelas penutupan lahan hutan alam dan non-hutan alam. Teknik validasi data diujicoba dengan metode Titik pusat/tunggal (centroid) pada setiap titik sampel digunakan untuk mengekstrak data penutupan lahan KLHK dan data referensi. Pada akhirnya akan ada 10.000 titik penutupan lahan dari data referensi dan 10.000 titik data penutupan lahan KLHK yang digunakan untuk menilai kecocokan kedua data tersebut.
+
+![[Pasted image 20240517110132.png]]
+Contoh validasi kelas penutupan lahan KLHK dengan data referensi
+
+Penghitungan Akurasi (Accuracy Assessment) dengan metode error matrix (matrik kesalahan) atau yang juga disebut confusion matrix tetap menjadi inti dalam berbagai literatur penghitungan akurasi (Foody, 2001). Metode ini berupa tabulasi silang sederhana dalam baris dan kolom yang menyatakan jumlah unit sampel antara hasil klasifikasi dari data penginderaan jauh dengan data referensi berupa hasil pengamatan langsung di lapangan (ground truth) atau data citra dengan resolusi yang lebih baik dibandingkan data penginderaan jauh yang digunakan untuk membuat klasifikasi. Unit sampel dapat berupa piksel, kumpulan piksel atau poligon. Dengan matrik error, prosentase kebenaran/keakuratan data secara umum yang dikenal dengan overall accuracy, dapat dihitung dengan mudah berdasarkan jumlah sampel yang benar (posisi diagonal) dibagi dengan total sampel.
+
+![[Pasted image 20240517110151.png]]
+Matrik kesalahan (error matrix) dan beberapa pengukuran umum dari akurasi klasifikasi data penutupan lahan (Foody, 2002)
+
+Sebanyak 10.000 titik sampel digunakan sebagai data referensi untuk mengukur akurasi data penutupan lahan KLHK tahun 2000, 2003, 2006, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, dan 2022. Akurasi dihitung dengan menggunakan matrik error. Pengamatan sampel data penutupan lahan (validasi) menggunakan Titik pusat/tunggal (centroid) yang dibangun berdasarkan sebaran 10.000 data referensi secara acak untuk semua periode tahun yang diukur (2000 sd 2022). Setiap periode data penutupan lahan diukur akurasinya dan hasilnya dihitung dengan menggunakan matrik error.
+
+Tabel ini menunjukkan contoh penghitungan akurasi dengan metode validasi data penutupan lahan Titik Tunggal Centroid. Nilai akurasi yang dihitung meliputi user accuracy dan producer accuracy untuk kelas hutan alam (H) dan non-hutan alam (NH) serta nilai total akurasi data secara keseluruhan (overall accuracy).
+
+![[Pasted image 20240517110215.png]]
+Nilai akurasi data penutupan lahan KLHK tahun 2016 dengan metode Titik Tunggal Centroid
+
+![[Pasted image 20240517110243.png]]
+Akurasi data penutupan lahan KLHK dengan matrik error menggunakan metode Titik Tunggal Centroid
+
+Semua nilai akurasi juga di atas 85%. Dengan demikian data penutupan lahan KLHK dengan klasifikasi hutan alam dan kelas non-hutan alam mempunyai akurasi yang dapat diterima dan dapat digunakan sebagai dasar perencanaan dan pengelolaan pembangunan (Anderson, 1976).
+
+Tahun 2000 merupakan awal penggunaan data satelit citra Landsat 7 ETM+ setelah diluncurkan pada tanggal 15 April 1999. Walaupun data citra masih berbayar yang menyebabkan jumlahnya terbatas, namun data citra ini mempunyai koreksi geometrik dan radiometrik yang lebih baik dari data citra Landsat 5 TM yang digunakan sebelumnya. Pada tahun 2006, akurasi data penutupan lahan agak turun, yang kemungkinan besar disebabkan adanya gangguan pada satelit Landsat 7 ETM+ berupa SLC-off, yaitu rusaknya Scan Line Corrector yang mengakibatkan citra hasil perekaman tidak sempurna berupa garis-garis hitam pada citra (stripping). Kerusakan ini terjadi setelah tahun 2003, sehingga menyebabkan akurasi data penutupan lahan yang dihasilkan pada tahun 2006 turun, karena kenampakan obyek pada citra agak sulit diamati secara visual.
+
+Sejak tahun 2009, data Landsat dapat diunduh secara gratis dari website USGS, sehingga data yang diperoleh cukup banyak untuk dapat digunakan dalam kegiatan pembuatan data penutupan lahan. Kualitas data citra Landsat semakin membaik setelah Landsat 8 OLI diluncurkan pada tanggal 11 Februari 2013, dimana jumlah band yang digunakan bertambah, dengan citra yang sudah terkoreksi secara geometrik. Dengan kondisi data Landsat yang meningkat kualitas maupun kuantitasnya berpengaruh terhadap kualitas data penutupan lahan yang dihasilkan, mengingat data citra Landsat menjadi sumber data utama data penutupan lahan.

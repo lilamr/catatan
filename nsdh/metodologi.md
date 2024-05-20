@@ -6,13 +6,15 @@ NSDH tahun 2023 memperhitungkan komponen sumber daya lahan (berupa kawasan hutan
 
 Sumber data:
 Data yang digunakan dalam perhitungan dan analisis NSDH adalah berupa data geospasial dan data tabular yang tersedia pada Direktorat IPSDH, Direktorat Jenderal Planologi Kehutanan dan Tata Lingkungan (untuk selanjutnya disebut sebagai PKTL). Data – data tersebut di antaranya adalah:
-1. Data geospasial penutupan lahan hasil penafsiran Citra Landsat 8 OLI Tahun 2021 dan Tahun 2022 (Direktorat IPSDH, Direktorat Jenderal PKTL);
+1. Data geospasial penutupan lahan hasil penafsiran Citra Landsat 8 OLI Tahun 2021 dan Tahun 2022 (Direktorat IPSDH, Direktorat Jenderal PKTL). Penutupan lahan tahun 2021 dan tahun 2022 didasarkan pada hasil penafsiran penutupan lahan tahun 2021 dan tahun 2022 yang mempunyai skala 1:250.000. Masing – masing data penutupan lahan tersebut mempergunakan periode pengamatan dari tanggal 1 Juli tahun T-1 sampai dengan 30 Juni tahun T.
 2. Data geospasial Dasar Indonesia (Rupa Bumi Indonesia - RBI) skala 1:50.000, (diakses dari basis data JIG LHK pada bulan Februari 2022);
 3. Data geospasial Batas Wilayah Administrasi Pemerintahan per Juli 2021, (diakses dari basis data JIG LHK pada bulan Februari 2022);
-4. Data geospasial Perkembangan Pengukuhan Kawasan Hutan pemutakhiran sampai dengan September 2022, diakses dari basis data JIG LHK pada bulan Februari 2023;
-5. Data tabular potensi rata – rata semua jenis kayu diameter lebih dari 20 cm tahun 2021, (Direktorat IPSDH, Direktorat Jenderal PKTL);
+4. Data geospasial Perkembangan Pengukuhan Kawasan Hutan pemutakhiran sampai dengan September 2022, diakses dari basis data JIG LHK pada bulan Februari 2023. Data Luas Kawasan Hutan menggunakan data digital perkembangan pengukuhan kawasan hutan per Maret 2021 untuk kawasan hutan tahun 2020 dan per April 2022 untuk kawasan hutan tahun 2021, diakses dari basis data Subdit Jaringan Informasi Geospasial (JIG) Dit. IPSDH, KLHK pada bulan Juni 2022. Perhitungan luas kawasan hutan tidak lagi mempergunakan luas berdasarkan besaran yang tersebut dalam keputusan pengukuhan kawasan hutan. Oleh karena itu luas kawasan hutan dalam Buku NSDH ini dapat berbeda dengan luas dalam keputusan pengukuhan kawasan hutan.
+5. Data tabular potensi rata – rata semua jenis kayu diameter lebih dari 20 cm tahun 2021, (Direktorat IPSDH, Direktorat Jenderal PKTL). informasi potensi kayu yang disajikan hanya yang berukuran lebih dari 20 cm. Hal tersebut dengan pertimbangan potensi kayu lebih dari 50 cm sudah termasuk dalam potensi kayu lebih dari 20 cm.
 6. Data tabular potensi rata – rata semua jenis kayu di Pulau Jawa Tahun 2020 (Perum Perhutani);
 7. Data tabular potensi moneter kayu (Peraturan Menteri Lingkungan Hidup dan Kehutanan No. 64 Tahun 2017).
+
+
 
 Tahapan Perhitungan
 Metode perhitungan masing-masing komponen secara umum dilakukan secara bertahap yang terdiri atas (i) tahapan penyiapan data, (ii) tahapan analisis data, dan kemudian (iii) tahapan rekapitulasi data. 
@@ -26,6 +28,8 @@ Analisis Data
 Analisis data dilakukan untuk setiap jenis komponen yang berupa komponen sumber daya lahan dan komponen sumber daya kayu. Komponen sumber daya lahan menghasilkan luaran yang terdiri atas Neraca Kawasan Hutan dan Neraca Penutupan Hutan. Sedangkan komponen sumber daya kayu menghasilkan luaran berupa Neraca Potensi Kayu dan Neraca Potensi Moneter Kayu.
 
 Neraca Sumber Daya Lahan
+Neraca Sumber Daya Lahan adalah neraca yang mencatat area lahan yang dimiliki oleh suatu wilayah beserta perubahannya selama periode waktu tertentu. Dalam hal ini penyajian data neraca sumber daya lahan terdiri dari neraca kawasan hutan dan neraca penutupan lahan.
+
 o Neraca Kawasan Hutan
 Neraca Kawasan hutan didapatkan berdasarkan perubahan luas kawasan hutan nasional tahun 2021 dengan luas kawasan hutan nasional tahun 2022. Proses analisis tersebut dilakukan secara spasial melalui perhitungan luasan spasial pada masing-masing fungsi kawasan hutan untuk masing-masing periode pengamatan yaitu luas kawasan hutan tahun 2021 sebagai saldo awal (𝐿𝑡−1,𝐾𝐻 ) dan luas kawasan hutan tahun 2022 sebagai saldo akhir (𝐿𝑡,𝐾𝐻 ). Fungsi kawasan hutan (KH) yang dihitung luasnya secara spasial terdiri atas Hutan Konservasi (HK), Hutan Lindung (HL), Hutan Produksi Terbatas (HPT), Hutan Produksi Tetap (HPT), Hutan Produksi yang Dapat Dikonversi (HPK), serta Bukan Kawasan Hutan (APL).
 ![[Pasted image 20240517103109.png]]
@@ -34,7 +38,9 @@ o Neraca Penutupan Hutan
 Neraca penutupan hutan didapatkan berdasarkan perubahan luas penutupan lahan nasional tahun 2021 dengan luas penutupan lahan tahun 2022. Proses analisis tersebut dilakukan secara spasial melalui perhitungan luasan spasial pada masing-masing kelompok penutupan lahan untuk masing-masing periode pengamatan, yaitu luas penutupan lahan tahun 2021 (𝐿𝑡−1,𝑃𝐿 ) sebagai saldo awal dan luas penutupan lahan tahun 2022 sebagai saldo akhir (𝐿𝑡,𝑃𝐿 ). Jenis penutupan lahan (PL) yang dihitung luasnya secara spasial terdiri atas kelompok penutupan lahan berhutan (H) dan kelompok penutupan lahan tidak berhutan (NH). Kemudian melakukan analisis tumpang susun saldo awal dengan saldo akhir penutupan lahan.
 ![[Pasted image 20240517103150.png]]
 
-• Neraca Sumber Daya Kayu
+Neraca Sumber Daya Kayu
+Neraca Sumber Daya Kayu adalah neraca yang mencatat stok sumber daya kayu pada awal dan akhir periode akuntansi serta perubahan stok selama periode tersebut. Dalam hal ini penyajian data dari neraca sumber daya kayu terdiri dari neraca potensi kayu dan neraca potensi moneter kayu. Neraca potensi kayu dan neraca potensi moneter kayu hanya menghitung nilai berdasarkan penutupan lahan berupa hutan, untuk potensi kayu di luar penutupan hutan tidak dilakukan perhitungan.
+
 o Neraca Potensi Kayu
 Neraca potensi kayu didapatkan dengan tahapan sebagai berikut:
 Menghitung potensi kayu untuk tahun 2021 sebagai saldo awal (𝑉𝑡−1,𝑃𝐿 ). Potensi kayu tahun 2021 dihitung luas kelas penutupan lahan tertentu dalam satuan hektar (PL) dengan besaran volume per satuan luas untuk kelas penutupan lahan tertentu dalam satuan m3/ha (𝑉𝑃𝐿 ). Menghitung potensi kayu untuk tahun 2022 sebagai saldo akhir (𝑉𝑡,𝑃𝐿 ). Potensi kayu tahun 2022 dihitung luas kelas penutupan lahan tertentu dalam satuan hektar (PL) dengan besaran volume per satuan luas untuk kelas penutupan lahan tertentu dalam satuan m3/ha (𝑉𝑃𝐿 ). Menghitung perubahan volume kayu dari tahun 2021 (saldo awal) ke tahun 2022(saldo akhir) dengan volume sebagai berikut yang dilakukan untuk setiap kelas penutupan lahan dan disajikan dalam satuan m3.

@@ -1,3 +1,9 @@
+ NSDH adalah suatu informasi yang dapat menggambarkan cadangan sumber daya hutan, kehilangan dan penggunaan sumber daya hutan, sehingga pada waktu tertentu dapat diketahui kecenderungannya, apakah surplus atau defisit jika dibandingkan dengan waktu sebelumnya.
+
+Penyusunan Neraca Sumber Daya Hutan (NSDH) memfokuskan dalam gambaran kondisi awal, perubahan dan kondisi akhir tentang penutupan hutan, potensi dan potensi moneter hasil hutan berupa kayu pada kurun waktu satu tahun.
+
+=======================================
+
 Buku NSDH ini disusun berdasarkan analisis hasil inventarisasi hutan nasional beserta data-data pendukung lain yang tersedia secara kontinyu. 
 
 Menurut Undang-Undang nomor 41 Tahun 1999 tentang Kehutanan yang telah diubah untuk terakhir kalinya dengan UU. No. 6 Tahun 2023 tentang Penetapan Perppu UU No. 2 Tahun 2022 tentang Cipta Kerja, untuk selanjutnya disebut UU 41-1999/ UU 6-2023 yang dimaksud dengan NSDH adalah suatu informasi yang dapat menggambarkan cadangan sumber daya hutan, kehilangan dan penggunaan sumber daya hutan, sehingga pada waktu tertentu dapat diketahui kecenderungannya, apakah surplus atau defisit jika dibandingkan dengan waktu sebelumnya.

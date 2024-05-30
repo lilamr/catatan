@@ -47,19 +47,19 @@ Neraca potensi moneter kayu didapatkan dengan tahapan sebagai berikut:
 - Menghitung perubahan potensi moneter kayu dari tahun 2021 (saldo awal) ke tahun 2022 (saldo akhir) yang disajikan dalam satuan rupiah.
 
 ### Penyajian Data
-• Neraca Sumber Daya Lahan
+#### Neraca Sumber Daya Lahan
 o Neraca Kawasan Hutan
 Data neraca kawasan hutan disajikan ke dalam bentuk perbandingan antara luasan pada saldo awal dengan saldo akhir. Perbandingan tersebut disajikan sesuai dengan fungsi masing – masing kawasan hutan dalam satuan luas hektar (ha).
 
 o Neraca Penutupan Hutan
-Data neraca penutupan hutan disajikan dalam bentuk perbandingan antara luasan penutupan lahan pada saldo awal dengan saldo akhir. Perbandingan tersebut menyajikan data penutupan lahan berupa hutan dan non hutan. Data disajikan dalam satuan masing – masing fungsi kawasan hutan, APL, dan wilayah provinsi sesuai dengan batas administrasi. Satuan yang digunakan di dalam penyajian penutupan lahan adalah hektar (ha).
+Data neraca penutupan hutan disajikan dalam bentuk perbandingan antara luasan penutupan lahan pada saldo awal dengan saldo akhir. Perbandingan tersebut menyajikan data penutupan lahan berupa hutan dan non hutan. Data disajikan dalam satuan masing – masing fungsi kawasan hutan, APL untuk wilayah provinsi. Untuk wilayah KPH, data disajikan dalam satuan masing – masing fungsi kawasan hutan HL, HP dan HPT. Satuan yang digunakan di dalam penyajian penutupan lahan adalah hektar (ha).
 
-• Neraca Sumber Daya Kayu
+#### Neraca Sumber Daya Kayu
 o Neraca Potensi Kayu
-Data neraca potensi kayu disajikan berupa potensi kayu dari masing – masing fungsi kawasan hutan, APL dan wilayah provinsi sesuai dengan batas administrasi. Data membandingan potensi antara saldo awal dengan saldo akhir. Data disajikan dalam satuan m3 untuk menduga volume kayu yang menjadi potensi sumber daya hutan pada masing – masing wilayah.
+Data neraca potensi kayu disajikan berupa potensi kayu dari masing – masing fungsi kawasan hutan, APL untuk wilayah provinsi. Untuk wilayah KPH, data disajikan dalam satuan masing – masing fungsi kawasan hutan HL, HP dan HPT. Data membandingan potensi antara saldo awal dengan saldo akhir. Data disajikan dalam satuan m3 untuk menduga volume kayu yang menjadi potensi sumber daya hutan pada masing – masing wilayah.
 
 o Neraca Potensi Moneter Kayu
-Data neraca potensi moneter kayu disajikan dengan membandingkan saldo awal dengan saldo akhir. Data disajikan dalam bentuk nilai potensi moneter kayu dari masing – masing fungsi kawasan hutan, APL dan wilayah provinsi sesuai dengan batas administrasi. Nilai potensi moneter disajikan dalam bentuk rupiah (Rp).
+Data neraca potensi moneter kayu disajikan dengan membandingkan saldo awal dengan saldo akhir. Data disajikan dalam bentuk nilai potensi moneter kayu dari masing – masing fungsi kawasan hutan, APL untuk wilayah provinsi. Untuk wilayah KPH, data disajikan dalam satuan masing – masing fungsi kawasan hutan HL, HP dan HPT. Nilai potensi moneter disajikan dalam bentuk rupiah (Rp).
 
 =================================================
 ##

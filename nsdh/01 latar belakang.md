@@ -1,6 +1,10 @@
- NSDH adalah suatu informasi yang dapat menggambarkan cadangan sumber daya hutan, kehilangan dan penggunaan sumber daya hutan, sehingga pada waktu tertentu dapat diketahui kecenderungannya, apakah surplus atau defisit jika dibandingkan dengan waktu sebelumnya.
+Data dan informasi yang menggambarkan besaran sumber daya hutan terkini serta perubahannya dapat disajikan dalam berbagai instrumen, salah satunya dengan Neraca Sumber Daya Hutan (untuk selanjutnya disebut sebagai NSDH). NSDH secara umum memberikan data dan informasi terkait luasan hutan yang masih ada, estimasi besaran volume tegakan, serta estimasi nilai ekonomi hutan tersebut. 
+ 
+NSDH dapat menggambarkan cadangan sumber daya hutan, kehilangan dan penggunaan sumber daya hutan, sehingga pada waktu tertentu dapat diketahui kecenderungannya, apakah surplus atau defisit jika dibandingkan dengan waktu sebelumnya. Penyusunan Neraca Sumber Daya Hutan (NSDH) memfokuskan dalam gambaran kondisi awal, perubahan dan kondisi akhir tentang penutupan hutan, potensi dan potensi moneter hasil hutan berupa kayu pada kurun waktu satu tahun.
 
-Penyusunan Neraca Sumber Daya Hutan (NSDH) memfokuskan dalam gambaran kondisi awal, perubahan dan kondisi akhir tentang penutupan hutan, potensi dan potensi moneter hasil hutan berupa kayu pada kurun waktu satu tahun.
+Buku NSDH ini disusun berdasarkan analisis hasil inventarisasi hutan nasional beserta data-data pendukung lain yang tersedia secara kontinyu. sesuai dengan Pasal 13 ayat 4 UU41-1999/UU6-2023 yang menyatakan bahwa hasil inventarisasi hutan pada tingkat nasional, wilayah, daerah aliran sungai dan unit pengelolaan dipergunakan sebagai dasar pengukuhan kawasan hutan, penyusunan neraca sumber daya hutan, penyusunan rencana kehutanan, dan sistem informasi kehutanan. 
+
+NSDH 2023 disajikan dengan menampilkan saldo awal (besaran tahun 2021) dan saldo akhir (besaran tahun 2022). Data yang disajikan dalam NSDH 2023 tersebut diantaranya berupa Neraca Sumber Daya Lahan yang didalamnya terkandung Neraca Kawasan Hutan, Neraca Penutupan Hutan, dan Neraca Sumber Daya Kayu yang didalamnya terkandung informasi berkaitan dengan Neraca Potensi Kayu dan Neraca Potensi Moneter Kayu. Data tersebut dikelompokkan dalam dua komponen yaitu fungsi hutan dan tipe/penutupan hutan. 
 
 =======================================
 

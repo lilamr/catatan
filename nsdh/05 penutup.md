@@ -1,0 +1,1 @@
+Demikian data dan informasi yang termuat dalam NSDH ini disusun. Harapannya, data dan informasi tersebut dapat dimanfaatkan oleh perencana dan pengambil kebijakan untuk menimbang apa saja kegiatan yang dapat dilakukan pada suatu lokasi tertentu yang dapat memberikan keuntungan sebesar-besarnya dengan tetap mempertimbangkan kelestarian lingkungan dan keberlanjutan pembangunan.

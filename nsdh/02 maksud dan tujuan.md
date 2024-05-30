@@ -1,3 +1,9 @@
+
+Buku NSDH Provinsi NTB Tahun 2023 disusun dengan maksud untuk memberikan informasi besaran sediaan awal, pengurangan, penambahan dan besaran sediaan akhir sumber daya hutan dari periode awal pengamatan sampai dengan periode akhir pengamatan. Adapun tujuannya adalah penyebarluasan data dan informasi sumber daya hutan dan dinamikanya. Data dan informasinya mencakup data luas hutan/ kawasan hutan, potensi kayu dan potensi moneter kayu.
+
+============================================
+
+
 Buku ini disusun dengan maksud untuk memberikan informasi besaran sediaan awal, pengurangan, penambahan dan besaran sediaan akhir sumber daya hutan dari periode awal pengamatan sampai dengan periode akhir pengamatan.
 
 Secara umum buku ini memberikan informasi kepada pihak terkait dengan tujuan untuk:

@@ -2,14 +2,21 @@ Hasil kegiatan inventarisasi sumber daya hutan yang kemudian dihitung dan disaji
 
 ## Neraca Sumber Daya Lahan
 ### 1. Neraca Kawasan Hutan
-Neraca kawasan hutan yang berupa daratan di seluruh wilayah NTB pada tahun 2021 dengan tahun 2022. Pada tahun 2021, luas total kawasan hutan sebesar 118,37 juta ha, sementara pada tahun 2022 luas total kawasan hutan sebesar 118,19 juta ha. Berdasarkan data tersebut, luas kawasan hutan tidak mengalami perubahan baik itu perubahan fungsi maupun perubahan peruntukan.
+Neraca kawasan hutan yang berupa daratan di seluruh wilayah NTB pada tahun 2021 dengan tahun 2022. Pada tahun 2021, luas total kawasan hutan sebesar 1,064,345.83 ha, dan pada tahun 2022 luas total kawasan hutan tetap sebesar 1,064,345.83 juta ha. Berdasarkan data tersebut, luas kawasan hutan tidak mengalami perubahan baik itu perubahan fungsi maupun perubahan peruntukan.
 
-![[Pasted image 20240517104154.png]]
+Gambar 1. Neraca Kawasan Hutan per Fungsi Kawasan Hutan
+![[Pasted image 20240531154545.png]]
 
 Meskipun demikian sampai dengan saat ini masih terdapat proses penyelesaian perubahan fungsi dan peruntukan kawasan hutan di NTB yaitu:
+1. CA ke TWA pada Toffo Kota Lambu
+2. HL ke HK dan HK ke HL pada KPH Rinjani Barat dan Tahura Nuraksa
+3. Perubahan peruntukan...
 
 ### 2. Neraca Penutupan Hutan
-neraca penutupan hutan di seluruh wilayah Indonesia pada tahun 2021 dengan tahun 2022. Pada tahun 2021 luas total penutupan hutan sebesar 96,07 juta ha, sedangkan pada tahun 2022 luas total penutupan hutan sebesar 95,97 juta ha. Berdasarkan data tersebut, terjadi penurunan luas sekitar 113,6 ribu ha atau sekitar 0,1% dari luasan awal.
+Neraca penutupan hutan di seluruh wilayah NTB pada tahun 2021 dengan tahun 2022. Pada tahun 2021 luas total penutupan hutan sebesar 871,529.70 ha, sedangkan pada tahun 2022 luas total penutupan hutan sebesar 865,251.97 ha. Berdasarkan data tersebut, terjadi penurunan luas sekitar 6,277.73 ha atau sekitar 0,72 % dari luasan awal.
+
+Gambar 2. Neraca Penutupan Hutan di Dalam dan Luar Kawasan Hutan
+![[Pasted image 20240531155143.png]]
 
 ![[Pasted image 20240517104427.png]]
 

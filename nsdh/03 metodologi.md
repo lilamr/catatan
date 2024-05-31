@@ -41,6 +41,8 @@ Neraca potensi kayu didapatkan dengan tahapan sebagai berikut:
 - Menghitung perubahan volume kayu dari tahun 2021 (saldo awal) ke tahun 2022(saldo akhir) dengan volume sebagai berikut yang dilakukan untuk setiap kelas penutupan lahan dan disajikan dalam satuan m3.
 
 o Neraca Potensi Moneter Kayu
+Nilai kayu di dalam dan luar kawasan hutan didapatkan dari perkalian antara potensi kayu dengan nilai harga kayu yang berada di masing – masing daerah. Patokan harga kayu yang digunakan sesuai dengan Peraturan Menteri LHK No. 64 tahun 2017 tentang penetapan harga patokan hasil hutan untuk perhitungan Provisi Sumber Daya Hutan (PSDH) dan Ganti Rugi Tegakan (GRT). 
+
 Neraca potensi moneter kayu didapatkan dengan tahapan sebagai berikut:
 - Menghitung potensi moneter kayu untuk tahun 2021 sebagai saldo awal. Potensi moneter kayu tahun 2021 dihitung berdasarkan perkalian volume kayu tahun 2021 (dalam satuan m3) dengan harga kayu per satuan volume tahun 2021 (dalam satuan rupiah/ m3).
 - Menghitung potensi moneter kayu untuk tahun 2022 sebagai saldo akhir. Potensi moneter kayu tahun 2022 dihitung berdasarkan perkalian volume kayu tahun 2022 (dalam satuan m3) dengan harga kayu per satuan volume tahun 2022 (dalam satuan rupiah/ m3). 

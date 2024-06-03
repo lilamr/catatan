@@ -30,6 +30,8 @@ Neraca Kawasan hutan didapatkan berdasarkan perubahan luas kawasan hutan nasiona
 
 o Neraca Penutupan Hutan
 Neraca penutupan hutan didapatkan berdasarkan perubahan luas penutupan lahan nasional tahun 2021 dengan luas penutupan lahan tahun 2022. Proses analisis tersebut dilakukan secara spasial melalui perhitungan luasan spasial pada masing-masing kelompok penutupan lahan untuk masing-masing periode pengamatan, yaitu luas penutupan lahan tahun 2021 sebagai saldo awal dan luas penutupan lahan tahun 2022 sebagai saldo akhir. Jenis penutupan lahan (PL) yang dihitung luasnya secara spasial terdiri atas kelompok penutupan lahan berhutan (H) dan kelompok penutupan lahan tidak berhutan (NH). Kemudian melakukan analisis tumpang susun saldo awal dengan saldo akhir penutupan lahan.
+Penutupan lahan Hutan (H) terdiri dari: Hutan Lahan Kering Primer; Hutan Lahan Kering Sekunder; Hutan Mangrove Primer; Hutan Mangrove Sekunder; dan Hutan Tanaman.
+Penutupan lahan Non Hutan (NH) terdiri dari: Tutupan Awan; Tubuh air; Semak belukar; Semak belukar rawa; Pertanian lahan kering; Pertanian lahan kering campur; Savana/ padang rumput; Sawah; Lahan terbuka; Permukiman; Permukiman transmigrasi; Tambak; Pertambangan.
 
 #### Neraca Sumber Daya Kayu
 Neraca Sumber Daya Kayu adalah neraca yang mencatat stok sumber daya kayu pada awal dan akhir periode akuntansi serta perubahan stok selama periode tersebut. Dalam hal ini penyajian data dari neraca sumber daya kayu terdiri dari neraca potensi kayu dan neraca potensi moneter kayu. Neraca potensi kayu dan neraca potensi moneter kayu hanya menghitung nilai berdasarkan penutupan lahan berupa hutan, untuk potensi kayu di luar penutupan hutan tidak dilakukan perhitungan.

@@ -7,7 +7,8 @@ Daftar barang (BMD)
 Data potensi SDA dan Sosek di RPHJP
 
 ## PROSES:
-RPHJP, RPHJPd 2023
+RPHJP
+RPHJPd 2023
 Dokumentasi koordinasi (surat, rapat, notulen rapat, foto, laporan, dll)
 Daftar barang (BMD) di tiap resort
 Data hasil inventarisasi

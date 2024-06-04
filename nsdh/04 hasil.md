@@ -35,6 +35,64 @@ Gambar 2. Neraca Penutupan Hutan di Dalam dan Luar Kawasan Hutan
 | HPT        | 221,470.48     | 219,930.12     | -1,540.36     | -0.70     |
 | **Total**  | **871,529.70** | **865,251.97** | **-6,277.73** | **-0.72** |
 
+Untuk neraca penutupan hutan di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
+
+#### KPH Ampang Plampang
+
+![[Pasted image 20240604092814.png]]
+
+| **Fungsi** | **Tahun 2021** | **Tahun 2022** | **Selisih** | **(%)**   |
+| ---------- | -------------- | -------------- | ----------- | --------- |
+| HL         | 30,720.67      | 30,583.05      | -137.62     | -0.45     |
+| HP         | 1,596.95       | 1,574.01       | -22.94      | -1.44     |
+| HPT        | 15,604.17      | 15,534.35      | -69.82      | -0.45     |
+| **Total**  | **47,921.79**  | **47,691.41**  | **-230.38** | **-0.48** |
+
+#### KPH Ampang Riwo
+
+![[Pasted image 20240604092946.png]]
+
+| **Fungsi** | **Tahun 2021** | **Tahun 2022** | **Selisih** | **(%)**   |
+| ---------- | -------------- | -------------- | ----------- | --------- |
+| HL         | 14,383.93      | 14,275.86      | -108.07     | -0.75     |
+| HP         | 3,790.39       | 3,790.39       | 0.00        | 0.00      |
+| HPT        | 15,363.56      | 15,074.94      | -288.62     | -1.88     |
+| **Total**  | **33,537.88**  | **33,141.19**  | **-396.69** | **-1.18** |
+
+#### KPH Batulanteh
+
+![[Pasted image 20240604093042.png]]
+
+| **Fungsi** | **Tahun 2021** | **Tahun 2022** | **Selisih** | **(%)**   |
+| ---------- | -------------- | -------------- | ----------- | --------- |
+| HL         | 11,757.21      | 11,757.14      | -0.07       | 0.00      |
+| HP         | 6,743.00       | 6,510.29       | -232.71     | -3.45     |
+| HPT        | 4,036.24       | 4,036.24       | 0.00        | 0.00      |
+| **Total**  | **22,536.45**  | **22,303.67**  | **-232.78** | **-1.03** |
+
+#### KPH Brang Beh
+
+![[Pasted image 20240604093152.png]]
+
+| **Fungsi** | **Tahun 2021** | **Tahun 2022** | **Selisih** | **(%)**   |
+| ---------- | -------------- | -------------- | ----------- | --------- |
+| HL         | 9,914.18       | 9,914.18       | 0.00        | 0.00      |
+| HP         | 9,166.46       | 9,074.29       | -92.17      | -1.01     |
+| HPT        | 34,299.29      | 34,278.80      | -20.49      | -0.06     |
+| **Total**  | **53,379.93**  | **53,267.27**  | **-112.66** | **-0.21** |
+
+#### KPH Brang Rea Puncak Ngengas
+
+![[Pasted image 20240604093310.png]]
+
+| **Fungsi** | **Tahun 2021** | **Tahun 2022** | **Selisih** | **(%)**   |
+| ---------- | -------------- | -------------- | ----------- | --------- |
+| HL         | 49,040.96      | 49,032.35      | -8.61       | -0.02     |
+| HP         | 8,576.28       | 8,574.20       | -2.08       | -0.02     |
+| HPT        | 26,420.22      | 26,409.31      | -10.91      | -0.04     |
+| **Total**  | **84,037.46**  | **84,015.86**  | **-21.60**  | **-0.03** |
+
+
 ## Neraca Sumber Daya Kayu
 ### 1. Neraca Potensi Kayu
 Berdasarkan data yang ditampilkan, total potensi kayu pada tahun 2021 sebesar 81,720,943.65 m3, sedangkan pada tahun 2022 total potensi kayu sebesar 81,039,676.19 m3. Potensi kayu mengalami penurunan sebesar 681,267.45 m3 atau sebesar 0,83 % dibandingkan dengan potensi kayu awal.

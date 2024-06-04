@@ -227,6 +227,72 @@ Gambar 3. Neraca Potensi Kayu di Dalam dan Luar Kawasan Hutan
 | **Total**  | **81,720,943.65** | **81,039,676.19** | **-681,267.45** | **-0.83** |
 
 Untuk neraca potensi kayu di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
+
+#### KPH Ampang Plampang
+
+
+
+#### KPH Ampang Riwo
+
+
+
+#### KPH Batulanteh
+
+
+
+#### KPH Brang Beh
+
+
+
+#### KPH Brang Rea Puncak Ngengas
+
+
+
+#### KPH Madapangga Rompu Waworada
+
+
+
+#### KPH Maria Donggomasa
+
+
+
+#### KPH Orong Telu
+
+
+
+#### KPH Pelangan Tastura
+
+
+
+#### KPH Rinjani Barat
+
+
+
+#### KPH Rinjani Timur
+
+
+
+#### KPH Ropang
+
+
+
+#### KPH Sejorong Mataiyang
+
+
+
+#### KPH Tambora
+
+
+
+#### KPH Toffo Pajo Soromandi
+
+
+
+#### Tahura Nuraksa
+
+
+
+
 ### 2. Neraca Potensi Moneter Kayu
 Pada tahun 2021, total potensi moneter kayu sebesar Rp 29,993,521,203,410.00, sedangkan pada tahun 2022 total potensi moneter kayu sebesar Rp 29,742,738,562,790.00. Berdasarkan data tersebut, terjadi penurunan total potensi moneter kayu sebesar Rp 250,782,640,620.00 atau 0,84 % dari saldo awal.
 
@@ -243,3 +309,67 @@ Gambar 4. Neraca Potensi Moneter Kayu di Dalam dan Luar Kawasan Hutan
 | **Total**  | **29,993,521,203,410.00** | **29,742,738,562,790.00** | **-250,782,640,620.00** | **-0.84** |
 
 Untuk neraca potensi moneter kayu di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
+
+#### KPH Ampang Plampang
+
+
+
+#### KPH Ampang Riwo
+
+
+
+#### KPH Batulanteh
+
+
+
+#### KPH Brang Beh
+
+
+
+#### KPH Brang Rea Puncak Ngengas
+
+
+
+#### KPH Madapangga Rompu Waworada
+
+
+
+#### KPH Maria Donggomasa
+
+
+
+#### KPH Orong Telu
+
+
+
+#### KPH Pelangan Tastura
+
+
+
+#### KPH Rinjani Barat
+
+
+
+#### KPH Rinjani Timur
+
+
+
+#### KPH Ropang
+
+
+
+#### KPH Sejorong Mataiyang
+
+
+
+#### KPH Tambora
+
+
+
+#### KPH Toffo Pajo Soromandi
+
+
+
+#### Tahura Nuraksa
+
+

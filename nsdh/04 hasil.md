@@ -225,6 +225,8 @@ Gambar 3. Neraca Potensi Kayu di Dalam dan Luar Kawasan Hutan
 | HP         | 6,314,435.08      | 6,219,817.43      | -94,617.65      | -1.50     |
 | HPT        | 20,135,135.09     | 19,981,079.38     | -154,055.71     | -0.77     |
 | **Total**  | **81,720,943.65** | **81,039,676.19** | **-681,267.45** | **-0.83** |
+
+Untuk neraca potensi kayu di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
 ### 2. Neraca Potensi Moneter Kayu
 Pada tahun 2021, total potensi moneter kayu sebesar Rp 29,993,521,203,410.00, sedangkan pada tahun 2022 total potensi moneter kayu sebesar Rp 29,742,738,562,790.00. Berdasarkan data tersebut, terjadi penurunan total potensi moneter kayu sebesar Rp 250,782,640,620.00 atau 0,84 % dari saldo awal.
 
@@ -240,3 +242,4 @@ Gambar 4. Neraca Potensi Moneter Kayu di Dalam dan Luar Kawasan Hutan
 | HPT        | 7,436,191,497,300.00      | 7,379,446,558,330.00      | -56,744,938,970.00      | -0.76     |
 | **Total**  | **29,993,521,203,410.00** | **29,742,738,562,790.00** | **-250,782,640,620.00** | **-0.84** |
 
+Untuk neraca potensi moneter kayu di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:

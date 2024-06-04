@@ -92,6 +92,19 @@ Untuk neraca penutupan hutan di masing-masing KPH meliputi kawasan hutan dengan 
 | HPT        | 26,420.22      | 26,409.31      | -10.91      | -0.04     |
 | **Total**  | **84,037.46**  | **84,015.86**  | **-21.60**  | **-0.03** |
 
+#### KPH Madapangga Rompu Waworada
+
+![[Pasted image 20240604093441.png]]
+
+| **Fungsi** | **Tahun 2021** | **Tahun 2022** | **Selisih** | **(%)**   |
+| ---------- | -------------- | -------------- | ----------- | --------- |
+| HL         | 18,303.85      | 18,266.21      | -37.64      | -0.21     |
+| HP         | 11,044.23      | 10,888.11      | -156.12     | -1.41     |
+| HPT        | 20,166.76      | 20,115.30      | -51.46      | -0.26     |
+| **Total**  | **49,514.84**  | **49,269.62**  | **-245.22** | **-0.50** |
+
+
+
 
 ## Neraca Sumber Daya Kayu
 ### 1. Neraca Potensi Kayu

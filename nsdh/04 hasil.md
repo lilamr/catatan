@@ -35,7 +35,7 @@ Gambar 2. Neraca Penutupan Hutan di Dalam dan Luar Kawasan Hutan
 | HPT        | 221,470.48     | 219,930.12     | -1,540.36     | -0.70     |
 | **Total**  | **871,529.70** | **865,251.97** | **-6,277.73** | **-0.72** |
 
-Untuk neraca penutupan hutan di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
+Untuk neraca penutupan hutan KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dan HK pada Tahura. Penutupan hutan terbesar terdapat pada KPH Brang Rea Puncak Ngengas. Pada tahun 2021 luas total penutupan hutannya sebesar 84,037.46 ha, sedangkan pada tahun 2022 luas total penutupan hutannya sebesar 84,015.86 ha. Berdasarkan data tersebut, terjadi penurunan luas sebesar 21.60 ha atau sekitar 0.03 % dari luasan awal. Adapun rincian masing-masing KPH dan Tahura adalah sebagai berikut:
 
 #### KPH Ampang Plampang
 
@@ -226,7 +226,7 @@ Gambar 3. Neraca Potensi Kayu di Dalam dan Luar Kawasan Hutan
 | HPT        | 20,135,135.09     | 19,981,079.38     | -154,055.71     | -0.77     |
 | **Total**  | **81,720,943.65** | **81,039,676.19** | **-681,267.45** | **-0.83** |
 
-Untuk neraca potensi kayu di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
+Untuk neraca potensi kayu KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dan HK pada Tahura. Potensi kayu terbesar terdapat pada KPH Sejorong Mataiyang. Pada tahun 2021 volume total potensi kayunya sebesar 8,464,080.40 m3, sedangkan pada tahun 2022 volume total potensi kayunya sebesar 8,419,856.19 m3. Berdasarkan data tersebut, terjadi penurunan potensi kayu sebesar 44,224.21 m3 atau sekitar 0.52 % dari potensi awal. Adapun rincian masing-masing KPH dan Tahura adalah sebagai berikut:
 
 #### KPH Ampang Plampang
 
@@ -417,7 +417,7 @@ Gambar 4. Neraca Potensi Moneter Kayu di Dalam dan Luar Kawasan Hutan
 | HPT        | 7,436,191,497,300.00      | 7,379,446,558,330.00      | -56,744,938,970.00      | -0.76     |
 | **Total**  | **29,993,521,203,410.00** | **29,742,738,562,790.00** | **-250,782,640,620.00** | **-0.84** |
 
-Untuk neraca potensi moneter kayu di masing-masing KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dengan rincian sebagai berikut:
+Untuk neraca potensi moneter kayu KPH meliputi kawasan hutan dengan fungsi HL, HP dan HPT dan HK pada Tahura. Potensi moneter kayu terbesar terdapat pada KPH Sejorong Mataiyang. Pada tahun 2021 total potensi moneter kayunya sebesar Rp 3,117,718,683,070.00, sedangkan pada tahun 2022 total potensi moneter kayunya sebesar Rp 3,101,355,725,740.00. Berdasarkan data tersebut, terjadi penurunan total potensi moneter kayu sebesar Rp 16,362,957,330.00 atau sekitar 0.52 % dari saldo awal. Adapun rincian masing-masing KPH dan Tahura adalah sebagai berikut:
 
 #### KPH Ampang Plampang
 

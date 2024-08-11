@@ -13,7 +13,7 @@ The sustainability criteria covered are:
 
 Sumber : Criteria and indicators for sustainable forest management. Papers presented at a IUFRO
 
-
+![[Pasted image 20240811083706.png]]
 
 A. Melaksanakan Penyusunan Rencana Pengelolaan Hutan yang Dituangkan dalam Dokumen Rencana Pengelolaan Hutan Jangka Panjang dan Rencana Pengelolaan Hutan Jangka Pendek (Penyusunan dokumen perencanaan KPH)
 1. Penyusunan Rencana Pengelolaan Hutan Jangka Panjang KPH

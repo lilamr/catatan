@@ -253,3 +253,148 @@ CMD ["npm", "start"]
 - **DNS and Port Configuration**: Adjust the port and path configurations based on your needs. For example, if you want to use different ports instead of paths, modify the `nginx.conf` and `docker-compose.yml` accordingly.
 
 This setup allows you to access both apps through `localhost` with Nginx acting as a reverse proxy to route traffic to the correct application.
+
+
+==========================================
+
+
+
+To create a `docker-compose.yml` file that avoids conflicts between two GeoNode apps on the same server and ensures they can be accessed through Nginx without issues, you'll need to set up each app with its own separate service and configure Nginx to properly route requests to the correct app. Here’s a step-by-step guide to help you achieve this:
+
+### 1. Directory Structure
+
+Assuming you have the following directory structure:
+
+```
+/path/to/geonode-app1
+/path/to/geonode-app2
+```
+
+### 2. Docker Compose File
+
+Create a `docker-compose.yml` file in the root directory of your project (or wherever you prefer). The file should look something like this:
+
+```yaml
+version: '3.8'
+
+services:
+  geonode-app1:
+    image: geonode/geonode:latest
+    container_name: geonode_app1
+    environment:
+      - DEBUG=False
+      - DATABASE_URL=postgres://user:password@db1:5432/geonode1
+    volumes:
+      - /path/to/geonode-app1:/usr/src/app
+    networks:
+      - geonode_network
+
+  geonode-app2:
+    image: geonode/geonode:latest
+    container_name: geonode_app2
+    environment:
+      - DEBUG=False
+      - DATABASE_URL=postgres://user:password@db2:5432/geonode2
+    volumes:
+      - /path/to/geonode-app2:/usr/src/app
+    networks:
+      - geonode_network
+
+  db1:
+    image: postgres:13
+    container_name: geonode_db1
+    environment:
+      - POSTGRES_DB=geonode1
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+    networks:
+      - geonode_network
+    volumes:
+      - geonode_db1_data:/var/lib/postgresql/data
+
+  db2:
+    image: postgres:13
+    container_name: geonode_db2
+    environment:
+      - POSTGRES_DB=geonode2
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+    networks:
+      - geonode_network
+    volumes:
+      - geonode_db2_data:/var/lib/postgresql/data
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    networks:
+      - geonode_network
+
+networks:
+  geonode_network:
+    driver: bridge
+
+volumes:
+  geonode_db1_data:
+  geonode_db2_data:
+```
+
+### 3. Nginx Configuration
+
+Create an `nginx.conf` file in the same directory as your `docker-compose.yml`. Configure Nginx to handle requests for both GeoNode apps by setting up server blocks. Here’s an example:
+
+```nginx
+events {}
+
+http {
+    server {
+        listen 80;
+        server_name localhost;
+
+        location /app1/ {
+            proxy_pass http://geonode-app1:8000/;
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+        }
+
+        location /app2/ {
+            proxy_pass http://geonode-app2:8000/;
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+        }
+    }
+}
+```
+
+In this configuration:
+
+- Requests to `http://localhost/app1/` are proxied to `geonode-app1`.
+- Requests to `http://localhost/app2/` are proxied to `geonode-app2`.
+
+### 4. Running the Setup
+
+1. **Place the `docker-compose.yml` and `nginx.conf` files in the same directory.**
+2. **Navigate to that directory and run:**
+
+   ```bash
+   docker-compose up -d
+   ```
+
+This command will start the services in the background. Nginx will now route requests to the appropriate GeoNode application based on the URL path.
+
+### Notes
+
+- **Ensure that the ports specified in the `docker-compose.yml` file do not conflict with other services on your server.**
+- **Adjust the `DATABASE_URL` environment variables as needed to match your database configuration.**
+- **Customize Nginx configuration further if needed to handle specific application requirements or security considerations.**
+
+This setup should provide a clear separation between the two GeoNode applications and allow you to access them without conflicts.
+

@@ -224,3 +224,457 @@
 
 01:08:37	learning experience and with five years of updates for the lts version ubuntu server is a great place to start there's a whole world of servers out there maybe now there'll be one more as you start administering your own as always if you enjoyed this video please like and subscribe and if you'd like to be notified when i post the next one just click the bell icon thanks for watching and until next time take care you
 
+
+===========================================
+
+
+
+00:00:00 halo dan selamat datang untuk mencoba kue saya. Dalam video ini kita akan memulai dan menjalankan server ubuntu jika Anda belum mengenalnya ini adalah sistem operasi linux yang dibuat untuk server, server kata mungkin terdengar menakutkan pada awalnya, namun jangan biarkan hal ini membuat Anda berhenti dari kue raspberry kecil hingga membunyikan klakson di rak mesin yang menjamur pusat data di seluruh dunia. Hampir semua perangkat dapat diubah menjadi server dan bisa sesederhana atau serumit yang Anda inginkan. tapi mengapa menjalankan server Anda mungkin bertanya dengan baik
+
+  
+
+00:00:31 mungkin Anda ingin menyajikan situs web Anda sendiri atau berbagi beberapa file mungkin Anda hanya ingin tempat untuk menyimpan cadangan data Anda atau perangkat yang berfungsi sebagai hub pusat untuk koleksi media Anda, tapi mungkin Anda bisa melakukannya lagi hanya ingin tahu bagaimana cara mengaturnya apa pun alasannya jika membangun server Anda sendiri sepertinya menarik bagi Anda untuk tetap menggunakannya saat menyiapkan server pertama-tama kita perlu mempertimbangkan perangkat kerasnya dalam video ini saya akan memasang server ubuntu di mini pc dengan cpu intel tetapi sistem operasi tersedia
+
+  
+
+00:01:12 untuk berbagai platform, perangkat apa pun yang ingin Anda gunakan, saya sarankan ada empat pertimbangan utama. Apa yang Anda pilih untuk masing-masing platform akan bergantung pada jenis server yang akan Anda jalankan, misalnya server file mungkin lebih cocok untuk prosesor berdaya rendah untuk menghemat biaya energi tetapi akan membutuhkan banyak penyimpanan untuk menampung data Anda. Sebaliknya, server web mungkin memerlukan jumlah ram yang cukup terutama jika banyak orang yang mengaksesnya, kecuali Anda menghostingnya video jumlah penyimpanan
+
+  
+
+00:01:41 akan jauh lebih kecil dalam hal ukuran fisik. Hal ini kemungkinan besar akan tergantung pada di mana Anda ingin menyimpan server Anda. Jika kita melihat lebih dekat pada server ubuntu, persyaratan minimum sebenarnya cukup sederhana tetapi ini harus dilihat sebagai minimum mutlak dan meningkat secara signifikan untuk pengalaman pengguna yang optimal sebagai referensi ini adalah spesifikasi server kecil saya akan menyiapkan satu catatan terakhir mengenai masalah perangkat keras saya sangat menyarankan agar server terhubung ke router Anda
+
+  
+
+00:02:10 dengan kabel jaringan server ubuntu dapat diinstal pada perangkat keras fisik atau sebagai vm menggunakan perangkat lunak seperti xc png atau proxmox keuntungan dari mesin virtual adalah Anda dapat menjalankan beberapa server ubuntu semuanya pada perangkat keras fisik yang sama jika Anda Jika Anda berencana untuk melakukan hal ini, ketahuilah bahwa setiap vm akan menggunakan sebagian dari sumber daya komputer yang mendasarinya, misalnya jika Anda akan menjalankan dua server virtual yang menetapkan empat gigabyte ram untuk masing-masing mesin host, maka mesin host harus memiliki setidaknya delapan gigabyte dari ram yang tersedia
+
+  
+
+00:02:44 perhatikan bagaimana saya mengatakan ram yang tersedia karena hypervisor itu sendiri juga memerlukan memori, perangkat keras sebenarnya harus terdiri dari lebih dari ini sementara mesin virtual pasti memiliki kegunaannya dalam video ini kami akan menginstal server ubuntu langsung ke bare metal yang mengatakan jika Anda ingin memulai perjalanan Anda ke dunia magis virtualisasi, lihat video kotak virtual saya. Saya telah memasang tautan di deskripsi oke ayo ambil perangkat lunaknya, kita akan mencari ubuntu dan ini dia yang kami inginkan ubuntu.com
+
+  
+
+00:03:19 mari kita klik pada tab unduh dan kemudian dapatkan server ubuntu dari sana pilih opsi dua instalasi server manual dan kemudian klik unduh server ubuntu dan simpan ke komputer Anda tergantung pada kecepatan koneksi internet Anda yang mungkin diperlukan untuk mengunduh sebentar, sementara itu sedang mengunduh mari kita cari perangkat lunak lain. Mereka yang telah menonton saluran saya sebelumnya mungkin akrab dengan yang ini dan namanya etsa. Kita bisa mendapatkannya dari bellina dot io. Saya akan mengambil versi portabelnya
+
+  
+
+00:03:53 untuk windows dan simpan ke direktori unduhan saya setelah keduanya selesai diunduh, Anda dapat menutup browser web dan sekarang ayo pergi dan temukan keduanya. Pada titik ini saya akan memasukkan stik usb ke komputer saya dan kita akan menggunakan etcher untuk menyalin gambar server ubuntu yang baru saja kita unduh ke dalamnya, jadi pertama klik flash dari file kemudian buka gambar server ubuntu semoga stik usb Anda terdeteksi jika tidak klik ubah untuk memilihnya dan kemudian kita pergi untuk mengklik flash dan klik ya agar windows tetap senang, saya akan melakukannya
+
+  
+
+00:04:33 jeda video dan kembali lagi ketika sudah selesai bagus sekarang setelah selesai kita dapat menutup semua jendela yang terbuka dan melepas stik usb, sambungkan stik usb ke server Anda yang akan segera menjadi server dan nyalakan komputer lalu ketuk tombol mana pun yang memungkinkan Anda harus masuk ke menu boot atau uefi bios jika mouse Anda tidak didukung gunakan tombol kursor untuk menyorot entri stik usb dan tekan enter untuk memilihnya dari menu pastikan bahwa instal server ubuntu dipilih instalasi server ubuntu pada dasarnya sama apakah kamu
+
+  
+
+00:05:09 menginstalnya di mesin virtual atau pada perangkat keras fisik sehingga langkah-langkah berikut harus sesuai untuk skenario mana pun. Pertama-tama kita harus memilih bahasa kita jadi saya akan menggunakan tombol kursor pada keyboard saya untuk menyorot bahasa inggris uk lalu tekan enter untuk memilihnya selanjutnya kita perlu memilih tata letak keyboard kita jika ini tidak benar gunakan tombol kursor Anda lagi untuk menyorot entri dan tekan enter untuk memilihnya Anda kemudian dapat memilih salah satu yang sebenarnya Anda inginkan dari daftar dengan itu diubah kembali menjadi selesai dan
+
+  
+
+00:05:40 lalu tekan enter untuk melanjutkan dengan server kami yang terhubung langsung ke router, seharusnya secara otomatis mengambil alamat ip tetapi karena ini adalah server kami tidak ingin ini berubah dan oleh karena itu kami perlu mengatur apa itu Dikenal sebagai alamat ip statis, ini pada dasarnya dapat dilakukan dengan salah satu dari dua cara, baik di server itu sendiri, itulah yang akan saya lakukan di sini atau di router jika Anda ingin mengaturnya di router atau tidak. yakin tentang pengaturan alamat ip secara umum, silakan lihat ip statis saya
+
+  
+
+00:06:12 video Saya telah memasang tautan di deskripsi untuk menggunakan metode ini Anda mungkin memerlukan alamat mac server Anda dan saya akan menunjukkan cara mendapatkannya di bagian jaringan video ini jika Anda ingin pergi untuk menggunakan router Anda untuk mengatur alamat ip server Anda, Anda cukup memilih selesai di layar ini untuk melanjutkan ke langkah berikutnya tetapi bagi yang seperti saya yang lebih suka mengatur alamat ip secara manual mari tekan enter pada entri untuk adaptor jaringan dari sini pilih edit ipv4 lalu ubah dhcp otomatis ke manual
+
+  
+
+00:06:45 hal pertama yang perlu kita lakukan adalah memasukkan subnet jaringan kita ini dalam format alamat jaringan subnet mask garis miring jadi untuk jaringan saya itu adalah 192.168.0.0 garis miring 24. semoga anda sudah mengetahui range ip nya jaringan Anda lagi jika Anda tidak yakin dengan apa yang saya bicarakan lihat sekilas video ip statis saya katakanlah jaringan Anda berubah dari 192.168.1.0 menjadi 192.168.1.255 alamat jaringan adalah yang pertama di jaringan rumah Anda kemungkinan besar kami menggunakan apa yang dikenal sebagai alamat kelas c dan di sini untuk entri subnet kami
+
+  
+
+00:07:25 perlu memasukkan notasi perutean antar-domain cider atau tanpa kelas yang untuk jaringan kelas c adalah garis miring 24 daripada notasi subnet mask yang lebih umum yaitu 255.255.255.0 selanjutnya kita perlu memasukkan alamat ip statis itu kami ingin mengatur saya akan menggunakan 192.168.0.200. perlu diketahui bahwa kita perlu menggunakan ip address yang berada di luar jangkauan dhcp router kita hal ini untuk menghindari konflik dengan perangkat lain di jaringan kita yang sudah otomatis diberi alamat oleh router gateway
+
+  
+
+00:08:02 adalah alamat ip router Anda dalam kasus saya ini adalah 192.168.0.1 jika Anda tidak yakin apa milik Anda di komputer windows, Anda dapat mengetik ipconfig ke dalam command prompt dan alamatnya akan tercantum di sebelah default gateway untuk server nama kita perlu memasukkan alamat ip server dns yang kita ingin server kami gunakan. Anda cukup memasukkan alamat ip router Anda lagi jika Anda ingin menggunakan server dns penyedia layanan internet Anda sebagai alternatif dan apa yang akan saya lakukan di sini adalah memasukkan beberapa DNS publik
+
+  
+
+00:08:35 server saya akan menggunakan catatan Google jika Anda memasukkan lebih dari satu alamat ip Anda harus memberi koma dan spasi di antaranya Anda memiliki opsi untuk memasukkan domain pencarian lokal ini lebih berguna dalam lingkungan dengan banyak komputer seperti bisnis besar jadi saya tidak akan memasukkan apa pun di sini oke mari simpan entri kita dan Anda dapat melihat dengan cepat bahwa alamat ip telah berubah dengan kumpulan alamat ip statis mari pilih selesai untuk melanjutkan sangat tidak mungkin di jaringan rumah bahwa Anda akan menggunakan server proxy
+
+  
+
+00:09:11 tetapi jika ya, Anda dapat memasukkan alamatnya di sini saya akan memilih selesai untuk melanjutkan lagi alamat cermin itulah yang akan digunakan untuk menjaga server Anda tetap mutakhir dan defaultnya akan baik-baik saja di sini yang kita perlukan untuk mengkonfigurasi penyimpanan server kami ini untuk drive sistem yang akan berisi sistem operasi ubuntu dan itu akan menggunakan seluruh disk jadi apa pun di sana akan dihapus jika server Anda memiliki lebih dari satu drive Anda dapat memilih yang mana yang Anda inginkan untuk menggunakannya saya akan membiarkannya lebih kecil
+
+  
+
+00:09:40 disk karena saya akan menggunakan SSD yang lebih besar untuk menyimpan data saya, lvm atau manajemen volume logis dapat berguna tetapi saya tidak akan menggunakannya dalam video khusus ini jadi saya akan membatalkan pilihan itu dan dari sana saya akan melanjutkan dengan selesai Halaman ini memberi kita ringkasan tentang apa yang akan dilakukan. Anda dapat melihat bahwa ini akan membuat dua partisi pada drive sistem, partisi boot kecil dan partisi yang jauh lebih besar untuk root karena saya senang untuk melanjutkan saya akan memilih selesai dan di sini kita mendapat peringatan bahwa melanjutkan akan memulai instalasi
+
+  
+
+00:10:13 memproses dan menghapus data dari disk mana pun yang kami pilih, jadi pilih lanjutkan untuk memulai, di layar ini kami akan menyiapkan akun admin untuk server kami dan juga memberi nama servernya, jadi pop pertama dalam nama untuk akun lalu tekan tombol tab untuk turun ke baris berikutnya sekarang beri nama server Anda Saya akan menggunakan server yang sangat orisinal lalu masukkan nama pengguna untuk akun tersebut, sebaiknya simpan semua ini dalam huruf kecil dan terakhir buat kata sandi lalu konfirmasikan dan setelah selesai kita bisa memilih
+
+  
+
+00:10:49 selesai sering kali lebih baik menjalankan server tanpa monitor keyboard dan mouse terpasang. Inilah yang dikenal sebagai server tanpa kepala tetapi untuk melakukan ini kita harus dapat menyambungkannya dari jarak jauh dan untuk melakukan itu kita perlu untuk menginstal paket server ssh terbuka jadi tekan spasi untuk memberi tanda silang di kotak instal server ssh terbuka dan kemudian pilih selesai server ubuntu dilengkapi dengan pilihan paket snap yang dapat diinstal sebagai bagian dari proses instalasi secara pribadi saya lebih suka instal
+
+  
+
+00:11:20 sistem operasi server terlebih dahulu dan kemudian menambahkan perangkat lunak tambahan apa pun nanti jadi saya akan menekan tombol tab dan memilih selesai. Instalasi mungkin memakan waktu agak lama jadi saya akan menjeda video dan kembali lagi setelah selesai luar biasa ketika dikatakan instalasi selesai di bagian atas tekan tombol tab dua kali untuk menyorot reboot sekarang dan kemudian tekan enter untuk melakukannya ketika Anda mendapatkan prompt ini lepaskan stik usb dan tekan enter lagi jika Anda mendapatkan layar yang mirip dengan ini cukup tekan enter kunci untuk mencapai login
+
+  
+
+00:11:55 prompt dan selamat Anda telah berhasil menginstal server ubuntu jadi mari kita login dengan memasukkan nama pengguna dan kata sandi yang kita buat saat instalasi dan saya akan membersihkan layar dengan mengetikkan kata clear dan tekan enter dan di sini kami masuk ke server baru kami meskipun tampaknya tidak terlalu menarik, command prompt sebenarnya memberi tahu kami beberapa hal berguna. Pertama, kami dapat melihat bahwa saya masuk ke akun pengguna oleh saya. Ini akan menjadi nama yang Anda pilih untuk Anda akun pengguna
+
+  
+
+00:12:27 lalu mengikuti simbol at kami memiliki nama server kami yang dalam kasus saya hanyalah server setelah titik dua ada tanda gelombang ini mewakili direktori yang sedang kami akses yang merupakan direktori home pengguna, kami dapat mengonfirmasinya kasusnya dengan mengetikkan pwd dan menekan enter dan Anda dapat melihat bahwa saya memang dalam garis miring ke depan home garis miring byte pi saya untuk keluar dari server cukup ketik keluar dan tekan enter mungkin salah satu area terpenting dalam hal server adalah keamanan jadi mari kita pastikan dulu
+
+  
+
+00:13:01 bahwa server kami sudah diperbarui dan kami dapat melakukannya dengan menjalankan dua perintah berikut sudo apt update karena ini adalah perintah administratif, Anda harus memasukkan kata sandi Anda lalu masukkan sudo apt upgrade dan ya kami ingin melanjutkan setelah menjalankan pembaruan, bukan ide yang buruk untuk memulai ulang server dan kami dapat melakukannya dengan memasukkan sudo reboot menjalankan pembaruan manual semuanya baik-baik saja tetapi mungkin cara yang lebih baik adalah mengotomatiskan proses yang seharusnya dimiliki server ubuntu paket pemutakhiran tanpa pengawasan diinstal secara default
+
+  
+
+00:13:47 tetapi kami dapat memeriksa ulang dengan menjalankan sudo apt install tanpa pengawasan dasbor peningkatan lalu masukkan kata sandi Anda dan seperti yang Anda lihat server sudah memiliki versi terbaru dari paket sebagai bagian dari otomatisasi, akan berguna untuk mengizinkan server untuk secara otomatis memulai kembali sendiri untuk menyelesaikan prosedur pembaruan dan untuk melakukan ini kita perlu menginstal paket lain jadi ketik sudo apt install update dash notifier dash common dan sepertinya paket itu sudah diinstal juga jadi jika saya menghapus layar semua yang tersisa
+
+  
+
+00:14:32 yang perlu dilakukan adalah memeriksa konfigurasi. Untuk melakukan itu, kita akan menuju ke direktori konfigurasi aplikasi dengan mengetikkan cd spasi ke depan garis miring dll garis miring ke depan apt ke depan garis miring apt.conf dot d Anda dapat melihat bahwa kita sekarang masuk direktori baru karena command prompt telah berubah dan kita dapat membuat daftar isinya dengan mengetik ls ada dua file di sini yang kami minati, yang pertama adalah 50 peningkatan dasbor tanpa pengawasan dan untuk membukanya di editor teks nano kita akan pergi ke ketik sudo nano 50 peningkatan dasbor tanpa pengawasan jika diminta
+
+  
+
+00:15:12 kata sandi muncul bahwa di sana ada tiga bagian yang harus kita periksa di sini yang pertama adalah peningkatan tanpa pengawasan ini izinkan bagian asal secara khusus Anda ingin memastikan bahwa tiga baris yang disorot tidak dikomentari jika ada di antara mereka yang akan melakukannya memiliki dua garis miring di awal seperti pada baris yang disorot ini, jika demikian, hapus saja garis miringnya, untungnya ini sudah terlihat bagus yang berarti pembaruan keamanan akan diterapkan secara otomatis, hal kedua yang harus diperiksa adalah
+
+  
+
+00:15:41 garis reboot otomatis daripada menelusuri file untuk mencoba menemukannya, kita dapat melakukan pencarian jadi tahan tombol kontrol pada keyboard Anda dan tekan w dan ketika bilah pencarian muncul ketik reboot dasbor otomatis dan tekan enter dan semoga itu membawa Anda ke pemutakhiran tanpa pengawasan ini, reboot otomatis, baris palsu gunakan tombol panah untuk memindahkan kursor ke bawah huruf u di dekat awal baris, lalu tekan tombol spasi mundur dua kali untuk menghapus komentar pada kode, selanjutnya pindahkan sepanjang baris lagi dan kali ini
+
+  
+
+00:16:18 hapus kata false dan ketikkan true, sekarang kita telah meminta server untuk memulai ulang secara otomatis setelah pemutakhiran tanpa pengawasan, lalu entri ketiga yang ingin kita lihat ada di sini pemutakhiran tanpa pengawasan, waktu reboot otomatis lagi, kita perlu menghapus komentar itu di awal dan kemudian kita akan mengatur waktunya jadi hapus entri saat ini dan kemudian masukkan entri Anda sendiri. Ini adalah waktu di mana server akan melakukan restart otomatis dalam hal ini saya baru saja mengaturnya ke satu jam di pagi hari dan setelah itu selesai kita harus menyelamatkan milik kita
+
+  
+
+00:16:54 berubah jadi tekan control x pada keyboard lalu ketik y dan tekan enter oke mari kita bersihkan layar dan sekarang mari kita periksa file konfigurasi kedua yang ini disebut 20 auto dash upgrade jadi mari kita buka dengan sudo nano 20 auto dash tingkatkan dan seperti yang Anda lihat, tidak banyak yang terjadi dalam hal ini sedangkan file konfigurasi pertama yang kami lihat berisi pengaturan pembaruan otomatis, yang ini benar-benar mengaktifkannya, baris pertama memastikan bahwa daftar paket perangkat lunak mutakhir sehingga server mendapat yang terbaru
+
+  
+
+00:17:31 paket yang tersedia sedangkan yang kedua memungkinkan pemutakhiran tanpa pengawasan itu sendiri, hal penting yang harus diperiksa selain dari kedua baris ini ada adalah bahwa masing-masing baris disetel ke satu karena inilah yang memungkinkan entri dengan kontrol pers yang dilakukan x untuk keluar dari sana jika Anda membuat perubahan, ingatlah untuk menyimpannya dengan benar dengan pemutakhiran tanpa pengawasan yang dikonfigurasi, mari kita mulai ulang server agar perubahan diterapkan. Hal terakhir yang perlu diperiksa adalah layanan pembaruan otomatis ini berjalan dengan baik dan dapat kita lakukan
+
+  
+
+00:18:06 dengan memasukkan sudo systemctl status tanpa pengawasan dasbor peningkatan dan kemudian masukkan kata sandi Anda dan seperti yang Anda lihat itu aktif dan berjalan untuk memeriksa koneksi jaringan di server kita dapat mengetik ip dan kemudian mesin ini memiliki dua adaptor jaringan satu kabel yang saya gunakan dan adaptor nirkabel lainnya yang dimulai dengan huruf en adalah kabel sedangkan yang berawalan wl adalah nirkabel jika Anda mencari alamat mac adaptor jaringan itu harus terdaftar di sebelah tautan garis miring eter konfigurasi jaringannya adalah disimpan di
+
+  
+
+00:18:47 file zero zero dash installer dash config.yaml terletak di direktori etsy netplan untuk melihat lebih dekat ini kita dapat membukanya di editor teks nano dengan mengetik sudo nano garis miring dll garis miring netplan garis miring ganda zero dash installer dash config dot yaml jika seperti saya, Anda sebelumnya mengonfigurasi adaptor jaringan kabel server dengan alamat ip statis, alamatnya harus familier jika Anda perlu membuat perubahan pada salah satu dari ini, Anda dapat melakukannya di sini, ingatlah untuk menyimpan file ketika kamu
+
+  
+
+00:19:27 keluar Saya hanya akan menekan ctrl x untuk keluar dari sana jika Anda melakukan perubahan, Anda harus memasukkan perintah yang ditampilkan di layar untuk menerapkannya tetapi jika Anda hanya menjelajah, itu juga tidak perlu jika Anda ingat selama instalasi kami juga menginstal ssh untuk memungkinkan kami mengakses server kami dari jarak jauh jika Anda memilih untuk tidak melakukan ini tetapi kemudian berubah pikiran jangan khawatir karena Anda dapat segera menambahkan fungsionalitas ini dengan perintah berikut sudo apt install open ssh dash server masukkan kata sandi Anda dan seperti yang Anda lihat
+
+  
+
+00:20:04 Saya sudah menginstal versi terbaru tetapi Anda dapat terus menginstal paket oke dengan server sekarang siap menerima koneksi jarak jauh Saya telah pindah ke PC windows untuk mencoba menghubungkan hal pertama yang pertama kita perlu memastikan bahwa klien ssh terbuka terinstal jadi buka pengaturan dan buka aplikasi dari sana klik fitur opsional yang Anda cari untuk melihat apakah klien ssh terbuka sudah ada dalam daftar terinstal Anda dapat melihat bahwa milik saya sudah ada tetapi jika bukan itu masalahnya, Anda dapat mengklik tambahkan a
+
+  
+
+00:20:37 fitur untuk menambahkannya saya akan menutupnya dan sekarang kita dapat membuka command prompt dengan mengetik cmd di kotak pencarian dan memilihnya untuk terhubung dari jarak jauh ke server kami, kami perlu mengetik ssh diikuti dengan nama pengguna akun server yang dalam kasus saya adalah dengan pi saya simbol at dan kemudian alamat ip server yang bagi saya adalah 192.168.0.200. lalu masukkan itu karena ini pertama kali menghubungkan kita perlu mengetikkan yes untuk menerima sidik jari server lalu tekan enter lalu masukkan kata sandi untuk
+
+  
+
+00:21:14 akun di server Anda semuanya baik-baik saja. Anda sekarang sudah berhasil terhubung dan Anda dapat menjalankan tugas server dari kenyamanan PC desktop atau laptop Anda jika Anda berencana menjalankan server tanpa kepala sekarang adalah saat yang tepat untuk memutuskan sambungan monitor dan keyboardnya untuk keluar dari sesi jarak jauh cukup ketikkan kata keluar dan kemudian Anda dapat menutup jendela setelah diinstal dan diperbarui seperti banyak sistem operasi server, server ubuntu sendiri sebenarnya tidak melakukan banyak hal di luar gerbang
+
+  
+
+00:21:47 namun fungsinya adalah memberi kami dasar yang baik untuk membangun. Jadi, bergantung pada apa yang Anda rencanakan selanjutnya, Anda mungkin sudah cukup melangkah dengan video ini, namun bagi mereka yang ingin menyingsingkan lengan baju dan mendalami sedikit lebih dalam saya akan membahas beberapa tugas server manual yang mungkin ingin Anda pertimbangkan sekarang saya tahu bahwa tidak semua orang menyukai terminal linux, mungkin karena latar belakang hitam yang suram atau rima teks yang dapat muncul di layar mungkin gui yang cantik hanya menawarkan kenyamanan yang lebih
+
+  
+
+00:22:16 lingkungan apa pun alasannya jika Anda ingin menambahkan desktop ke server Anda itulah yang akan kita lakukan di bagian video ini, ketahuilah bahwa server ubuntu dalam bentuk standarnya menggunakan sumber daya yang jauh lebih sedikit daripada memiliki a desktop dibaut di atas jadi jika Anda ingin melakukan ini, pertama-tama pikirkan tentang perangkat keras Anda dan apakah itu sesuai dengan pekerjaan yang dikatakan untuk mencoba dan menjaga beban sesedikit mungkin, kami akan memasang lingkungan desktop ringan yang dikenal sebagai lxde sehingga untuk memulai masukkan perintah berikut
+
+  
+
+00:22:45 sudo apt install lxde dash core lx penampilan lxde core akan memberi kita desktop minimal tetapi menambahkan tampilan lx akan memungkinkan kita mengubah tampilan dan nuansa desktop jika kita ingin melakukannya masukkan kata sandi Anda, Anda dapat melihat langsung berapa banyak perangkat lunak tambahan yang diperlukan untuk menjalankan gui bahkan yang ringan seperti lxde mari kita masukkan y untuk melanjutkan di sini kita perlu memilih manajer tampilan default karena ini memberitahu kita bahwa ini akan memberikan jendela login grafis karena kita mencoba untuk menyimpannya segala sesuatunya seringan mungkin
+
+  
+
+00:23:28 gunakan tombol kursor Anda untuk menyorot light dm lalu tekan enter untuk memilihnya setelah instalasi selesai mari kita restart server dan seperti itu Anda sekarang harus memiliki jendela login grafis sebelum login pastikan Anda mengklik ubuntu logo dan pilih lxde lalu masukkan kata sandi Anda untuk masuk ke desktop mungkin tidak terlihat banyak tetapi Anda sekarang memiliki bilah tugas dengan menu mulai yang memberi Anda akses mudah ke beberapa alat memang di bagian preferensi Anda akan menemukan tampilan dan nuansa yang disesuaikan
+
+  
+
+00:24:10 ini adalah paket tampilan lx yang kami instal jika Anda ingin menyesuaikan desktop Anda di sebelah menu mulai kami memiliki pengelola file dan kemudian di sisi kanan bawah serta jaringan volume dan waktu kami juga memiliki tombol daya sehingga Anda dapat dengan mudah me-restart server Anda saat ini untuk menggunakan desktop ini kita harus masuk ke server kami secara langsung tetapi bagaimana jika Anda lebih suka mengaksesnya dari jarak jauh melalui jaringan lokal Anda, untuk melakukan itu kami perlu melakukannya instal beberapa perangkat lunak, buka menu mulai
+
+  
+
+00:24:42 dan menuju ke alat sistem, kita perlu membuka terminal lx. Sangat berguna untuk meletakkan pintasan ini di desktop jadi mari kita klik kanan padanya dan pilih tambahkan ke desktop lalu klik dua kali pintasan tersebut untuk membuka emulator terminal perintah pertama yang perlu kita ketik adalah sudo apt install xrdp lalu masukkan kata sandi Anda dan ya, kami ingin melanjutkan dengan paket xrdp yang terinstal, kami perlu mengedit file konfigurasinya jadi saya akan menghapus layar dan mengetik sudo nano forward garis miring dll garis miring ke depan xrdp garis miring ke depan
+
+  
+
+00:25:26 mulai wm kita harus menuju ke akhir file sekarang Anda bisa menggunakan tombol kursor tetapi cara yang lebih cepat adalah dengan menahan tombol kontrol dan tekan akhir jika Anda menggunakan tombol panah untuk memindahkan kursor ke awal baris tes kita akan mengomentarinya dengan mengetikkan hash dan kemudian kita akan melakukan hal yang sama pada baris yang sama juga kembali ke akhir file dan tekan tombol enter untuk membuat baris baru lalu ketik lx session space dash s space lxde semua dengan huruf kapital space dash e space lxde sekali lagi dengan huruf kapital
+
+  
+
+00:26:09 lalu simpan dan keluar dari file dengan cara tahan tombol control dan tekan x ketik y dan tekan enter maka hal terakhir yang perlu kita lakukan adalah menambahkan pengguna xrdp ke grup ssl cert dan kita bisa melakukannya dengan mengetik sudo add user xrdp ssl dash menegaskan dan sekarang mari kita lakukan reboot untuk memastikan bahwa semua perubahan itu berlaku oke jadi saya kembali ke komputer windows saya dan saya akan membuka koneksi desktop jarak jauh lalu mengetikkan alamat ip dari server saya dan klik sambungkan lalu ya maka kita perlu memasukkan nama pengguna kita
+
+  
+
+00:26:55 dan kata sandi untuk server ubuntu dan terakhir klik ok dan itu saja, kita sekarang masuk ke desktop server ubuntu dari jarak jauh. Anda dapat mengetahui bahwa ini adalah sesi jarak jauh dari bilah di bagian atas layar dan kapan Anda ingin meninggalkan server, Anda dapat membuka menu mulai dan keluar atau sebagai alternatif jika Anda ingin membiarkan sesuatu berjalan di desktop, Anda dapat keluar dari sesi dengan sedikit tanda silang lalu kembali lagi nanti. akan kembali ke relung gelap jendela konsol
+
+  
+
+00:27:27 atau command prompt tetapi jika Anda telah menginstal desktop dan ingin terus mengikuti, cukup masukkan salah satu perintah ke terminal lx, pendekatan yang lebih ringan untuk mengelola server kami melalui antarmuka yang mudah digunakan adalah dengan menginstal konsol web dan alat yang hebat untuk pekerjaan itu adalah kokpit, setelah terinstal, kita akan dapat mengakses server ubuntu dari komputer mana pun di jaringan lokal menggunakan tidak lebih dari browser web, jadi mari kita mulai terlebih dahulu, pastikan bahwa manajer paket perangkat lunak diperbarui dengan menjalankan
+
+  
+
+00:28:00 sudo apt update dan masukkan kata sandi Anda untuk melanjutkan lalu ketik sudo apt install cockpit dan ya kami ingin melanjutkan setelah selesai menginstal mari kita periksa apakah itu berjalan dengan memasukkan sudo system ctl status cockpit dot socket seperti yang Anda lihat itu aktif dan mendengarkan ada satu hal lagi yang perlu kita lakukan sebelum menggunakan kokpit, server ubuntu telah mengubah manajer jaringannya dan tidak lagi berfungsi dengan konfigurasi default kokpit tetapi ini mudah diperbaiki jadi mari kita ketik sudo nano forward smash dll
+
+  
+
+00:28:51 garis miring ke depan netplan garis miring ganda pemasang dasbor nol dasbor config dot yaml lalu tekan enter untuk mengedit file yang Anda cari baris yang bertuliskan versi dua lalu tepat di bawahnya kita akan memasukkan yang baru baris tekan spasi untuk membuat indentasi ke posisi yang sama dengan baris di atas lalu ketik renderer titik dua spasi network manager atau satu kata dengan huruf kapital n dan huruf kapital m dan setelah selesai tahan tombol kontrol dan tekan x lalu tekan y dan enter untuk menyimpan
+
+  
+
+00:29:29 berubah dan keluar agar konfigurasi baru kita diterapkan, kita perlu memasukkan sudo netplum troy lalu tekan enter lagi untuk menerima konfigurasi baru dan setelah itu selesai kita dapat keluar dengan mengetik catatan keluar yang sekarang memberi kita alamat konsol web yang baru saja kita atur di komputer di jaringan yang sama dengan server kita akan membuka browser web lalu mengetikkan alamat konsol web yang merupakan alamat ip server ubuntu diikuti dengan titik dua dan nomor port 9090 karena kokpit menggunakan tanda tangan sendiri
+
+  
+
+00:30:09 sertifikat kita perlu mengklik lanjutan lalu melanjutkan dan di sini kita berada di layar login untuk antarmuka web baru server ubuntu kita, masukkan nama pengguna dan kata sandi yang sama dengan yang Anda gunakan untuk login langsung ke server yang akan digunakan. dapat melakukan tugas admin Anda ingin membiarkan kotak ini dicentang di mana dikatakan gunakan kembali kata sandi saya untuk tugas istimewa dan kemudian kita dapat mengklik login karena ini bukan video tentang kokpit secara khusus saya tidak akan membahas setiap pengaturan Sadarilah bahwa Anda dapat menjaga milik Anda
+
+  
+
+00:30:42 server diperbarui dari bagian pembaruan perangkat lunak dan Anda bahkan dapat masuk ke terminal server jika Anda ingin melakukannya, Anda dapat meninggalkan konsol web dengan mengklik nama akun Anda di kanan atas dan memilih logout berikutnya kembali di konsol server kita akan melihat penambahan akun pengguna tambahan dan untuk melakukan ini kita hanya perlu mengetik sudo add user diikuti dengan nama pengguna yang kita inginkan untuk akun baru. Saya akan menggunakan sedikit pi jika diminta masukkan kata sandi untuk akun server Anda saat ini, sekarang kami perlu melakukannya
+
+  
+
+00:31:19 masukkan kata sandi untuk akun pengguna baru lalu masukkan lagi untuk mengonfirmasinya. Di sini kita dapat memasukkan nama lengkap atau sebagai alternatif, Anda cukup menekan enter untuk menerima default saya tidak akan memasukkan nomor kamar jadi saya tekan enter saja yang itu dan sama lagi untuk telpon kantor dan telpon rumah dan juga yang lainnya ya informasinya benar dan itu saja akun baru dibuat dan jika kita masuk ke direktori home dengan mengetikkan cd forward garis miring home dan lalu daftar isinya, Anda dapat melihat akun baru kita juga
+
+  
+
+00:31:58 memiliki direktori home sendiri saat ini bits pi hanyalah akun pengguna standar sehingga tidak dapat melakukan tugas admin apa pun, ini mungkin yang Anda inginkan tetapi jika Anda memerlukan akun admin kedua kami dapat dengan mudah mencapai ini dengan menambahkannya ke grup sudo untuk melakukan ini, masukkan perintah sudo user mod dash huruf kecil a dash capital g sudo dan nama akun pengguna baru Anda yang dalam kasus saya adalah potongan kue lalu masukkan kata sandi untuk Anda akun asli jika diminta dan hanya itu sekarang memiliki admin
+
+  
+
+00:32:37 benar jadi mari kita uji. Saya akan keluar dengan mengetik exit lalu masuk ke akun baru mari kita bersihkan layar dan coba jalankan tugas admin jadi saya akan memasukkan sudo apt update lalu pop dalam potongan kata sandi pi dan seperti yang Anda lihat, perintah berhasil dijalankan dengan benar, mari kita keluar dari akun baru dan masuk kembali ke akun asli sekarang daripada keluar dan masuk kembali katakanlah Anda hanya ingin berpindah akun sementara atau Anda dapat melakukan ini menggunakan perintah su atau switch pengguna
+
+  
+
+00:33:23 jadi jika saya mengetik su dash dan nama akun yang ingin saya gunakan lalu masukkan kata sandi untuk akun itu dan Anda dapat mengetahui dari command prompt bahwa saya sekarang berada di bit akun pi dan saya dapat mengonfirmasinya dengan memasukkan perintah siapa saya ketika Anda siap untuk beralih kembali ke pengguna asli cukup ketik exit kegunaan lain untuk perintah su untuk sementara menjadi root ini bisa berguna jika Anda perlu memasukkan banyak admin memerintahkan satu demi satu karena Anda tidak perlu mengetik sudo
+
+  
+
+00:33:58 setiap kali untuk beralih ke akun root, ketik sudo su dash lalu masukkan kata sandi akun Anda dan sekarang kita dapat menjalankan perintah admin tanpa melanjutkannya dengan sudo misalnya sudo apt update menjadi apt update Anda harus sangat berhati-hati sambil berlari kasar seperti seseorang yang pernah dengan bijak berkata dengan kekuatan besar datanglah tanggung jawab yang besar jadi mari kita keluar dari sana sebelum kita melakukan kerusakan apa pun dan Anda dapat melihat bahwa saya sekarang dengan selamat kembali ke sepeda saya, akun pi saya jika Anda ingin daftar semua akun pengguna di server
+
+  
+
+00:34:35 Anda dapat melakukannya dengan memasukkan comp gen u untuk pengguna karena Anda dapat melihat server berisi banyak akun sistem tetapi mungkin yang lebih penting Anda harus dapat melihat akun yang telah Anda buat oke jadi apa yang harus kami lakukan jika kita ingin menghapus pengguna dengan baik disitulah perintah pengguna dell atau hapus pengguna masuk jadi masukkan sudo pengguna dell dan nama akun yang ingin Anda hapus lalu masukkan kata sandi Anda dan hanya itu akun tersebut tidak ada lagi kami dapat mengonfirmasi ini dengan memasukkan kembali perintah comp gen u dan akun yang baru saja Anda buat
+
+  
+
+00:35:14 dihapus seharusnya tidak lagi ada dalam daftar karena alasan keamanan secara default server ubuntu tidak mengizinkan Anda masuk menggunakan akun root meskipun ini adalah ide bagus mungkin ada saatnya Anda sedang menyiapkan server bahwa Anda memerlukan akun root untuk aktif sepenuhnya jadi jika Anda menghadapi skenario seperti itu Anda dapat mengetik sudo pa double swd root Anda perlu membuat kata sandi untuk akun root dan kemudian mengonfirmasinya dan sekarang jika kita logout kita dapat log out sebagai catatan root setiap kali Anda menjalankan sebagai root, prompt perintah berubah menjadi tanda pagar
+
+  
+
+00:35:56 alih-alih menggunakan dolar biasa, ayo keluar dari sana jika nanti Anda memutuskan bahwa Anda akan segera membatasi akses ke akun root, ketik saja sudo pa double swd dash l root lalu masukkan kata sandi Anda dan selamat Anda baru saja menonaktifkan login akun root sementara yang terbaik adalah mendapatkan nama sejak awal, dimungkinkan untuk mengganti nama server Anda, katakanlah saya muak dengan server generik dan ingin mengubahnya menjadi fort knox, kami dapat secara eksplisit menampilkan namanya server kami dengan mengetik
+
+  
+
+00:36:33 nama host untuk informasi lebih lanjut Anda dapat mengetikkan nama host ctl sekarang untuk mengubah nama, mari ketik sudo nama host ctl setel nama host dasbor lalu apa yang ingin Anda ubah ke yang akan saya gunakan untuk knox dan kemudian kita perlu untuk memasukkan kata sandi kami dan jika kami mengetikkan nama host sekarang Anda dapat melihat bahwa server memiliki pemberitahuan nama baru pada saat prompt belum diperbarui untuk mencerminkan perubahan ini mudah diatasi dengan mengetikkan exec bash jika Anda memutuskan untuk mengubahnya nama host server Anda, ada satu lagi
+
+  
+
+00:37:14 hal yang harus Anda perhatikan saat server melakukan booting, ia memetakan nama host lokal ke alamat ip. Ini disimpan dalam file host etsy dan kita dapat melihatnya dengan memasukkan cat ke depan, garis miring, dll, host garis miring, kita dapat melihat dengan jelas bahwa ini masih berisi nama lama server kita jadi untuk memperbaruinya mari kita edit file dengan mengetikkan sudo nano garis miring ke depan dll host garis miring menggunakan tombol kursor untuk menavigasi ke akhir nama server lama Anda dan tombol spasi mundur untuk menghapusnya dan lalu ketikkan nama baru untuk Anda
+
+  
+
+00:37:52 dengan pembaruan itu kita perlu menyimpan file dan kita bisa melakukannya di editor teks nano dengan menahan tombol kontrol dan menekan x ketik y lalu tekan enter hebat sehingga server kita sekarang diganti namanya untuk memeriksa yang mengetahui namanya Saya hanya akan menjalankan tes ping menggunakan nama host jadi saya akan mengetik ping untuk knox dan seperti yang Anda lihat, ia membalas, ada alat yang sangat berguna yang dapat kita tambahkan ke server ubuntu yang membuat instalasi menjadi populer paket sangat mudah dan itu disebut sel tugas jadi mari kita instal sekarang kita akan membuatnya terlebih dahulu
+
+  
+
+00:38:33 pastikan manajer paket server sudah yang terbaru dengan menjalankan sudo apt update dan kemudian kita akan menginstal perangkat lunak dengan mengetikkan perintah sudo apt install task cell dan ya kita ingin melanjutkan ketika sudah selesai instalasi kita bisa jalankan dengan sudo task cell dan Anda dapat melihat bahwa ada cukup banyak daftar hal yang dapat kami instal untuk keperluan video ini saya akan menginstal server lampu jadi saya akan menggunakan tombol kursor untuk berpindah ke bawah daftar dan kemudian tekan bilah spasi untuk memilih entri itu, lalu jika saya mengetuk tombol tab, saya dapat menekan
+
+  
+
+00:39:19 masuk untuk memilih ok dan ketika command prompt muncul kembali di bagian bawah layar, instalasi selesai, tumpukan lampu terdiri dari sekumpulan perangkat lunak sumber terbuka yang digunakan untuk menjalankan aplikasi web, lampu sebenarnya adalah akronim yang merupakan singkatan dari linux apache mysql dan php kami telah menangani bagian linux dengan menginstal server ubuntu saya akan kembali ke apache sebentar lagi mysql adalah database dan merupakan ide bagus untuk memastikan ini aman dengan menjalankan sudo mysql underscore secure underscore instalasi
+
+  
+
+00:40:04 pertama-tama sistem menanyakan apakah kami ingin sistem memeriksa bahwa kami menggunakan kata sandi yang aman saat menyiapkan database, itu ide yang bagus, jadi saya akan memasukkan ya untuk kata sandi itu, lalu Anda tetapkan kebijakan untuk menerapkannya, saya akan gunakan nomor dua untuk kata sandi yang kuat sekarang kita perlu membuat kata sandi untuk pengguna basis data root dan kemudian memasukkannya lagi untuk mengonfirmasi ya saya ingin melanjutkan dengan kata sandi yang diberikan untuk keamanan, sebaiknya hapus pengguna anonim kami juga ingin melarang login jarak jauh ke database apa pun oleh pengguna root
+
+  
+
+00:40:40 dan mari kita hapus juga database pengujian agar pengaturan tersebut dapat diterapkan, kita perlu memuat ulang tabel hak istimewa dan itulah komponen database yang siap untuk kembali ke Apache yang merupakan bagian server web dari tumpukan lampu yang telah saya lompati ke pc windows untuk mendemonstrasikan ini jika kita membuka browser web dan memasukkan alamat ip server ubuntu kita, Anda dapat melihat bahwa kita telah mencapai halaman default untuk server web apache, saya akan memindahkannya ke buka perintah prompt dan letakkan itu di sisi lain
+
+  
+
+00:41:16 layar dan kemudian ssh ke server alasan saya membuka jendela ini berdampingan adalah untuk melihat bagian akhir dari tumpukan lampu php adalah bahasa skrip yang banyak digunakan dalam pengembangan web untuk mengungkapkan beberapa informasi tentang ini pertama-tama kita perlu mengunjungi direktori web server apache dan kita bisa melakukannya dengan mengetikkan cd forwardslash var forwardslash www forwardslash html mari kita daftar isi direktori itu jika penasaran file index.html apache ini 2 halaman default ubuntu itu
+
+  
+
+00:41:57 kita melihat kita akan membuat file baru di direktori ini kita akan menggunakan editor teks nano dengan mengetik sudo nano dan kemudian nama file baru yang akan menjadi info php dot php jika itu memintanya muncul di kata sandi Anda karena file baru tidak ada apa pun di dalamnya saat ini jadi mari kita masukkan kurang dari tanda tanya php tekan enter untuk memulai baris baru dan kemudian kita akan mengetikkan dua garis miring yang berarti baris ini akan menjadi a komentar menjelaskan tujuan file ini sebagai berikut lalu pada baris berikutnya ketik php
+
+  
+
+00:42:36 info kurung buka kurung tutup titik koma lalu selesaikan dengan tanda tanya lebih besar daripada tahan tombol kontrol dan ketuk x ketik y dan tekan enter untuk menyimpan dan keluar untuk melihat apa yang telah dilakukan, buka browser web Anda dan ikuti ip alamat server ubuntu Anda masukkan garis miring ke depan info php dot php ini memberi kami banyak sekali informasi tentang instalasi php kami dan untuk alasan ini meskipun tidak penting di jaringan rumah jika ini adalah server web yang terhubung ke internet, Anda tidak akan mau mengungkapkan hal ini kepada
+
+  
+
+00:43:17 berhati-hatilah, mari kita hapus itu dan kita dapat melakukannya dengan mengetik sudo rm php info dot php dan sekarang jika saya menyegarkan halaman web, Anda dapat melihat bahwa informasi tersebut telah digunakan untuk memanfaatkan lampu Anda dengan benar tumpukan Anda memerlukan beberapa perangkat lunak tambahan, apa sebenarnya itu sepenuhnya terserah Anda, tetapi setidaknya Anda sekarang memiliki semua dasar jika Anda telah menonton video ini dari awal, Anda mungkin ingat bahwa server saya memiliki server fisik kedua. drive dan yang saya sebutkan saya akan menggunakan ini untuk penyimpanan data
+
+  
+
+00:43:51 dengan cara ini sistem operasi dapat terus menggunakan drive utama dan kami dapat menyimpan semua file kami di disk terpisah untuk membuat proses ini sedikit lebih mudah jika Anda belum melakukannya, saya sarankan menghubungkan dari jarak jauh ke Anda server menggunakan ssh karena dengan cara ini kita akan dapat dengan mudah menyalin dan menempelkan salah satu entri yang lebih panjang. Jika kita membersihkan layar, hal pertama yang ingin kita lakukan adalah membuat daftar drive yang terhubung ke server dan kita dapat melakukannya dengan memasukkan lsblk di mesin saya, saya mencari gigabyte SSD yang ini di sini sda
+
+  
+
+00:44:25 kita dapat melihat bahwa saat ini berisi dua partisi sda1 dan sda2 tetapi saya ingin memulai dari awal dengan menghapus tanda tangan tabel partisi saat ini dan kita dapat melakukannya dengan mengetik sudo wipe fs dash a yang merupakan singkatan dari all dan kemudian path ke drive yang dalam kasus saya adalah forwardslash dev forwardslashsda penting bagi Anda untuk mendapatkan bagian terakhir ini dengan benar karena Anda tidak ingin melakukan ini pada drive yang salah lalu masukkan kata sandi Anda untuk melanjutkan oke sekarang kita akan buat tata letak drive baru karena ini akan digunakan
+
+  
+
+00:45:02 menyimpan data kemungkinan besar Anda menggunakan drive besar jadi oleh karena itu saya sarankan Anda menggunakan perintah g disk untuk mempartisinya karena ini akan membuat tabel partisi gpt yang lebih cocok untuk drive yang lebih besar dan kita bisa melakukannya dengan mengetikkan sudo gdisk lalu path ke disk anda yang dalam kasus saya adalah forwardslash dev forwardslash sda lagi pastikan anda mendapatkan disk yang tepat agar tidak menimbulkan masalah besar kan kita akan mengetikkan huruf n dan tekan enter untuk membuat partisi baru kita akan memberikannya partisi nomor satu
+
+  
+
+00:45:38 kami ingin ini dimulai di awal drive, jadi tekan enter untuk menerima default dan untuk mempermudah, saya hanya akan membuat satu partisi yang memenuhi seluruh drive, jadi tekan enter lagi untuk melakukan ini dan kita dapat menekan enter lagi untuk menerima nilai default untuk kode hex atau panduan. Selesai, kita perlu menulis perubahan kita ke disk dan kita dapat melakukannya dengan memasukkan huruf w lalu mengetik y untuk melanjutkan, mari kita lihat partisi baru kita dengan memasukkan sudo g disk dash l dan kemudian jalur ke disk
+
+  
+
+00:46:13 dan di sini Anda dapat melihat partisi tunggal saya sekarang karena kita memiliki partisi, kita perlu membuat sistem file di dalamnya di windows Anda mungkin pernah mendengar tentang FAT32 dan ntfs tetapi karena ini Linux, saya sarankan kami menggunakan ext4 jadi mari kita ketik perintah sudo mkfs atau make file system dot ext4 dan kemudian partisi yang ingin kita buat yang dalam kasus saya adalah dev sda1 Anda dapat melihat bahwa ini hanyalah drive yang diikuti dengan nomor partisi jika Anda pernah selanjutnya kita hanya membuat satu partisi jadi jumlahnya harus satu ayo tekan
+
+  
+
+00:46:51 masuk untuk menjalankan perintah jika Anda mendapat pesan bahwa partisi saat ini berisi sistem file yang berbeda cukup masukkan y untuk menimpanya oke dengan pengaturan drive kedua kita sekarang perlu memasangnya tidak seperti windows linux tidak menggunakan huruf drive sebaliknya sistem operasi terletak di direktori root ketika kita menambahkan drive tambahan agar dapat diakses, kita perlu memasangnya di dalam direktori root ini dengan mudah ada folder mnt atau mount hanya untuk tujuan ini jadi mari kita navigasikan dulu ke sana dengan
+
+  
+
+00:47:25 mengetik cd atau mengubah direktori maju garis miring mnt selanjutnya mari kita buat titik mount ini hanyalah sebuah folder yang akan memasang disk kita dan kita dapat menggunakan perintah mkdir atau membuat direktori untuk melakukan ini, ketik sudo mkdir lalu nama yang ingin Anda berikan, saya hanya akan menggunakan drive jika diminta kata sandi Anda cukup masukkan dan jika kita menjalankan perintah ls kita akan melihat folder baru kita, saya akan menggunakan perintah cd untuk masuk ke dalamnya sekarang jika saya membuat file di dalamnya yang sebenarnya disimpan di file utama saya
+
+  
+
+00:48:06 drive sistem operasi itu karena meskipun kami telah membuat titik pemasangan, kami belum benar-benar memasang drive kedua ke sana jika saya menghapus file itu dan kembali ke direktori mnt dengan cara mengetik cd space two dots mengambil Anda naik satu level dari folder tempat Anda berada. Ini dikenal sebagai direktori induk. Kami akan membuat titik mount kami tidak dapat diubah. Ini berarti kami tidak dapat lagi meletakkan file apa pun di dalamnya. Ini adalah hal yang baik karena jika karena alasan tertentu drive penyimpanan kita tidak dapat dipasang
+
+  
+
+00:48:37 kami tidak ingin semua file berakhir di disk yang berisi sistem operasi, jadi masukkan sudo ch attr atau ubah atribut plus i lalu nama folder titik pemasangan Anda untuk memastikan itu berfungsi. masukkan folder itu lagi dan coba buat file pengujian lain dan seperti yang Anda lihat, file tersebut tidak mengizinkan kami dan tidak ada file pengujian di direktori jadi sekarang titik mount siap digunakan, saya akan kembali ke direktori mount ketika kami pasang drive kita bisa menggunakan jalur dev dan nomor partisinya
+
+  
+
+00:49:15 dalam kasus saya itu adalah forwardslash dev forwardslashsda1 masalah dengan metode ini adalah jika suatu saat Anda membongkar server dan memindahkan disk, tidak ada jaminan ketika Anda memasangnya kembali, drive akan dapatkan label yang sama sehingga cara yang lebih dapat diandalkan adalah dengan menggunakan apa yang dikenal sebagai uuid atau pengidentifikasi unik universal untuk menemukan ini untuk drive kita, kita dapat menggunakan perintah sudo blk id mengetahui bahwa partisi saya adalah sda1 saya dapat melihat uuidnya di sini kita' kembali akan menyalin uuid oleh
+
+  
+
+00:49:49 menggerakkan penunjuk mouse ke posisinya sambil menahan tombol kiri lalu menyeret hingga semuanya terseleksi dari u pertama hingga kutipan terakhir lalu lepaskan tombol, tahan tombol ctrl pada keyboard Anda dan tekan c dengan itu disalin kita akan mengedit file jadi ketik sudo nano garis miring dll garis miring fs tab kita bisa memasang drive secara manual tetapi kemudian kita harus melakukannya setiap kali kita me-restart server dengan menambahkan entri ke file tab fs itu akan dipasang secara otomatis setiap kali
+
+  
+
+00:50:26 boot server jadi gunakan tombol kursor untuk menuju ke bawah lalu gerakkan penunjuk tetikus Anda ke dalam jendela terminal dan klik kanan untuk menempelkan untuk melengkapi baris yang perlu kita ketikkan spasi ke depan, garis miring mnt, garis miring ke depan, dan nama Anda mount point yang milik saya adalah drive2 space ext4 space default space 0 space 2 jadi itu akan membawa drive tambahan kita mount ke titik mount yang kita buat menggunakan sistem file ext4 dan pengaturan mount default dua bidang terakhir singkatan dari dump an fsck atau pemeriksa sistem file masing-masing kita
+
+  
+
+00:51:07 tidak perlu masuk ke nilainya selain mengatakan bahwa pada drive sistem nun tambahan ini harus disetel ke nol dan dua kan, tahan tombol kontrol dan tekan x lalu ketik y dan tekan enter untuk simpan dan keluar, sebaiknya periksa apakah entri baru berfungsi seperti yang diiklankan karena kesalahan pada file tab fs dapat mencegah server Anda mulai memastikan semuanya baik-baik saja, ketik sudo mount dash dan tidak ada kesalahan selalu merupakan pertanda baik menjalankannya perintah terakhir baru saja memasang drive apa pun yang terdaftar di fstab
+
+  
+
+00:51:40 jika belum ada mulai sekarang, ini akan terjadi secara ajaib secara otomatis setiap kali Anda memulai server mengetik df h dan kemudian nama titik pemasangan menunjukkan kepada kita bahwa drive kedua memang telah dipasang juga jika kita sekarang masukkan drive yang terpasang dan saya mencoba dan membuat file pengujian kita dapat melihat bahwa itu berhasil ingat kita tidak dapat lagi membuat file di dalam titik mount itu sendiri tetapi sekarang kita sedang menulis ke disk kedua semuanya baik-baik saja ketika harus menambahkan drive ada satu area lagi yang ingin saya gambar
+
+  
+
+00:52:15 perhatian dan itu izin jika kita menambahkan tanda hubung l ke perintah daftar, kita dapat melihat lebih banyak informasi saat ini direktori ini dan semua yang ada di dalamnya dimiliki oleh root dan itulah salah satu alasan kita harus menyimpannya menggunakan perintah sudo ke depan ini mungkin bukan yang Anda inginkan jadi mari kita ubah sekarang saya akan pindah ke direktori mnt dan kemudian mengeluarkan perintah untuk menjadikan pengguna saya saat ini sebagai pemilik direktori drive2 yaitu sebagai berikut sudo ch memiliki atau mengubah modal tanda hubung pemilik r
+
+  
+
+00:52:50 diikuti dengan nama pengguna yang ingin kita ambil kepemilikannya lalu nama direktori diikuti dengan garis miring pop di kata sandi Anda jika diminta dan jika kita masuk ke folder itu lagi dan sekali lagi daftar konten Anda dapat melihat bahwa saya akun oleh pi saya sekarang memiliki file dalam direktori ini catatan ini karena kami menggunakan opsi dash capital r pada perintah ch sendiri tanpanya meskipun kami masih mengambil kepemilikan direktori ini tidak akan diterapkan pada file yang ada di dalamnya juga ketika menyangkut izin file
+
+  
+
+00:53:24 kita perlu memutuskan jenis akses apa yang dimiliki pengguna. Anda pasti memperhatikan huruf dan tanda hubung di awal setiap entri. Ini secara visual mengidentifikasi izin file dan diatur sebagai grup pemilik dan lainnya jika kita mengikuti tes file yang saya buat sebelumnya sebagai contoh saat ini memiliki izin rw atau baca tulis yang diberikan kepada pemilik dan izin r atau baca yang diberikan kepada grup dan orang lain sementara kita dapat mengubah izin pada file ini satu per satu, seringkali lebih berguna untuk melakukannya di
+
+  
+
+00:53:53 seluruh direktori jadi mari kita kembali lagi ke direktori mnt dan kali ini kita akan menggunakan perintah chmod untuk mengubah izin jadi ketik sudo chmod kita akan menggunakan tanda hubung kapital r lagi untuk membuatnya rekursif dan i' Saya akan menggunakan tujuh lima nol. Angka-angka ini masing-masing mewakili grup pemilik dan yang lainnya. Inilah yang dikenal sebagai notasi oktal dan lebih cepat untuk menulis daripada menggunakan huruf rwx seperti yang Anda lihat dari tabel di layar, setiap angka mewakili beberapa izin pada dasarnya Anda hanya perlu mengingat satu
+
+  
+
+00:54:29 dua dan empat sebagai nol karena tidak ada izin masuk akal dan tiga lima enam dan tujuh dihasilkan oleh kombinasi satu dua dan empat misalnya baca yang empat ditambah kanan yang dua dan jalankan yang satu tambah hingga tujuh jadi dalam perintah saat ini angka tujuh akan memberikan izin baca tulis dan eksekusi dengan kata lain kontrol penuh kepada pemilik nomor lima akan memberikan izin baca dan eksekusi kepada grup dan angka nol tidak memberikan izin kepada orang lain yaitu semua orang kalau tidak
+
+  
+
+00:55:00 ini adalah konfigurasi yang cukup aman bagi pengguna default sehingga untuk menyelesaikannya kita hanya perlu memasukkan nama direktori tempat kita menerapkannya yang dalam kasus saya adalah drive2 dan saya akan membuat garis miring ke depan pada end dan jika kita kembali ke direktori dan mencantumkan isinya, perhatikan bahwa pemilik saat ini menggigit pai saya telah membaca, menulis, dan menjalankan izin pada semua entri, grup saat ini root telah membaca dan menjalankan izin dan yang lain tidak memiliki izin, jadi tanpa menggunakan sudo saya sekarang seharusnya bisa melakukan perubahan
+
+  
+
+00:55:34 di dalam folder ini pertama saya akan mencoba dan menghapus file tes dan itu hilang dan sekarang saya akan mencoba dan membuat file baru bernama banyak pi dan itu dia di bagian terakhir kami menambahkan sebuah drive tambahan untuk penyimpanan tidak apa-apa tetapi untuk membuatnya benar-benar berguna dan untuk membenarkan memasukkannya ke dalam server, ini benar-benar ingin tersedia melalui jaringan ada beberapa cara yang bisa kita lakukan untuk mencapai nfs sftp ini dan lain-lain. tapi saya sarankan untuk kompatibilitas terbaik dengan yang terluas
+
+  
+
+00:56:13 berbagai perangkat kita menggunakan samba terlebih dahulu mari kita periksa apakah manajer paket sudah yang terbaru dan sekarang mari kita instal samba ya kita ingin melakukan itu dengan perangkat lunak yang terinstal kita sekarang perlu mengkonfigurasinya mari kita mulai dengan menyiapkan a akun pengguna untuk melakukan ini gunakan akun yang ada di server dan tambahkan ke samba dengan mengetikkan sudo smb pa double swd dash a dan kemudian nama pengguna akun yang ada jadi saya akan menggunakan beli pai saya sekarang kita perlu membuat samba kata sandi untuk pengguna ini agar segala sesuatunya tetap lancar, saya akan melakukannya
+
+  
+
+00:56:57 sarankan menggunakan kata sandi yang sama yang biasa Anda gunakan untuk akun ini jadi saya akan menggigit kata sandi pai saya dan kemudian mengonfirmasinya dengan pengaturan akun. Mari masuk ke direktori etsy samba dan kita akan pergi ke edit file konfigurasi seseorang tetapi pertama-tama mari kita buat cadangan dari yang asli dan kemudian kita dapat mengedit file dengan mengetik sudo tahan tombol kontrol dan tekan end untuk melompat ke akhir file dan saya akan tekan enter untuk pindah menambahkan satu baris komentar adalah opsional tetapi merupakan praktik yang baik
+
+  
+
+00:57:39 jelaskan apa yang akan dilakukan kode apa pun yang Anda tambahkan, jadi jika kita memasukkan hash lalu mengetikkan deskripsi singkat, saya akan menyebutnya drive bersama saya di baris berikutnya kita akan memberikan bagiannya a nama ini perlu diketik di dalam tanda kurung siku saya akan menggunakan bagian yang biasanya imajinatif di bawahnya kita perlu memasukkan spasi jalur sama dengan spasi dan kemudian jalur ke direktori yang akan Anda bagikan di server yang menurut saya kasusnya adalah garis miring mnt ke depan garis miring drive untuk mengetik ke bawah pada pengguna ruang yang valid
+
+  
+
+00:58:16 spasi sama spasi lalu nama pengguna akun samba anda yang bagi saya adalah bite my pie lalu pada baris terakhir masukkan read space only space sama spasi dan jika ingin bisa menulis ke drive ketik no oke tahan tombol kontrol dan tekan x ketik y dan tekan enter dengan konfigurasi disimpan kita perlu me-restart layanan samba agar dapat diterapkan jadi mari kita masukkan perintah sudo system ctl restart smbd dot service akhirnya mari kita periksa konfigurasi samba kita untuk kesalahan Anda dapat melihat bahwa layanannya
+
+  
+
+00:58:59 file dimuat oke jadi mari kita tekan enter untuk menampilkan definisi layanan dan ada share samba yang kita buat di bagian bawah melompat ke mesin windows saatnya mencobanya saya akan membuka file explorer dan mengetikkan alamatnya bar backslash backslash alamat ip server ubuntu backslash dan kemudian nama yang Anda berikan untuk share Anda jika Anda ingat saya cukup memanggilmineshare ketika Anda mengetik milik Anda, tekan tombol enter dan itu akan meminta kredensial untuk terhubung ke Anda server jadi ketikkan nama pengguna dan kata sandi
+
+  
+
+00:59:36 dari akun yang Anda tambahkan ke samba jika Anda akan sering menggunakan ini, saya sarankan mencentang kotak ingat kredensial saya lalu klik ok untuk menghubungkan dan hanya itu, kami sekarang memiliki akses ke drive bersama kami Anda dapat melihat banyak file pi yang saya buat sebelumnya untuk menyelamatkan kita dari keharusan mengetikkan alamat setiap kali kita ingin terhubung ke share kita jika kita mengklik ikon folder kecil dan menyeretnya ke akses cepat lalu lepaskan kita sekarang memiliki pintasan praktis yang akan membawa kita langsung ke jaringan berbagi kita
+
+  
+
+01:00:07 dan sebagai tes terakhir mari kita coba menghapus banyak pi dan membuat folder baru untuk meletakkan sesuatu di server ubuntu dikirimkan dengan firewall bawaan tetapi secara default dimatikan kita dapat melihatnya dengan menjalankan perintah sudo ufw status sebentar lagi kami akan mengaktifkan firewall namun Anda harus berhati-hati jika Anda login dari jarak jauh karena Anda dapat mengunci diri secara tidak sengaja. Hal ini karena secara default firewall hanya mengizinkan lalu lintas keluar dan akan memblokir apa pun yang mencoba masuk jadi jika Anda ingin menggunakannya, Anda perlu melakukannya
+
+  
+
+01:00:49 pastikan bahwa akses ssh diizinkan dan untuk melakukan ini kita akan menambahkan aturan firewall dengan memasukkan sudo ufw izinkan ssh setelah itu selesai mari kita nyalakan firewall dengan mengetik sudo ufw aktifkan dan jika saya melompat ke perintah prompt dari mesin windows dan mencoba untuk terhubung menggunakan ssh Anda dapat melihat bahwa meskipun firewall sekarang diaktifkan kita masih dapat terhubung dari jarak jauh kembali ke server katakanlah Anda kemudian memutuskan Anda tidak ingin akses ssh jarak jauh setelah semua Anda dapat memblokirnya dengan memasukkan Sudo ufw reject ssh sekarang jika saya mencoba dan terhubung dari jarak jauh
+
+  
+
+01:01:35 dari mesin windows Anda dapat melihat bahwa setelah beberapa saat koneksi terputus dengan operasional firewall Anda harus berhenti dan memikirkan semua koneksi Anda ke server bahkan di jaringan lokal Anda misalnya jika Anda mengatur berbagi jaringan menggunakan samba Anda juga ingin mengizinkan akses yang dapat Anda lihat saat ini diblokir jadi kembali ke server kita perlu memasukkan sudo ufw izinkan samba dan jika saya coba lagi di komputer windows kita sekarang diizinkan masuk kembali jika Anda memutuskan untuk mengonfigurasi aturan firewall
+
+  
+
+01:02:18 bukan untuk Anda dan Anda lebih suka mematikan firewall kembali. Anda dapat melakukannya dengan mengetik sudo ufw menonaktifkan inti dari server adalah untuk melayani layanan melalui jaringan sehingga bisa sangat berguna untuk mendapatkannya untuk mengetahui perintah netstat karena ini menampilkan informasi tentang koneksi jaringan untuk mendapatkan hasil maksimal kita perlu menjalankannya sebagai admin dengan menggunakan sudo dan untuk mendapatkan lebih banyak manfaat darinya kita dapat menambahkan beberapa opsi baris perintah. Serangkaian opsi yang populer adalah tu lpn karena masing-masingnya akan menunjukkan kepada kita kumpulan data yang berbeda seperti yang ditunjukkan di layar
+
+  
+
+01:02:55 sebelum kita dapat menjalankan perintah ini, kita harus menginstalnya terlebih dahulu, jadi ketik sudo apt install net dash tools untuk melakukannya dan sekarang mari kita jalankan perintah netstat, setiap baris mewakili koneksi jaringan yang berbeda di sebelah kiri adalah jenisnya protokol jaringan baik tcp atau udp kami memiliki alamat lokal dan yang lebih penting nomor port apakah koneksi mendengarkan dengan kata lain layanan yang sedang berjalan menunggu untuk dihubungi dan nama program atau proses yang membuat layanan tersebut
+
+  
+
+01:03:36 untuk mencoba dan lebih memahami apa yang terjadi di sini mari kita ambil baris ini sebagai contoh. Kita dapat melihat ini menunjukkan kepada kita layanan smbd atau samba yang menggunakan protokol tcp dan beroperasi pada port 445, juga dalam format keadaan mendengarkan dan siap untuk dihubungkan dengan menggunakan perintah netstat kita dapat melihat sekilas layanan apa yang disediakan server untuk jaringan meskipun itu adalah tur yang cukup mudah-mudahan keluaran dari perintah netstat tidak lagi tampak seperti daftar
+
+  
+
+01:04:07 teks tidak berarti Area penting lainnya saat memantau server adalah sumber daya ada beberapa perintah populer yang dapat kita gunakan di sini secara historis, yang teratas ini menunjukkan kepada kita proses yang berjalan di server, berguna untuk dapat melihat apa yang digunakan meningkatkan sumber daya server terutama dalam situasi di mana Anda mungkin tidak memiliki proses perangkat keras yang sangat kuat dengan menggunakan sebagian besar sumber daya yang tercantum di atas, mari tekan q untuk keluar dari sana, alternatif yang lebih berguna dan lebih baru adalah h-top meskipun hal ini telah terjadi
+
+  
+
+01:04:40 sekitar sejak tahun 2004 Anda dapat menganggap h-top seperti steroid, mungkin yang paling berguna, ia juga interaktif sehingga dapat memantau sumber daya sistem dengan menggunakan perintah yang tercantum di bagian bawah layar. dapat menganalisis informasi lebih dekat katakanlah saya ingin mencari proses yang terhubung dengan samba jika saya menekan tombol f3 dan memasukkan seseorang itu akan menyorot proses yang sedang berjalan yang memenuhi kriteria ini menekan f3 lagi akan menemukan proses selanjutnya berjalan seseorang dan kita dapat siklus melalui mereka menggunakan
+
+  
+
+01:05:16 kunci f3 melihat lebih dekat pada proses tertentu Anda dapat melihat bahwa itu menunjukkan pid atau pengidentifikasi proses ini adalah nomor yang ditetapkan padanya kita juga dapat melihat pengguna bahwa proses sedang berjalan seperti dalam kasus ini root cpu dan kolom memori sangat penting karena kolom ini menunjukkan persentase masing-masing prosesor dan ram server yang sedang digunakan proses dan kolom perintah menampilkan lokasi perintah yang menjalankan proses di sini adalah garis miring pengguna garis miring spin smbd
+
+  
+
+01:05:48 kita dapat menekan tombol escape untuk membatalkan pencarian opsi lain yang berguna adalah f9 kill jika suatu proses menjadi kacau dan menghabiskan terlalu banyak sumber daya berharga server Anda, Anda dapat menutupnya secara paksa, katakanlah h top sendiri menjadi tidak terkendali karena berada di urutan teratas daftar saat ini menggunakan sumber daya paling banyak tetapi itu hanya karena saat ini saya tidak meminta server untuk melakukan hal lain, tetap saja anggap saja prosesnya tidak berjalan dengan baik dan kita harus mematikannya dengan proses yang disoroti perlu kita lakukan
+
+  
+
+01:06:20 tekan tombol f9 ini menampilkan perintah kirim sinyal secara default akan menggunakan istilah sig ini adalah cara sopan untuk meminta proses ditutup tetapi jika prosesnya sangat keras kepala Anda dapat memilih sesuatu yang lebih drastis seperti sig kill jadi mari kita tekan enter untuk mematikan h-top dengan sopan dan Anda dapat melihat bahwa kita sekarang memiliki command prompt kembali di bagian bawah layar tentu saja jika kita menjalankan h-top lagi cara yang lebih baik untuk keluar dari program adalah dengan menggunakan f10 kunci beberapa tip sebelum kita menyelesaikan video ini jika Anda mengetik perintah
+
+  
+
+01:06:56 khususnya saat Anda menavigasi direktori, Anda dapat membuat hidup Anda lebih mudah dengan menggunakan sesuatu yang disebut penyelesaian tab sebagai contoh, katakanlah saya ingin membuka direktori root server web Apache jika saya mulai mengetik cd garis miring var garis miring tapi kemudian alih-alih mengetikkan nama direktori lengkap www saya mengetik w lalu tekan tombol tab perhatikan bagaimana secara otomatis mengisi sisa nama folder dan kemudian jika saya melakukan hal yang sama lagi kali ini alih-alih mengetik html saya cukup mengetik h dan tekan tombol tab sekali lagi
+
+  
+
+01:07:32 otomatis menyelesaikan entri jelas ini dapat menghemat banyak pengetikan terutama jika melibatkan jalur yang lebih panjang. Hal terakhir yang ingin saya sebutkan adalah perintah man atau manual jika Anda mengalami kebuntuan dan tidak yakin apa sebuah perintah dilakukan di terminal Anda dapat melihat manualnya semoga sekarang Anda tahu tujuan dari perintah sudo tetapi jika Anda tidak yakin Anda bisa mengetik man sudo dan ini memberi Anda banyak informasi tentang perintah tertentu termasuk perintah apa pun opsi yang tersedia setelah Anda selesai mencarinya
+
+  
+
+01:08:04 Anda dapat menekan q untuk keluar dari sana dan itu saja. Sekarang saya akan mematikan server saya, tetapi Anda mungkin ingin membiarkan server Anda tetap berjalan dan itu membawa kita ke akhir video yang satu ini. menjadi sedikit lebih teknis dari biasanya semoga tidak terlalu banyak dengkuran yang terjadi di barisan belakang menjalankan server bukan untuk semua orang tetapi bagi mereka yang ingin melihat lebih dekat mur dan baut sistem dan mendapatkan keuntungan pemahaman yang lebih baik tentang apa yang terjadi di balik layar menyiapkan server secara manual adalah hal yang bagus
+
+  
+
+01:08:37 pengalaman belajar dan dengan pembaruan selama lima tahun untuk versi lts, server ubuntu adalah tempat yang bagus untuk memulai, ada banyak sekali server di luar sana, mungkin sekarang akan ada satu lagi saat Anda mulai mengelola server Anda sendiri seperti biasa jika Anda menikmati video ini, silakan suka dan berlangganan dan jika Anda ingin diberi tahu saat saya memposting video berikutnya, cukup klik ikon lonceng, terima kasih telah menonton dan sampai jumpa lagi.

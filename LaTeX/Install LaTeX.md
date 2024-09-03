@@ -12,11 +12,3 @@ I recommend using a specific editor for LaTeX. My favorite is Texmaker, a cross-
 
 `sudo apt-get install texmaker`
 
-### 3. Create your first document
-
-Open Texmaker and click on **File, New**. Then put the following code:
-
-`\documentclass{article} \begin{document} Hello, world! \end{document}`
-
-Now save the document as a _tex_ file going to **File, Save**. Finally, compile the document clicking on **Tools, PDFLaTeX**. Make sure the PDF file has been created and it's working. And that's it! You've created your first LaTeX document!
-

@@ -110,6 +110,7 @@ First, we need to create a space on your computer where we’ll build our projec
     - This is like setting up the address for our webpage. Open `hellodjango/urls.py` and add the following code:
     ```python
     from homepage.views import HomepageView
+    
     path('', HomepageView.as_view(), name='home'),
     ```
 

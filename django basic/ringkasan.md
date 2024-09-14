@@ -19,6 +19,7 @@ templates/index.html >> add
 <h1>Greetings</h1>
 <p>Hello, world!</p>
 <p>{{ my_statement }}</p>
+<p>{{ view.say_bye }}</p>
 ```
 
 homepage/views.py >> replace
@@ -32,6 +33,9 @@ class HomepageView(TemplateView) :
         context = super().get_context_data(**kwargs)
         context['my_statement'] = 'Nice to see you!'
         return context
+        
+    def say_bye(self):
+        return 'Goodbye'
 ```
 
 hellodjango/urls.py >> add

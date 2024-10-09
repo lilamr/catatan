@@ -9,6 +9,14 @@
 ![[Pasted image 20241009120505.png]]
 ![[Pasted image 20241009120519.png]]
 ![[Pasted image 20241009120534.png]]
+![[Screenshot from 2024-04-23 10-00-14.png]]
+![[Screenshot from 2024-08-26 11-04-56.png]]
+![[Screenshot from 2024-04-23 10-03-48.png]]
+![[Screenshot from 2024-04-23 10-10-03.png]]
+![[Screenshot from 2024-04-23 10-22-32.png]]
+![[Screenshot from 2024-04-23 10-36-18.png]]
+![[Screenshot from 2024-04-23 10-38-47.png]]
+
 
 
 latar belakang:  

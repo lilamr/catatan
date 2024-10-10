@@ -35,7 +35,7 @@ Pembagian blok dilakukan berdasarkan pertimbangan:
 
 ### Olah data shp
 - crs
-- sistem koordinat
+- [[sistem koordinat]]
 - base map
 - atribut tabel/join
 - filter

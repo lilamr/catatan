@@ -1,4 +1,7 @@
 Kerangka pemikiran
+
+SOSEK, EKOLOGI, KELEMBAGAAN >> OUTCOME >> OUTPUT >> PROSES >> INPUT
+
 ![[Pasted image 20240810021355.png]]
 
 

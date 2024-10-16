@@ -11,6 +11,8 @@ The sustainability criteria covered are:
 3 - 6 : Ekologi (Lahan kritis, kelas DAS, Tanah, geologi, iklim, curah hujan, kelerengan, tuplah)
 7 : Kelembagaan (Sarpras, SDM, anggaran, aturan)
 
+SOSEK, EKOLOGI, KELEMBAGAAN >> OUTCOME >> OUTPUT >> PROSES >> INPUT
+
 Sumber : Criteria and indicators for sustainable forest management. Papers presented at a IUFRO
 
 ![[Pasted image 20240811083706.png]]

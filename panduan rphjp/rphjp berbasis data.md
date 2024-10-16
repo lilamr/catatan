@@ -6,7 +6,12 @@
 
 tesis utama:  
 disatu sisi kondisi ekternal yang dapat mempengaruhi kawasan hutan semakin dinamis. disisi lain prrencanaan hutan banyak dikeluhkan tidak aplikatif.  
-  
+  - kasus perambahan 1998 (pengaruh terhadap ekologi)
+  - kasus covid (pengaru terhadap anggaran)
+  - kasus uuck (pengaruh terhadap kewenangan)
+
+Menyebabkan perencanaan menjadi tidak aplikatif >> pesimis ditingkat pengelola >> perenanaan asal jadi.
+
 secara umum perencanaan mempunyai dua fungsi, kedepan dan evalusi  
   
   

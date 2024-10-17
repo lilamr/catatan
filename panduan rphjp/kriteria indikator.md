@@ -140,8 +140,16 @@ I: Wilayah kerja
 L: SDM
 M: Evaluasi
 
+===========================================
+![[Pasted image 20241017102726.png]]
 
+![[Pasted image 20241017102907.png]]
 
+![[Pasted image 20241017103008.png]]
+
+Wright, P. A., G. Alward, J.L. Colby, T.W. Hoekstra, B. Tegler, and M. Turner. 2002. Monitoring for forest management unit scale sustainability: The local unit criteria and indicators development (LUCID) test (management edition). Fort Collins, CO: USDA Forest Service Inventory and Monitoring Report No. 5. 54 p.
+
+==========================================
 
 Social and economic indicators need to make sense at small scales, and to relate to local communities. Improved methods are required for exploring and agreeing on ‘trade-offs’ between social, economic and biological values. 
 

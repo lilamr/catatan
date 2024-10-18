@@ -4,3 +4,4 @@ permasalahan banyak > banyak yang harus dikerjakan > anggaran terbatas > tidak a
 
 Dokumen perencanaan yang menyenangkan dan mencerahkan untuk dibaca oleh semua level dan kepentingan.
 
+Kegiatan tidak jelas pembagian waktu dan lokasinya. Harusnya per tahun per lokasi. seperti dokumen RKU-RKT.

@@ -10,40 +10,57 @@
 ## Bab II Deskripsi Kawasan
 ### Risalah Wilayah:
 - letak 
-- luas
 - batas wilayah
+- luas
+	- fungsi
+	- kelompok hutan
 - pembagian blok
+	- piaps
+	- pippib
+	- paph
 - aksesibilitas
 - sejarah kawasan
-- pembagian das
 ### Biofisik:
 - iklim
 - geologi dan tanah
 - topografi
-- tingkat kekritisan lahan
-### Potensi:
 - penutupan lahan
+- tingkat kekritisan lahan
+- pembagian das
+### Potensi:
 - potensi kayu
 - potensi non kayu
+- potensi wisata alam
+- potensi jasling lainnya
 - tumbuhan dan satwa langka
-- potensi jasling dan wa
-### Sosial budaya:
+### Sosekbud:
 - desa sekitar
 - suku dan bahasa
 - kependudukan
 - pendidikan
 - mata pencaharian
+- komoditas
 - masyarakat hukum adat
+- kearifan lokal
 - interaksi dengan hutan
-### Pemanfaatan dan Penggunaan Kawasan Hutan:
+### Pemanfaatan dan Penggunaan Kawasan Hutan (Perizinan):
 - pbph
 - ppkh
 - ps
-### Posisi areal kerja dalam RTRW provinsi dan kab
+- pbphh
+### Posisi areal kerja
+- RKTN
+- RTRW Provinsi
+- RTRW Kab
+- Renja FOLU
 ### Isu strategis:
 - kelembagaan/ organisasi
-- kendala
-- permasalahan
+	- struktur
+	- kewenangan
+	- anggaran
+	- SDM
+- kendala???
+- permasalahan???
 - swot
 ## Bab III Visi-Misi
 ### Pernyataan visi
@@ -60,6 +77,16 @@
 - analisa data potensi hhbk
 - analisa data potensi jasling dan wa
 ### Proyeksi kondisi wilayah kph masa datang
+- Kelembagaan
+	- risalah wilayah
+	- posisi areal kerja
+	- isu strategis
+- Ekologi
+	- biofisik
+	- potensi
+- Ekonomi
+	- sosekbud
+	- perizinan
 ## Bab V Rencana Kegiatan
 ### Penyusunan rencana pengelolaan hutan
 ### Koordinasi perencanaan dengan pemegang izin
@@ -71,14 +98,7 @@
 - inventarisasi dan perencanaan
 - rhl
 - pemanfaatan dan penggunaan
-- perlindungan dan pengamaetak 
-- luas
-- batas wilayah
-- pembagian blok
-- aksesibilitas
-- sejarah kawasan
-- pembagian das
-nan hutan
+- perlindungan dan pengamanan hutan
 ### perhutanan sosial
 ### pengukuhan dan penataan batas
 ### investasi dan industri hasil hutan

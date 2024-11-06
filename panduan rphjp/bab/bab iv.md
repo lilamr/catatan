@@ -1,21 +1,31 @@
 ## Bab IV Analisa Proyeksi
 ### Analisa data dan informasi
-- analisa data pemanfaatan hutan 
-- analisa data penggunaan
-- analisa data perhutanan sosial
-- analisa data lahan kritis
-- analisa data permasalahan kawasan hutan
-- analisa data potensi hhk
-- analisa data potensi hhbk
-- analisa data potensi jasling dan wa
+- Kelembagaan
+	- risalah wilayah [[bab ii#Risalah Wilayah]]
+	- posisi areal kerja [[bab ii#Posisi areal kerja]]
+	- isu strategis [[bab ii#Isu strategis]]
+		- analisa data permasalahan kawasan hutan
+- Ekologi
+	- biofisik [[bab ii#Biofisik]]
+		- analisa data lahan kritis
+	- potensi [[bab ii#Potensi]]
+		- analisa data potensi hhk
+		- analisa data potensi hhbk
+		- analisa data potensi jasling dan wa
+- Ekonomi
+	- sosekbud [[bab ii#Sosekbud]]
+	- perizinan [[bab ii#Pemanfaatan dan Penggunaan Kawasan Hutan (Perizinan)]]
+		- analisa data pemanfaatan hutan
+		- analisa data penggunaan
+		- analisa data perhutanan sosial
 ### Proyeksi kondisi wilayah kph masa datang
 - Kelembagaan
-	- risalah wilayah
-	- posisi areal kerja
-	- isu strategis
+	- risalah wilayah [[bab ii#Risalah Wilayah]]
+	- posisi areal kerja [[bab ii#Posisi areal kerja]]
+	- isu strategis [[bab ii#Isu strategis]]
 - Ekologi
-	- biofisik
-	- potensi
+	- biofisik [[bab ii#Biofisik]]
+	- potensi [[bab ii#Potensi]]
 - Ekonomi
-	- sosekbud
-	- perizinan
+	- sosekbud [[bab ii#Sosekbud]]
+	- perizinan [[bab ii#Pemanfaatan dan Penggunaan Kawasan Hutan (Perizinan)]]

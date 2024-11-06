@@ -1,6 +1,6 @@
 ## Bab II Deskripsi Kawasan
 ### Risalah Wilayah:
-- letak 
+- letak
 	- Secara administratif, KPH terletak di Kabupaten ... dan Kab.... Meliputi ... Kecamatan dan ... Desa.
 - batas wilayah
 	- Di sebelah utara, KPH berbatasan dengan wilayah KPH
@@ -20,7 +20,7 @@
 		- luas arahan pemanfaatan kawasan hutan di kph seluas...
 	- Berdasarkan peta indikatif diatas, serta mempertimbangkan perizinan yang ada atau sedang berjalan dan kondisi aktual di lapangan (biofisik maupun sosial) KPH dibagi kedalam... blok yaitu
 - aksesibilitas
-	- Sekitar kawasan KPH dikelilingi oleh jalan provinsi dan kabupaten. Terdapat juga wilayah KPH yang dibelah oleh jalan sepanjang... Untuk menuju objek-objek penting dalam wilayah KPH seperti wilayah izin wistaa alam, dapat ditempuh dengan ...
+	- Sekitar kawasan KPH dikelilingi oleh jalan provinsi dan kabupaten. Terdapat juga wilayah KPH yang dibelah oleh jalan sepanjang... Untuk menuju objek-objek penting dalam wilayah KPH seperti wilayah izin wistaa alam, dapat ditempuh dengan ... 
 - sejarah kawasan
 	- KPH ditetapkan berdasarkan ... sebagai KPH unit ... Kemudian di tahun .... berdasarkan Peraturan Gubernur ... ditetapkan menjadi UPTD Dinas LHK Provinsi NTB.
 	- Kawasan hutan wilayah KPH terdiri dari Kelompok Hutan... Adapun sejarah pembentukan kawasan hutan pada kelompok hutan tersebut adalah...

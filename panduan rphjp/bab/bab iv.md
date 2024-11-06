@@ -1,6 +1,6 @@
 ## Bab IV Analisa Proyeksi
 ### Analisa data dan informasi
-- analisa data pemanfaatan hutan
+- analisa data pemanfaatan hutan 
 - analisa data penggunaan
 - analisa data perhutanan sosial
 - analisa data lahan kritis

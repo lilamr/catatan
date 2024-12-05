@@ -29,3 +29,120 @@
 00:09:05	That may feel somewhat more worry-making, angst-making than planning, but I would tell you that if you plan, that's a way to guarantee losing. If you do strategy, it gives you the best possible chance of winning.
 
 https://www.youtube.com/watch?v=iuYlGRnC7J8
+
+
+
+
+
+Takeaways:
+1. Strategy and planning are not the same thing. Strategy involves making integrative choices that position you on a playing field of your choice in a way that you win.
+2. A great strategy must have a coherent theory, be doable, and be translatable into actions.
+3. Planning does not require coherence, but it is comfortable because it involves the resources you can control.
+4. Strategy requires putting yourself out and specifying an outcome that involves customers wanting your product or service enough that they will buy enough of it to make the profitability that you'd like to make.
+5. You do not control the customers, which makes strategy a trickier task.
+
+How:
+1. Start by identifying the playing field you want to be on. Determine where you can win.
+2. Develop a theory as to why this playing field is the right one for you to be on.
+3. Determine how you will win on this playing field. What can you do to serve the customers on this playing field better than anyone else?
+4. Translate your theory and choices into concrete actions.
+
+Imagine:
+Think of strategy as a map. The map has to show you where you are and where you want to go. It should also show you the terrain and the obstacles you may encounter along the way. Without a map, you'll be lost, and without a strategy, you'll be directionless.
+
+Why:
+
+1. Strategy involves making integrative choices that position you on a playing field of your choice in a way that you win.
+2. A great strategy must have a coherent theory, be doable, and be translatable into actions.
+3. Planning is comfortable because it involves the resources you can control.
+4. Strategy requires putting yourself out and specifying an outcome that involves customers wanting your product or service enough that they will buy enough of it to make the profitability that you'd like to make.
+5. You do not control the customers, which makes strategy a trickier task.
+
+Perspective:
+
+1. Instead of focusing on the activities you want to engage in, focus on the outcomes you want to achieve.
+2. Instead of listing a set of activities that sound good, identify a set of choices that will make you win on the playing field you choose.
+3. Instead of trying to control the customers, focus on serving them better than anyone else.
+
+
+What:
+1. Focus on a specific market segment and differentiate from competitors.
+2. Keep the business model simple and streamlined.
+3. Use a clear and concise strategy that is easy to communicate and understand.
+4. Accept uncertainty and take calculated risks.
+5. Continuously monitor and adjust the strategy based on the changing environment.
+
+How:
+1. Fly point-to-point instead of hub-and-spoke.
+2. Use only one type of aircraft to simplify operations.
+3. Avoid offering meals on short flights to reduce costs.
+4. Encourage customers to book online to save money.
+5. Avoid booking through travel agents to reduce costs.
+
+imagine:
+Southwest Airlines chose to navigate through a less crowded and less risky path in the airline industry. They chose to fly point-to-point instead of the hub-and-spoke model used by major carriers, which is comparable to taking a direct flight instead of making multiple stops. They also focused on using only one type of aircraft, which is like having a specialized tool for a specific task. By keeping their business model simple and streamlined, they were able to reduce costs and offer lower prices to customers.
+
+Case:
+To apply these principles and tactics to your own situation, you need to first identify your target market and differentiate yourself from your competitors. 
+Simplify your business model and focus on one or two key strengths that set you apart. 
+Use a clear and concise strategy that is easy to communicate and understand. 
+Take calculated risks and accept uncertainty, and continuously monitor and adjust your strategy based on the changing environment.
+
+Why:
+1. Flying point-to-point reduces aircraft waiting time and increases efficiency.
+2. Using only one type of aircraft simplifies operations and reduces maintenance costs.
+3. Avoiding offering meals on short flights reduces costs and increases efficiency.
+4. Encouraging customers to book online reduces costs and increases convenience.
+5. Avoiding booking through travel agents reduces costs and allows for direct communication with customers. 
+
+Perspective:
+1. Southwest's success is a result of taking a different approach to the airline industry and offering a unique value proposition to customers.
+2. Southwest's business model is an example of the importance of simplicity and efficiency in achieving success.
+3. Southwest's success can be attributed to their ability to continuously monitor and adjust their strategy based on the changing environment.
+
+
+
+What:
+1. Flexibility: A good strategy is flexible and adaptable to changes in the environment or circumstances.
+2. Clarity: A clear understanding of the end goal and how to achieve it is crucial for a successful strategy.
+3. Focus: A strategy must prioritize and focus on the most important objectives to avoid spreading resources too thin.
+4. Agility: The ability to act quickly and make decisions under pressure is necessary for a successful strategy.
+5. Resourcefulness: A good strategy utilizes available resources effectively and efficiently.
+6. Innovation: Innovative thinking is necessary to create a unique and effective strategy.
+7. Risk management: Risk assessment and mitigation strategies should be incorporated into the overall strategy.
+
+How:
+1. SWOT analysis: Evaluate strengths, weaknesses, opportunities, and threats to create a strategic plan.
+2. Competitive analysis: Identify competitors, their strengths and weaknesses, and how to differentiate from them.
+3. Market segmentation: Divide the market into groups and create targeted strategies for each segment.
+4. Branding: Develop a strong brand identity that aligns with the overall strategy.
+5. Differentiation: Identify unique selling points to differentiate from competitors.
+6. Marketing mix: Use the 4 Ps (product, price, promotion, and place) to develop a comprehensive marketing strategy.
+7. Continuous improvement: Regularly evaluate and adjust the strategy to ensure it remains effective.
+
+Imagine: 
+Think of strategy as a roadmap to your destination. Without a roadmap, you may get lost or take longer to reach your destination. However, if you stick too strictly to the roadmap, you may miss out on more efficient or scenic routes. The key is to have a flexible plan that allows for detours and adjustments as needed, while still keeping the end goal in sight.
+
+How:
+1. Identify your goals and objectives
+2. Evaluate your strengths, weaknesses, opportunities, and threats
+3. Identify your target audience and segment the market
+4. Develop a unique value proposition and differentiation strategy
+5. Create a comprehensive marketing strategy utilizing the 4 Ps
+6. Continuously evaluate and adjust the strategy as needed
+
+Why:
+1. Flexibility allows for adaptability to changes in the environment or circumstances.
+2. Clarity ensures a clear understanding of the end goal and how to achieve it.
+3. Focus prioritizes and maximizes the use of resources.
+4. Agility allows for quick decision-making and action under pressure.
+5. Resourcefulness ensures effective and efficient use of available resources.
+6. Innovation encourages unique and effective strategies.
+7. Risk management assesses and mitigates potential risks for a successful strategy. 
+
+Perspective:
+1. The importance of understanding your target audience and creating a targeted marketing strategy.
+2. The role of innovation in creating a successful strategy.
+3. How to balance flexibility and focus in a strategic plan.
+4. The impact of risk management on overall strategy success.
+5. The benefits of continuously evaluating and adjusting the strategy.

@@ -1,3 +1,11 @@
+https://www.youtube.com/watch?v=PdQh99WponI
+
+https://www.youtube.com/watch?v=scPks2cSHuA
+
+
+=======================================
+
+
 ![[Pasted image 20241205234046.png]]
 https://www.youtube.com/watch?v=7aMrYedEB-g
 

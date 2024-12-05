@@ -1,4 +1,7 @@
 ![[Pasted image 20241205234046.png]]
+https://www.youtube.com/watch?v=7aMrYedEB-g
+
+===================
 
 Perencanaan Skenario (_scenario planning_) merupakan metode untuk menciptakan dan menyusun dua atau lebih skenario yang masuk akal tentang apa yang MUNGKIN dan/atau DAPAT—bukan SEHARUSNYA-- terjadi di masa depan.
 

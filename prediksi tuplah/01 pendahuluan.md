@@ -5,6 +5,8 @@ GLC_FCS30D adalah produk dinamis penutup lahan global pertama dengan resolusi 30
 
 https://zenodo.org/records/8239305
 
+https://essd.copernicus.org/articles/13/2753/2021/
+
 ### 2. Drive factor
 - Jalan
 - pemukiman

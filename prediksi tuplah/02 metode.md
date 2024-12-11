@@ -2,7 +2,7 @@
 
 MOLUSCE (Modules for Land Use Change Evaluation) adalah plugin untuk QGIS yang dirancang untuk menganalisis perubahan penggunaan lahan dan tutupan hutan antara periode waktu yang berbeda, memodelkan potensi transisi penggunaan/tutupan lahan, dan mensimulasikan perubahan penggunaan dan tutupan lahan di masa mendatang. Plugin ini menggabungkan beberapa algoritma yang terkenal, termasuk Jaringan Syaraf Tiruan.
 
-## 1. Cara menyiapkan data input
+### 1. Cara menyiapkan data input
 
 Data masukan yang digunakan oleh plugin:
 Peta penggunaan/penutup lahan awal dan akhir. Ini adalah gambar raster yang nilai pikselnya sesuai dengan kode penggunaan/penutup lahan (misalnya 1=hutan, 2=lahan pertanian, 3=perkotaan, dst.).
@@ -23,25 +23,25 @@ Semua raster input harus memiliki yang sama:
 
 Kami sarankan untuk membuat tabel atribut raster dari simbologi terkini untuk setiap lapisan. Dengan cara ini Anda dapat melihat nama kelas menggunakan alat Identifikasi. Kami juga sarankan untuk menyetel gaya ke nilai Palet/Unik. Setiap kelas akan ditandai pada peta dengan warna tersendiri.
 
-## 2. Memuat data dan pelatihan model
+### 2. Memuat data dan pelatihan model
 
 Plugin memiliki beberapa tab yang digunakan satu demi satu.
 
-### 2.1. Masukan
+#### 2.1. Masukan
 
 Di sebelah kiri terdapat daftar semua lapisan raster dalam proyek. Dari daftar tersebut, pilih peta status awal dan peta status akhir. Kemudian, tambahkan variabel spasial di bagian kanan bawah tab. Tekan **Periksa geometri** . Setelah pemeriksaan geometri berhasil, tab lain akan tersedia.
 
 [![../../_images/molusce_inputs_en.png](https://docs.nextgis.com/_images/molusce_inputs_en.png)](https://docs-nextgis-com.translate.goog/_images/molusce_inputs_en.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=en&_x_tr_pto=wapp)
 Gambar 8.20. Mengunggah data masukan
 
-### 2.2. Mengevaluasi korelasi
+#### 2.2. Mengevaluasi korelasi
 
 Di tab ini, jika perlu, Anda dapat menghitung sejauh mana faktor-faktor pengaruh saling terkait. Jika korelasi antara dua faktor kuat, mungkin cukup untuk menggunakan salah satunya saja. Untuk variabel kontinu, Anda dapat menghitung korelasi Pearson, dan untuk variabel nominal, koefisien Cramer atau JIU (ketidakpastian informasi bersama). Pilih dua faktor dari menu tarik-turun atau centang opsi “Periksa semua raster”.
 
 [![../../_images/molusce_correlation_en.png](https://docs.nextgis.com/_images/molusce_correlation_en.png)](https://docs-nextgis-com.translate.goog/_images/molusce_correlation_en.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=en&_x_tr_pto=wapp)
 Gambar 8.21. Menghitung korelasi
 
-### 2.3. Perubahan wilayah
+#### 2.3. Perubahan wilayah
 
 Pada tab “Perubahan area” tekan **Perbarui tabel** .
 
@@ -52,7 +52,7 @@ Selanjutnya tekan tombol **Buat peta perubahan** dan pilih jalur dan nama untuk 
 [![../../_images/molusce_area_change_en.png](https://docs.nextgis.com/_images/molusce_area_change_en.png)](https://docs-nextgis-com.translate.goog/_images/molusce_area_change_en.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=en&_x_tr_pto=wapp)
 Gambar 8.22. Tabel perubahan luas
 
-### 2.4. Pemodelan potensi transisi
+#### 2.4. Pemodelan potensi transisi
 
 Tersedia empat metode:
 - Jaringan Syaraf Tiruan (JST),
@@ -87,7 +87,7 @@ Gambar 8.24. Kurva pembelajaran yang umum
 
 Setelah melatih model, Anda dapat menyimpan sampel sebagai lapisan terpisah. Ini memungkinkan untuk memeriksa apakah semua jenis transisi telah diambil sampelnya untuk pelatihan.
 
-## 3. Simulasi Automata Seluler
+### 3. Simulasi Automata Seluler
 
 Setelah model dilatih, model tersebut dapat digunakan untuk membuat prakiraan.
 
@@ -100,7 +100,7 @@ Selain peta simulasi penggunaan/penutup lahan, Anda juga dapat membuat:
 [![../../_images/molusce_simulation_en.png](https://docs.nextgis.com/_images/molusce_simulation_en.png)](https://docs-nextgis-com.translate.goog/_images/molusce_simulation_en.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=en&_x_tr_pto=wapp)
 Gambar 8.25. Pengaturan simulasi
 
-## 4. Validasi
+### 4. Validasi
 
 Validasi dapat dilakukan jika Anda memiliki peta referensi dengan data aktual untuk periode tersebut. Pada tab ini Anda juga dapat menghitung kappa.
 
@@ -111,3 +111,26 @@ Peta kesalahan dapat dibuat. Peta ini berisi tiga jenis piksel:
 
 [![../../_images/molusce_validation_en.png](https://docs.nextgis.com/_images/molusce_validation_en.png)](https://docs-nextgis-com.translate.goog/_images/molusce_validation_en.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=en&_x_tr_pto=wapp)
 
+
+## Bahan
+
+Analisa ini menggunakan citra tutupan lahan dan juga data spasial lain sebagai driving factor yang dianggap mempengaruhi perubahan tutupan lahan.
+
+### 1. Citra Tuplah
+GLC_FCS30D adalah produk dinamis penutup lahan global pertama dengan resolusi 30 meter yang mengadopsi deteksi perubahan berkelanjutan. Produk ini menggunakan sistem klasifikasi yang disempurnakan yang berisi 35 kategori penutup lahan dan mencakup rentang waktu dari tahun 1985 hingga 2022. Sebelum tahun 2000, siklus pembaruan dilakukan setiap 5 tahun, sedangkan setelah tahun 2000, produk ini diperbarui setiap tahun. Secara khusus, produk ini dikembangkan dengan menggabungkan metode deteksi perubahan berkelanjutan, model pembaruan adaptif lokal, dan algoritma pengoptimalan spasiotemporal dari citra Landsat deret waktu padat, dan divalidasi untuk mencapai akurasi keseluruhan sebesar 80,88% (±0,27%) untuk sistem klasifikasi dasar (10 jenis penutup lahan utama) dan 73,24% (±0,30%) untuk sistem validasi LCCS level-1 (17 jenis penutup lahan LCCS).
+
+https://zenodo.org/records/8239305
+
+https://essd.copernicus.org/articles/13/2753/2021/
+
+### 2. Drive factor
+- DEM Jalan
+- pemukiman
+- lahan budidaya
+
+Peta Rupabumi Skala 1:50.000 ini merupakan peta digital rupabumi hasil pekerjaan oleh Pusat Pemetaan Rupabumi dan Toponim (PPRT)-Badan Informasi Geospasial. Volume pekerjaan ini meliputi seluruh wilayah Indonesia dan telah di dipublikasikan pada tanggal 27-Nop 2019.  
+  
+[https://tanahair.indonesia.go.id/sdi/dataset/indeks_rbi_50k](https://tanahair.indonesia.go.id/sdi/dataset/indeks_rbi_50k)
+
+### 3. Areal 
+- Provinsi NTB

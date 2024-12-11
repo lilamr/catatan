@@ -2,6 +2,8 @@
 
 MOLUSCE (Modules for Land Use Change Evaluation) adalah plugin untuk QGIS yang dirancang untuk menganalisis perubahan penggunaan lahan dan tutupan hutan antara periode waktu yang berbeda, memodelkan potensi transisi penggunaan/tutupan lahan, dan mensimulasikan perubahan penggunaan dan tutupan lahan di masa mendatang. Plugin ini menggabungkan beberapa algoritma yang terkenal, termasuk Jaringan Syaraf Tiruan.
 
+![[Pasted image 20241211114119.png]]
+
 ### 1. Cara menyiapkan data input
 
 Data masukan yang digunakan oleh plugin:
@@ -114,7 +116,9 @@ Peta kesalahan dapat dibuat. Peta ini berisi tiga jenis piksel:
 
 ## Bahan
 
-Analisa ini menggunakan citra tutupan lahan dan juga data spasial lain sebagai driving factor yang dianggap mempengaruhi perubahan tutupan lahan.
+The data used are land cover, digital elevation model (DEM), settlements, roads, and rivers. Predicting land cover change requires the variables responsible for land cover change. Human activity variables are distance from settlements, rivers, and roads as drivers of land cover change, and the variables of natural factors are elevation and slope as drivers of land cover change.
+
+![[Pasted image 20241211114455.png]]
 
 ### 1. Citra Tuplah
 GLC_FCS30D adalah produk dinamis penutup lahan global pertama dengan resolusi 30 meter yang mengadopsi deteksi perubahan berkelanjutan. Produk ini menggunakan sistem klasifikasi yang disempurnakan yang berisi 35 kategori penutup lahan dan mencakup rentang waktu dari tahun 1985 hingga 2022. Sebelum tahun 2000, siklus pembaruan dilakukan setiap 5 tahun, sedangkan setelah tahun 2000, produk ini diperbarui setiap tahun. Secara khusus, produk ini dikembangkan dengan menggabungkan metode deteksi perubahan berkelanjutan, model pembaruan adaptif lokal, dan algoritma pengoptimalan spasiotemporal dari citra Landsat deret waktu padat, dan divalidasi untuk mencapai akurasi keseluruhan sebesar 80,88% (±0,27%) untuk sistem klasifikasi dasar (10 jenis penutup lahan utama) dan 73,24% (±0,30%) untuk sistem validasi LCCS level-1 (17 jenis penutup lahan LCCS).
@@ -122,6 +126,12 @@ GLC_FCS30D adalah produk dinamis penutup lahan global pertama dengan resolusi 30
 https://zenodo.org/records/8239305
 
 https://essd.copernicus.org/articles/13/2753/2021/
+
+**Jika menggunakan tuplah kementerian LHK: 2006, 2014, 2022 >> 2030.**
+We used land cover from the Indonesian Ministry of Environment and Forestry (MoEF). MoEF uses a visual interpretation method to identify land cover on Landsat imagery. MoEF uses a visual interpretation method to identify land cover on Landsat imagery. We used land cover in 2006, 2014, and 2022. The land cover classifications used were natural forest, shrubs, agriculture, and bare land. The accuracy of MoEF land cover is above 0.90.
+
+![[Pasted image 20241211121310.png]]
+
 
 ### 2. Drive factor
 - DEM Jalan

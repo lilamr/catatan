@@ -7,3 +7,13 @@ Our primary objective is to show how formal knowledge representations can help r
 The Montreal specifications provide relatively clear definitions of biophysical, socioeconomic and framework attributes requiring evaluation. However, design of evaluation procedures that allow interpretation of the Montreal C&I is one of the major technical issues that remain to be resolved. The design of any model that purports to evaluate sustainability with respect to a set of C&I must necessarily incorporate value judgments and other subjective elements, and this is no less an issue for biophysical aspects as it is for socioeconomic ones.
 
 https://www.sciencedirect.com/science/article/abs/pii/S1389934103000418?via%3Dihub
+
+=====================================
+
+4 steps as part of the adaptive management process: 
+1) Define an objective or goal for the management; 
+2) Develop a model for your management strategies - this model maybe only conceptual, but typically is a mathematical model; 
+3) Implement a management option; and 
+4) Evaluate the impact of the management implemented.
+
+Why Take Calculus? Rigor in Wildlife Management. Wildlife Society Bulletin (1973-2006). http://www.jstor.org/stable/3784024

@@ -1,0 +1,1 @@
+[Permen LHK Nomor 8 Tahun 2021](https://peraturan.bpk.go.id/Details/235254/permen-lhk-no-8-tahun-2021) tentang Tata Hutan Dan Penyusunan Rencana Pengelolaan Hutan, Serta Pemanfaatan Hutan Di Hutan Lindung Dan Hutan Produksi

@@ -1,1 +1,3 @@
 [Permen LHK Nomor 8 Tahun 2021](https://peraturan.bpk.go.id/Details/235254/permen-lhk-no-8-tahun-2021) tentang Tata Hutan Dan Penyusunan Rencana Pengelolaan Hutan, Serta Pemanfaatan Hutan Di Hutan Lindung Dan Hutan Produksi
+[P.1-2019 IZIN USAHA IPHH](https://peraturan.bpk.go.id/Details/285475/permen-lhk-no-1-tahun-2019) tentang Izin Usaha Industri Primer Hasil Hutan
+Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor P.13/MENLHK-II/2015 tentang Izin Usaha Industri Primer Hasil Hutan

@@ -1,6 +1,7 @@
 ## Pendahuluan [[asta cita]]
 - Prinsip ekonomi pancasila
 - asta cita
+- metode [[metode]]
 ## Perizinan [[perizinan]]
 - PBPH
 - PS

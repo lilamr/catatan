@@ -1,4 +1,5 @@
 [Permen LHK Nomor 8 Tahun 2021](https://peraturan.bpk.go.id/Details/235254/permen-lhk-no-8-tahun-2021) tentang Tata Hutan Dan Penyusunan Rencana Pengelolaan Hutan, Serta Pemanfaatan Hutan Di Hutan Lindung Dan Hutan Produksi
 [Permen LHK No. 78 Tahun 2019](https://peraturan.bpk.go.id/Details/164073/permen-lhk-no-78-tahun-2019) tentang Penatausahaan Hasil Hutan Kayu Yang Berasal Dari Hutan Negara
+[Permen LHK Nomor 11 Tahun 2022](https://peraturan.bpk.go.id/Details/235418/permen-lhk-no-11-tahun-2022) tentang Profesi Dan Kompetensi Tenaga Teknis Pengelolaan Hutan
 Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor P.70/MENLHK/SETJEN/KUM. I/ 10/2019 tentang Tenaga Teknis Pengelolaan Hutan Produksi Lestari dalam Pengelolaan dan Pemanfaatan Hutan pada Hutan Produksi
 Peraturan Menteri Lingkungan Hidup dan Kehutanan Nomor P.27/MENLHK-SETJEN/2015 tentang Perubahan atas Peraturan Menteri Kehutanan Nomor P.91/MENHUT-II/2014 tentang Penatausahaan Hasil Hutan Bukan Kayu yang Berasal dari Hutan Negara

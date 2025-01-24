@@ -21,4 +21,6 @@ Why Take Calculus? Rigor in Wildlife Management. Wildlife Society Bulletin (1973
 
 ![[Pasted image 20250124081718.png]]
 
+
+![[Pasted image 20250124084103.png]]
 How to decide (Annie Duke)

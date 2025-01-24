@@ -17,3 +17,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S1389934103000418?via%3Dih
 4) Evaluate the impact of the management implemented.
 
 Why Take Calculus? Rigor in Wildlife Management. Wildlife Society Bulletin (1973-2006). http://www.jstor.org/stable/3784024
+
+
+![[Pasted image 20250124081718.png]]
+
+How to decide (Annie Duke)

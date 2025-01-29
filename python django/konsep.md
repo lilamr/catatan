@@ -192,13 +192,13 @@ All enemies share the same blueprint but can have different attributes (e.g., `d
 ---
 
 ### **OOP in Python for Non-Coders: Summary**
-| Concept       | Real-Life Example          | Python Example                          |
-|---------------|----------------------------|-----------------------------------------|
-| **Class**     | Blueprint for a car        | `class Car:`                            |
-| **Object**    | Your specific car          | `my_car = Car("Toyota", "Red")`         |
-| **Attribute** | Color, model, mileage      | `self.color = "Red"`                    |
-| **Method**    | Start engine, honk horn    | `def start_engine(self):`               |
-| **Inheritance| Electric car inherits from car | `class ElectricCar(Car):`          |
+| Concept         | Real-Life Example              | Python Example                  |
+| --------------- | ------------------------------ | ------------------------------- |
+| **Class**       | Blueprint for a car            | `class Car:`                    |
+| **Object**      | Your specific car              | `my_car = Car("Toyota", "Red")` |
+| **Attribute**   | Color, model, mileage          | `self.color = "Red"`            |
+| **Method**      | Start engine, honk horn        | `def start_engine(self):`       |
+| **Inheritance** | Electric car inherits from car | `class ElectricCar(Car):`       |
 
 ---
 

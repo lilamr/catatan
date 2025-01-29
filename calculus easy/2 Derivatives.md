@@ -1,0 +1,12 @@
+ - **Definition**: \( f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h} \).
+   - **Rules**:
+     - **Power Rule**: \( \frac{d}{dx} x^n = nx^{n-1} \).
+     - **Product Rule**: \( (fg)' = f'g + fg' \).
+     - **Quotient Rule**: \( \left(\frac{f}{g}\right)' = \frac{f'g - fg'}{g^2} \).
+     - **Chain Rule**: \( \frac{d}{dx} f(g(x)) = f'(g(x))g'(x) \).
+   - **Examples**:
+     - \( \frac{d}{dx} \sin(x^2) = 2x\cos(x^2) \).
+ - **Applications of Derivatives**
+   - **Tangent Lines**: Use derivatives to find slopes.
+   - **Optimization**: Find maxima/minima by solving \( f'(x) = 0 \).
+   - **Related Rates**: Relate changing quantities using derivatives (e.g., ladder sliding down a wall).

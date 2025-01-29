@@ -2,7 +2,7 @@ There are so many LATEXEditor are freely available. The most common LATEX
 
 editors are TEXMAKER
 
-[[1]](https://www.quora.com/Why-is-it-a-bad-idea-to-use-latex-for-non-technical-documents-like-novels-and-such-Which-software-should-I-use#oEKKx)
+[[calculus easy/daftar isi]](https://www.quora.com/Why-is-it-a-bad-idea-to-use-latex-for-non-technical-documents-like-novels-and-such-Which-software-should-I-use#oEKKx)
 
 , TeXstudio
 
@@ -79,7 +79,7 @@ Thank you.
 
 Footnotes
 
-[[1]](https://www.quora.com/Why-is-it-a-bad-idea-to-use-latex-for-non-technical-documents-like-novels-and-such-Which-software-should-I-use#cite-oEKKx)
+[[calculus easy/daftar isi]](https://www.quora.com/Why-is-it-a-bad-idea-to-use-latex-for-non-technical-documents-like-novels-and-such-Which-software-should-I-use#cite-oEKKx)
 
 [Texmaker (free cross-platform latex editor)](https://xm1math.net/texmaker/download.html)
 

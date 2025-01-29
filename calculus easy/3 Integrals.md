@@ -1,0 +1,6 @@
+   - **Antiderivatives**: Reverse of differentiation. Example: \( \int x^2 dx = \frac{x^3}{3} + C \).
+   - **Fundamental Theorem**: \( \int_a^b f(x)dx = F(b) - F(a) \), where \( F' = f \).
+   - **Substitution**: Let \( u = g(x) \), then \( \int f(g(x))g'(x)dx = \int f(u)du \).
+   - **Applications of Integrals**
+    - **Area Under Curves**: \( \int_a^b f(x)dx \).
+    - **Volume of Revolution**: Use disk/washer methods (e.g., \( \pi \int (f(x))^2 dx \)).

@@ -1,0 +1,5 @@
+   - **Concept**: Understand limits as the value a function approaches as input nears a point.
+   - **Key Skills**:
+     - Evaluate limits using factoring, rationalization, or L’Hôpital’s Rule.
+     - Example: \( \lim_{x \to 1} \frac{x^2 - 1}{x - 1} = 2 \).
+   - **Continuity**: A function is continuous if its limit equals its value at that point.

@@ -1,0 +1,7 @@
+Wilayah pengelolaan KPH Ampang Riwo secara administrasi pemerintahan termasuk dalam wilayah kecamatan Plampang, kecamatan Empang dan kecamatan Tarano, Kabupaten Sumbawa, dan kecamatan Manggelewa, Kabupaten Dompu, Provinsi Nusa Tenggara Barat. KPH Ampang Riwo secara geografis dibatasi oleh Teluk Saleh di bagian Utara, KHP Toffo-Pajo di bagian Timur, Samudra Hindia pada bagian Selatan dan KPH Empang pada bagian Barat.
+
+Berdasarkan administrasi kehutanan wilayah KPH Ampang Riwo, terdiri dari 3 kelompok hutan yang meliputi kelompok hutan Ampang Kampaja RTK 70, kelompok hutan Riwo RTK 43, dan kelompok hutan Rai Rakit Kwangko RTK 80 dengan luas 46.220,55 Ha terdiri dari hutan lindung seluas 23.170,05 Ha dan hutan produksi seluas 23.050,50 Ha. Kawasan hutan tersebut merupakan wilayah pengelolaan Dinas Kehutanan dan Perkebunan Kabupaten Sumbawa dan Dinas Kehutanan Kabupaten Dompu.
+
+![[Pasted image 20250205100949.png]]
+
+Berdasarkan komposisi luas wilayah kelola KPH Ampang Riwo diketahui bahwa mempunyai komposisi luas yang relatif seimbang yaitu hutan produksi sebesar 49,87% dan hutan lindung sebesar 50,13%. Sesuai dengan Peraturan Pemerintah Nomor 6 Tahun 2007, maka KPH Ampang Riwo termasuk dalam katagori Kesatuan Pengelolaan Hutan Produksi (KPHL). Konsekuensi dari penetapan sebagai wilayah sebagai KPHP adalah pengelolaan akan lebih mengarah pada pemanfaatan untuk produksi hasil hutan bukan kayu, jasa lingkungan serta konservasi tanah dan air.

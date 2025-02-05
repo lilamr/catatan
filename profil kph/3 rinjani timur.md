@@ -1,0 +1,7 @@
+Wilayah kelola KPH Rinjani Timur yang direncanakan, secara administrasi terletak pada kecamatan Sambelia dan Jerowaru, Kabupaten Lombok Timur, Provinsi Nusa Tenggara Barat. Berdasarkan letak geografis berada pada bagian Utara dan Selatan Timur Pulau Lombok, yang berbatasan dengan pemukiman penduduk, Taman Nasional dan Hutan Lindung.
+
+Berdasarkan administrasi kehutanan kawasan KPH Rinjani Timur terdiri dari 7 kelompok hutan meliputi Kelompok Hutan Rinjani (RTK. 1), Sekaroh (RTK 15), Petandakan (RTK 9), Kedatu (RTK 10), Rebanbela (RTK 11) dan Gong (RTK 8), serta Kelompok Hutan Gili Lawang, Gili Sulat dan Gili Petagan (RTK 14) dengan luas 37.063,67 Ha terdiri dari hutan produksi 5.565,00 Ha dan hutan lindung 31.498,67 Ha yang merupakan wilayah pengelolaan Dinas Kehutanan dan Perkebunan Kabupaten Lombok Timur. Luas KPH Rinjani Timur dapat diperiksa pada Tabel 22 di bawah ini.
+
+![[Pasted image 20250205094335.png]]
+
+KPH Rinjani Timur sangat didominasi oleh kawasan hutan Lindung seluas 31.498,67 Ha (84,99%) sedangkan kawasan hutan dengan fungsi sebagai hutan produksi hanya mencapai 5.565,00 Ha (15,01%) sehingga sesuai dengan Peraturan Pemerintah Nomor 6 Tahun 2007, KPH Rinjani Timur merupakan KPHL. Pengelolaan hutan yang sudah dilakukan antara lain Hutan Kemasyarakatan, reboisasi dengan tumpang sari, agroforestry, rehabilitasi mangrove, rehabilitasi model CDM (_clean development mechanism_) dan lain-lain yang merupakan hasil kerjasama antara Departemen Kehutanan, Pemerintah Provinsi Nusa Tenggara Barat dengan Jepang (JICA, JIFPRO, OECF, dan lain-lain).

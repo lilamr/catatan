@@ -1,0 +1,1 @@
+Demikian proposal ini disusun sebagai salah satunya persyaratan teknis Perizinan Berusaha Pemanfaatan Hutan pada Hutan Lindung dan Hutan Produksi.

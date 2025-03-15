@@ -4,3 +4,5 @@
 30. Outputting a variable value to a Django template
 31. Python build In functions
 32. Using the Print built in function as a Django diagnostic tool
+
+[[variable]]

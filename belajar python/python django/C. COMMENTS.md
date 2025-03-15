@@ -4,3 +4,5 @@
 24. PEP8 Python comment compliance
 25. Introducing the Docstring comment
 26. Activating the Django admin documentation generator
+
+[[comment]]

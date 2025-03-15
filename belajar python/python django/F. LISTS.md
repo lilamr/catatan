@@ -8,3 +8,5 @@
 47. Understanding the Django QuerySet
 48. Returning all data from a database table
 49. QuerySet Slicing
+
+[[collection data type]]

@@ -1,0 +1,1 @@
+“It isn’t always obvious what a piece of code is doing, or what still needs to be done with it. If you need to break out of the computer language and have some real talk about what’s going on in the code (or just drop some dope lyrics), you can use a comment, or a line of code that the computer will ignore.” (Lyman, p. 38)

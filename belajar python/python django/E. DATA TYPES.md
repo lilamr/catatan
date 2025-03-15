@@ -5,3 +5,5 @@
 37. Updating changes to the database schema
 38. Creating a new Django admin user
 39. Adding data to a model within the Django admin site
+
+[[atomic data type]]

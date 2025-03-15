@@ -1,0 +1,5 @@
+“We often have a need to interact with users, either to get data or to provide some sort of result.” (Miller and Ranum, p. 19)
+“Python provides us with a function that allows us to ask a user to enter some data and returns a reference to the data in the form of a string. The function is called input.” (Miller and Ranum, p. 19)
+“Python’s input function takes a single parameter that is a string.” (Miller and Ranum, p. 19)
+“the value returned from the input function will be a string” (Miller and Ranum, p. 20)
+“the user types after the prompt will be stored in the user_name variable.” (Miller and Ranum, p. 20)

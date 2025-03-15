@@ -1,5 +1,7 @@
 Certainly! Here's a clear, beginner-friendly breakdown of Python's core concepts:
 
+[[dasar python]]
+
 ---
 
 ### **Why Python?**

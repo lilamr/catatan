@@ -1,0 +1,8 @@
+[[untuk siapa]]
+[[dasar pemrograman]]
+[[dasar python]]
+[[data structure and algorithms]]
+[[clean code]]
+[[error message]]
+[[belajar lanjut]]
+[[belajar python/python django/0 daftar isi|0 daftar isi]]

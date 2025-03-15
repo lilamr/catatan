@@ -14,3 +14,20 @@
 “a data type also provides a description of the operations that the data items can participate in.” (Miller and Ranum, p. 6)
 “These simple, language-provided constructs and data types, although certainly sufficient to represent complex solutions, are typically at a disadvantage as we work through the problem-solving process.” (Miller and Ranum, p. 6)
 
+“Code is a set of step-by-step instructions, like a recipe. It tells computers what to do with data. Data is any piece of information that a computer can hold in its memory.” (Lyman, p. 22)
+
+“In modern software, real-world problems become puzzles that can be solved by code—but only after you truly understand them. Once you wrap your mind around every possible permutation of a problem, you can write code that addresses it thoroughly, step by step.” (Lyman, p. 23)
+
+“The best coders understand problems in terms of an algorithm—a series of steps that can be used to do a certain thing” (Lyman, p. 24)
+“every algorithm that can possibly exist can be written in every normal programming language. It’s a mathematical fact21. Once you learn to think in algorithms, the programming language is secondary.” (Lyman, p. 24)
+“in the end it’s not about the keywords and symbols you’re using. It’s about the processes you’re describing.” (Lyman, p. 24)
+
+“The last and most important thing I can teach you is this: when you don’t know how to do something, immediately go to google.com and ask.” (Lyman, p. 39)
+“all you need to become an expert in any programming language is a steady internet connection and the ability to read. Good Google queries take a little bit of practice to write.” (Lyman, p. 39)
+
+“Most large-scale apps use all the concepts and keywords I’ve described. Their code comprises thousands upon thousands of lines of code, all built from these same basic elements.” (Lyman, p. 39)
+“On a basic level, they’re receiving inputs (data that enters the code from somewhere else, like a user’s keyboard), transforming them (often by iterating over them, doing maths on them, or reorganizing” (Lyman, p. 39)
+“their properties), and providing outputs (data that leaves the code). Every computer program can be described in terms of its inputs and outputs. Every programming language has methods in its API for accepting inputs and providing outputs.” (Lyman, p. 40)
+
+“I’ve taught you enough programming basics that, with a little imagination and plenty of Googling, you can teach yourself everything you need to know to write apps.” (Lyman, p. 40)
+“go build something. There’s no substitute for getting your hands dirty.” (Lyman, p. 40)

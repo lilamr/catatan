@@ -1,5 +1,7 @@
 “Good code doesn’t just work. It’s simple, modular, testable, maintainable, thoughtful.” (Lyman, p. 41)
 
+“A good question to ask yourself when writing code is: will this be easy to delete when we don’t need it any more? If it’s deeply nested, copied-and-pasted all over the place, dependent on various levels of state and lines of code throughout the program, and otherwise confusing, people will be unable to understand its purpose and impact and they’ll be uncomfortable deleting it. But if it’s immediately clear how it’s used and what other code it interacts with, people will be able to delete it confidently when its usefulness runs out.” (Lyman, p. 50)
+
 **Naming things**
 “An important part of this is well-named variables, classes, files, and methods. When naming something, it’s far more important to be descriptive than brief” (Lyman, p. 42)
 “It’s useful to be able to know what something is immediately, right when you look at it, even if you haven’t read the rest of the file or project.” (Lyman, p. 42)
@@ -36,3 +38,15 @@
 “If you do this consistently, you’ll sometimes find that part of a method is completely independent from the code above and beneath it. This is a good opportunity to extract it into its own method. Even if that method is only used once, it will be valuable as a way to enclose all the parts of an operation in an easily understandable, well-named block.” (Lyman, p. 47)
 
 **Deep nesting (is bad)**
+“Count the pairs of { curly braces }. Six, five of which are nested. That’s too many. This block of code is hard to read” (Lyman, p. 48)
+“This is a bad idea because if something goes wrong, we have no way of knowing.” (Lyman, p. 48)
+“We can clearly see the “normal path” for the code to follow, and only in abnormal situations does the code stray off into an if block. Debugging is much simpler. And if we want to add extra code to handle error conditions, it will be easy to add a couple of lines” (Lyman, p. 49)
+
+**Pure functions**
+“A pure function (or functional method) is a function that does not alter or use external data (it’s stateless). In other words, for a given input, it will always provide exactly the same output, no matter what has changed outside of it, and all your other variables will be completely unaffected by what happens inside of it. All pure functions have at least one argument and return at least one value.” (Lyman, p. 49)
+“If you want to debug the function, everything you need is right there in three lines of code. You can paste it into a separate environment” (Lyman, p. 49)
+“Not all methods can be pure; if your application didn’t have state, its usefulness would be limited. But you should write pure functions often. This will make your program easy to maintain and scale.” (Lyman, p. 49)
+
+**Automated tests**
+“An automated test is a piece of code that executes another piece of code and checks the results to make sure it’s working.” (Lyman, p. 50)
+“Every major programming language has tools and libraries to help you write these tests. Some are called unit tests, which test a small, self-contained piece of code (like a class or method), and others are integration tests, which test the way different pieces of code interact.” (Lyman, p. 50)

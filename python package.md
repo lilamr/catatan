@@ -1,5 +1,3 @@
-Panduan membuat python package
-
 Creating your own Python package is a great way to organize and share your code! Here’s a **step-by-step guide** to creating, packaging, and publishing your own Python package. 🚀
 
 ---
